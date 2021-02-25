@@ -1,0 +1,166 @@
+{
+    "authors": ["Alexandre François"],
+    "language": {
+        "name": "Teanu",
+        "glottocode": "tean1237",
+        "isocode": "tkw"
+    },
+    "date_published": "2020",
+    "number": 19,
+    "doi": null,
+    "properties": {
+        "title": "A dictionary of Teanu (Vanikoro, Solomon islands)",
+        "media_lookup": ["Mwotlap"],
+        "entry_sep": "\\lx",
+        "marker_map": {
+            "de": "gxx",
+            "dn": "de",
+            "img": "pc",
+            "pc": "dnu",
+            "rm": "rf",
+            "wav": "sf",
+            "xb": "xv",
+            "xe": "xo",
+            "xm": "xv",
+            "xn": "xe"
+        },
+        "flexref_map": {
+            "ClPos": "possessive_classifier",
+            "Contr.": "contracted_to",
+            "Enc.": "see_infobox",
+            "Expl.": "explanation",
+            "Pl.": "plural_form",
+            "Sg.": "singular_form",
+            "Tab.": "see_lex_list_at"
+        },
+        "entry_map": {
+            "1s": "1st_Person_SG",
+            "3s": "3rd_Person_SG",
+            "gn": "Gloss",
+            "ge": "Gloss_French",
+            "gr": "Gloss_Bislama",
+            "heterosemes": "Heterosemes",
+            "lvn": "Lovono_Equivalent",
+            "mr": "Morphology",
+            "pdv": "Paradigm_Form",
+            "ph": "Phonetic_Form",
+            "pl": "Plural_Form",
+            "rd": "Reduplication_Form",
+            "tg": "Orthographic_Variant",
+            "tnm": "Tanema_Equivalent",
+            "vn": "Variant_Comment"
+        },
+        "entry_custom_order": [
+            "Phonetic_Form",
+            "Orthographic_Variant",
+            "Variant_Form",
+            "Variant_Comment",
+            "Etymology",
+            "Tanema_Equivalent",
+            "Lovono_Equivalent",
+            "Morphology",
+            "Reduplication_Form",
+            "Paradigm_Form",
+            "Plural_Form",
+            "1st_Person_SG",
+            "3rd_Person_SG"
+        ],
+        "sense_map": {
+            "bb": "Bibliographical_Reference",
+            "con": "Contenu_Tableau",
+            "cona": "Infobox",
+            "conf": "Infobox_French",
+            "conv": "Infobox_Teanu",
+            "contracted_to": "Contracted_To",
+            "ec": "Etymology_Comment",
+            "en": "Encyclopedic_Info",
+            "enc": "Info_Box_Type",
+            "enc_thing": "See_Infobox",
+            "es": "Etymology_Source",
+            "et": "ProtoForm",
+            "explanation": "Explanation",
+            "gxx": "alt_translation1",
+            "hn": "Sense_Comment",
+            "ll": "Literally",
+            "ln": "Lexical_Function_Gloss",
+            "possessive_classifier": "Possessive_Classifier",
+            "plural_form": "Plural_Form",
+            "rd": "Reduplication_Form",
+            "singular_form": "Singular_Form",
+            "so": "Source",
+            "see_lex_list_at": "See_Lexical_List",
+            "url": "Link",
+            "uv": "Typical_Subject",
+            "wn": "Syntactic_Restriction"
+        },
+        "sense_custom_order": [
+
+            "Literally",
+            "Scientific_Name",
+
+            "Singular_Form",
+            "Plural_Form",
+            "Lexical_Function_Gloss",
+            "Reduplication_Form",
+            "Syntactic_Restriction",
+            "Typical_Subject",
+
+            "See_Lexical_List",
+
+            "Sense_Comment",
+
+            "ProtoForm",
+            "Etymology_Source",
+            "Etymology_Comment",
+
+            "Encyclopedic_Info",
+
+            "Info_Box_Type",
+            "Infobox",
+            "Infobox_French",
+            "Infobox_Teanu",
+            "See_Infobox",
+
+            "Contenu_Tableau",
+
+            "Contracted_To",
+            "Explanation",
+            "Possessive_Classifier",
+
+            "Bibliographical_Reference",
+            "Link"
+
+        ],
+        "example_map": {
+            "urlx": "Example_URL",
+            "zn": "Example_Comment_English"
+        },
+        "media_caption_marker": "lg",
+        "metalanguages": {
+            "gxx": "French"
+        },
+        "labels": {
+            "1s": "1st Person Singular",
+            "3s": "3rd Person Singular",
+            "conv": "Infobox (Teanu)",
+            "conf": "Infobox (French)",
+            "en": "Encyclopedic Info",
+            "et": "Proto-Form",
+            "ge": "Gloss (French)",
+            "gr": "Gloss (Bislama)",
+            "ll": "Literally",
+            "lt": "Literally (French)",
+            "rd": "Reduplication Form(s)",
+            "zn": "Example Comment"
+        },
+        "custom_fields": ["French"],
+        "second_tab": [],
+        "link_regex": "(?<=\\|(fv|vl)\\{)[^}]+(?=\\})",
+        "link_label_marker": "link_label",
+        "cross_references": ["heterosemes"],
+        "process_links_in_markers": [
+            "con", "cona", "conv", "de", "ec", "en", "gxx", "mr", "ta", "uv",
+            "wn", "zn"
+        ]
+    }
+}
