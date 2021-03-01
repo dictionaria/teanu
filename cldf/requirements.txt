@@ -24,7 +24,7 @@ pycdstar==1.0.1
 pycldf==1.18.0
 pyconcepticon==2.7.0
 pycountry==20.7.3
--e git+git@github.com:dictionaria/pydictionaria@a30ad0352fbae0378ae9b8a0c67727947fea9530#egg=pydictionaria
+-e git+git@github.com:dictionaria/pydictionaria@56701517ab43102a1c7d6fb9b50644948816bdb1#egg=pydictionaria
 pyglottolog==3.3.0
 pytest==6.2.2
 requests==2.22.0
