@@ -10,11 +10,13 @@
     "dc:identifier": "https://dictionaria.clld.org/contributions/teanu",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "A dictionary of Teanu (Vanikoro, Solomon islands)",
+    "dcat:accessURL": "git@github.com:dictionaria/teanu",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "dc:created": "0862362"
+            "rdf:about": "git@github.com:dictionaria/teanu",
+            "dc:created": "dae15eb"
         },
         {
             "rdf:type": "prov:Entity",
@@ -41,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 1793,
+            "dc:extent": 1855,
             "tableSchema": {
                 "columns": [
                     {
@@ -142,20 +144,12 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Plural_Form"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Reduplication_Form",
                         "titles": "Reduplication Form(s)"
                     },
                     {
                         "datatype": "string",
                         "name": "Tanema_Equivalent"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Variant_Comment"
                     },
                     {
                         "datatype": "string",
@@ -228,7 +222,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 2629,
+            "dc:extent": 2754,
             "tableSchema": {
                 "columns": [
                     {
@@ -491,7 +485,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2989,
+            "dc:extent": 3197,
             "tableSchema": {
                 "columns": [
                     {
@@ -612,7 +606,7 @@
             "url": "examples.csv"
         },
         {
-            "dc:extent": 108,
+            "dc:extent": 109,
             "tableSchema": {
                 "columns": [
                     {
