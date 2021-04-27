@@ -8,7 +8,7 @@
     "doi": null,
     "properties": {
         "title": "A dictionary of Teanu (Vanikoro, Solomon islands)",
-        "media_lookup": ["Mwotlap"],
+        "media_lookup": ["Mwotlap", "teanu"],
         "entry_sep": "\\lx",
         "marker_map": {
             "de": "gxx",
