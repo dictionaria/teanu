@@ -9,8 +9,8 @@ The language receives its name from [_Teanu_](../units/teanu-Teanu_1), the islan
 
 <table class="unstyled" style="width: 75%; max-width:500px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
-<td><a href="http://alex.francois.online.fr/img/AlexF_Solomons-map-situation-Vanikoro_s.png" target="_blank">
-<img src="http://alex.francois.online.fr/img/AlexF_Solomons-map-situation-Vanikoro_s.png" alt="Pacific map" title="Pacific map" border="1"></a></td>
+<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" target="_blank">
+<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" alt="Pacific map" title="Pacific map" border="1"></a></td>
 </tr>
 <tr style="font-style:italic;">
 <td>Fig.&nbsp;1 - Location of Vanikoro in eastern&nbsp;Solomons (South&nbsp;Pacific).</td>
@@ -84,8 +84,8 @@ Besides its indigenous Melanesian population, the island of Vanikoro is also hom
 
 <table class="unstyled" style="width: 75%; max-width:500px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
-<td><a href="http://alex.francois.online.fr/img/Wikipedia_Temotu-languages_s.png" target="_blank">
-<img src="http://alex.francois.online.fr/img/Wikipedia_Temotu-languages_s.png" alt="Temotu map" title="Temotu map" border="1"></a></td>
+<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" target="_blank">
+<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" alt="Temotu map" title="Temotu map" border="1"></a></td>
 </tr>
 <tr style="font-style:italic;">
 <td>Fig.&nbsp;2 - The languages of Temotu province (eastern&nbsp;Solomons). The two languages Vaeakau-Taumako and Tikopia (east of the map) are Polynesian; all other languages, including those of Vanikoro, belong to the “Temotu” subgroup of Oceanic.</td>
