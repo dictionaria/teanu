@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/teanu",
-            "dc:created": "dae15eb"
+            "dc:created": "272e121"
         },
         {
             "rdf:type": "prov:Entity",
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 1855,
+            "dc:extent": 1857,
             "tableSchema": {
                 "columns": [
                     {
@@ -109,11 +109,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Gloss_French",
-                        "titles": "Gloss (French)"
-                    },
-                    {
-                        "datatype": "string",
                         "separator": " ; ",
                         "name": "Heterosemes"
                     },
@@ -141,6 +136,10 @@
                     {
                         "datatype": "string",
                         "name": "Phonetic_Form"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Plural_Form"
                     },
                     {
                         "datatype": "string",
@@ -222,7 +221,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 2754,
+            "dc:extent": 2757,
             "tableSchema": {
                 "columns": [
                     {
@@ -257,30 +256,12 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Contenu_Tableau"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": " ; ",
-                        "name": "Contracted_To"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Encyclopedic_Info",
                         "titles": "Encyclopedic Info"
                     },
                     {
                         "datatype": "string",
-                        "name": "Etymology_Comment"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Etymology_Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": " ; ",
-                        "name": "Explanation"
                     },
                     {
                         "datatype": "string",
@@ -311,22 +292,7 @@
                     },
                     {
                         "datatype": "string",
-                        "separator": " ; ",
-                        "name": "Plural_Form"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": " ; ",
-                        "name": "Possessive_Classifier"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Scientific_Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": " ; ",
-                        "name": "See_Lexical_List"
                     },
                     {
                         "datatype": "string",
@@ -335,11 +301,6 @@
                     {
                         "datatype": "string",
                         "name": "Sense_Comment"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": " ; ",
-                        "name": "Singular_Form"
                     },
                     {
                         "datatype": "string",
@@ -359,10 +320,6 @@
                     {
                         "datatype": "string",
                         "name": "Typical_Subject"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "alt_translation1"
                     }
                 ],
                 "foreignKeys": [
@@ -390,76 +347,10 @@
                     },
                     {
                         "columnReference": [
-                            "Contracted_To"
-                        ],
-                        "reference": {
-                            "resource": "entries.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Explanation"
-                        ],
-                        "reference": {
-                            "resource": "entries.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
                             "Media_IDs"
                         ],
                         "reference": {
                             "resource": "media.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Plural_Form"
-                        ],
-                        "reference": {
-                            "resource": "entries.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Possessive_Classifier"
-                        ],
-                        "reference": {
-                            "resource": "entries.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "See_Lexical_List"
-                        ],
-                        "reference": {
-                            "resource": "entries.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Singular_Form"
-                        ],
-                        "reference": {
-                            "resource": "entries.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -485,7 +376,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 3197,
+            "dc:extent": 3203,
             "tableSchema": {
                 "columns": [
                     {
