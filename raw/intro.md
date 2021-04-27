@@ -26,7 +26,7 @@ During my fieldwork trips in Vanikoro, I collected linguistic data on those thre
 
 Teanu, Lovono and Tanema, the three indigenous languages of Vanikoro, are all **Oceanic**: they thus belong to the vast Austronesian family that covers most islands in the Pacific. Within the Oceanic family (≈500 languages), Vanikoro languages belong to “Temotu” – a smaller subgroup with about ten languages, located in the province of the same name (cf. Glottolog: [_tean1237_](https://glottolog.org/resource/languoid/id/tean1237)).
 
-It is likely that Proto-Vanikoro, the ancestors of the three Vanikoro languages, developed _in situ_ following the initial settlement of the region by “Lapita” navigators, about 3200 years ago.
+It is likely that Proto-Vanikoro, the ancestor of the three Vanikoro languages, developed _in situ_ following the initial settlement of the region by “Lapita” navigators, about 3200 years ago.
 
 The three languages of Vanikoro clearly share a family resemblance, due to their common ancestry. And yet, what is most striking is the degree of dissimilarity they acquired during the three millennia of human settlement. Whether this is due to tribal isolation, or to processes of spontaneous differentiation, the three languages have long lost mutual intelligibility. (This is the object of a specific study: François 2009.)
 
@@ -94,7 +94,7 @@ Besides its indigenous Melanesian population, the island of Vanikoro is also hom
 
 &nbsp;
 
-Vanikoro people always had contact, trade exchanges and intermarriage, with the nearby island of Utupua; and to a lesser extent, with other island of the Temotu region: Santa Cruz, the Reefs – as well as Polynesian communities from Tikopia and Vaeakau-Taumako. This contact with Polynesian languages manifests itself in Teanu through many borrowings: 58 exactly (=4&nbsp; percent of the Teanu lexicon).
+Vanikoro people always had contact, trade exchanges and intermarriage, with the nearby island of Utupua; and to a lesser extent, with other islands of the Temotu region: Nendö, the Reefs – as well as Polynesian communities from Tikopia and Vaeakau-Taumako. This contact with Polynesian languages manifests itself in Teanu through many borrowings: 58 exactly (=4&nbsp; percent of the Teanu lexicon).
 
 Contact with other islands of the Temotu region has left much fewer linguistic traces, at least none that are obvious in the present state of knowledge.
 
@@ -115,7 +115,7 @@ That said, the myth of the “[_Tamate_](../units/teanu-tamate_1)” spirits tel
 
 Finally, current generations are also experiencing modern life, particularly in the towns of Lata and in the capital Honiara. In urban contexts, the pressure is high to replace indigenous languages such as Teanu with the country's national language **Solomon Islands Pijin** – an English-based creole that emerged during colonial times. All speakers of Teanu are bilingual in Pijin, and some loanwords from English actually enter Teanu through Pijin.
 
-All in all, about 6% of the Teanu lexicon consists of identifiable **borrowings**: 58 words borrowed from Polynesian, 18 from Solomons Pijin or English, 5 words from Mota in Vanuatu. As for the native lexicon, it proves quite original among other Oceanic languages: only 11.1% of entries can be traced back to Proto-Oceanic roots, while 82% of the lexicon has unclear origins. These innovative words probably result from three millennia of language-internal renewal of the lexicon – perhaps encouraged by a trend towards lexical differentiation. In particular, the vocabulary of Vanikoro languages shows extreme dissimilarities with other languages of the area (whether Utupua, Santa Cruz or Reef islands), even though they supposedly belong to the same “Temotu” subgroup of Oceanic. (Whether that “Temotu” subgroup is effectively warranted, is a matter for further historical research.)
+All in all, about 6% of the Teanu lexicon consists of identifiable **borrowings**: 58 words borrowed from Polynesian, 18 from Solomons Pijin or English, 5 words from Mota in Vanuatu. As for the native lexicon, it proves quite original among other Oceanic languages: only 11.1% of entries can be traced back to Proto-Oceanic roots, while 82% of the lexicon has unclear origins. These innovative words probably result from three millennia of language-internal renewal of the lexicon – perhaps encouraged by a trend towards lexical differentiation. In particular, the vocabulary of Vanikoro languages shows extreme dissimilarities with other languages of the area (whether Utupua, Nendö or the Reefs), even though they supposedly belong to the same “Temotu” subgroup of Oceanic. (Whether that “Temotu” subgroup is effectively warranted, is a matter for further historical research.)
 
 
 ## Methodology and data sources
@@ -135,12 +135,12 @@ My methodology in the field combined language learning, targeted elicitation, an
 
 This bilingual Teanu dictionary is based on my corpus of texts, conversations, elicited data, and immersive fieldwork.
 
-It contains a total of [?? number entries] entries, illustrated by 3,880 example sentences.
+It contains a total of 1855 entries, illustrated by 3,200 example sentences.
 
 While the present _Dictionaria_ edition includes all my lexical data, interested readers can find the same data under a different presentation, on [_tiny.cc/Vanikoro-dict_](https://tiny.cc/Vanikoro-dict).
 
 ### Special features
-The present dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry <a href="../units/Teanu-ngiro_1" target="_blank"><b><i>ngiro</i></b></a> ‘wind’ has examples linking to original texts, such as [doi:Pangloss-0003352#S106](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:Pangloss-0003351#S16](https://doi.org/10.24397/pangloss-0003351#S16).
+The present dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry <a href="../units/teanu-ngiro_1" target="_blank"><b><i>ngiro</i></b></a> ‘wind’ has examples linking to original texts, such as [doi:Pangloss-0003352#S106](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:Pangloss-0003351#S16](https://doi.org/10.24397/pangloss-0003351#S16).
 
 The present work pays attention not just to language and grammar, but also to **culture and society**. Many entries come with photographs, as well as encyclopedic notes: see, for example, entries [_tolosai_](../units/teanu-tolosai_1) 'loincloth', [_savene_](../units/teanu-savene_1) 'valuable mat', [_nuduro_](../units/teanu-nuduro_2) 'scareline', [_mamdeuko_](../units/teanu-mamdeuko_1) 'Cardinal honeyeater'…
 
@@ -239,8 +239,8 @@ _Table 1 – Semantic fields used in this dictionary_
       (except birds, fish, insects)</p></td>
   </tr>
 </table>
-&nbsp;
 
+&nbsp;
 
 ## Basics of the grammar
 
@@ -251,10 +251,12 @@ An overview of the grammar of Teanu can be found in Tryon (2002) and in Françoi
 All forms in this dictionary are transcribed in the language's orthography, accompanied by their phonetic transcription. Teanu's alphabetical order is:
 <div style="text-align:center;">{ <strong>a &nbsp; b &nbsp; bw &nbsp; d &nbsp; e &nbsp; g &nbsp; i &nbsp; j &nbsp; k &nbsp; l &nbsp; m &nbsp; mw &nbsp; n &nbsp; ng &nbsp; ñ &nbsp; o &nbsp; p &nbsp; pw &nbsp; r &nbsp; s &nbsp; t &nbsp; u &nbsp; v &nbsp; w</strong> }.</div>
 
+&nbsp;
+
 Each of these letters or digraphs corresponds to one phoneme in the language.
 
 ### Phonology
-Teanu has 18 phonemic consonants. Table 2 lists the phonemes themselves (using IPA); and in brackets, the orthographic symbol. For example, letter &lt;j&gt; in the orthography encodes the prenasalized palatal stop /ᶮɟ/ .
+Teanu has 18 phonemic consonants. Table 2 lists the phonemes themselves (using IPA); and in brackets, the orthographic symbol. For example, letter ‹j› in the orthography encodes the prenasalized palatal stop /ᶮɟ/ .
 
 _Table 2 – The 18 phonemic consonants of Teanu_
 
@@ -262,54 +264,61 @@ _Table 2 – The 18 phonemic consonants of Teanu_
 <tbody style="white-space:nowrap;">
 <tr>
 <th></th>
-<th style="text-align:center">Labio-velarized</th>
+<th style="text-align:center">Labio-<br/>velarized</th>
 <th style="text-align:center">Bilabial</th>
+<th style="text-align:center">Labio-<br/>dental</th>
 <th style="text-align:center">Alveolar</th>
 <th style="text-align:center">Palatal</th>
 <th style="text-align:center">Velar</th>
 </tr>
 <tr>
 <th>Voiceless stop</th>
-<td style="text-align:right" width="80"><b>pʷ</b>&nbsp;&nbsp; &lt;pw&gt;</td>
-<td style="text-align:right" width="80"><b>p</b>&nbsp;&nbsp; &lt;p&gt;</td>
-<td style="text-align:right" width="80"><b>t</b>&nbsp;&nbsp; &lt;t&gt;</td>
+<td style="text-align:right" width="80"><b>pʷ</b>&nbsp;&nbsp; ‹pw›</td>
+<td style="text-align:right" width="80"><b>p</b>&nbsp;&nbsp; ‹p›</td>
 <td width="80">&nbsp;&nbsp; </td>
-<td style="text-align:right" width="80"><b>k</b>&nbsp;&nbsp; &lt;k&gt;</td>
+<td style="text-align:right" width="80"><b>t</b>&nbsp;&nbsp; ‹t›</td>
+<td width="80">&nbsp;&nbsp; </td>
+<td style="text-align:right" width="80"><b>k</b>&nbsp;&nbsp; ‹k›</td>
 </tr>
 <tr>
 <th>Prenasalized stop</th>
-<td style="text-align:right" width="80"><b>ᵐbʷ</b>&nbsp;&nbsp; &lt;bw&gt;</td>
-<td style="text-align:right"><b>ᵐb</b>&nbsp;&nbsp; &lt;b&gt;</td>
-<td style="text-align:right"><b>ⁿd</b>&nbsp;&nbsp; &lt;d&gt;</td>
-<td style="text-align:right"><b>ᶮɟ</b>&nbsp;&nbsp; &lt;j&gt;</td>
-<td style="text-align:right"><b>ᵑg</b>&nbsp;&nbsp; &lt;g&gt;</td>
+<td style="text-align:right" width="80"><b>ᵐbʷ</b>&nbsp;&nbsp; ‹bw›</td>
+<td style="text-align:right"><b>ᵐb</b>&nbsp;&nbsp; ‹b›</td>
+<td>&nbsp;&nbsp; </td>
+<td style="text-align:right"><b>ⁿd</b>&nbsp;&nbsp; ‹d›</td>
+<td style="text-align:right"><b>ᶮɟ</b>&nbsp;&nbsp; ‹j›</td>
+<td style="text-align:right"><b>ᵑg</b>&nbsp;&nbsp; ‹g›</td>
 </tr>
 <tr>
 <th>Fricative</th>
 <td>&nbsp;&nbsp; </td>
-<td style="text-align:right"><b>v</b>&nbsp;[v,f]&nbsp;&nbsp; &lt;v&gt;</td>
-<td style="text-align:right"><b>s</b>&nbsp;&nbsp; &lt;s&gt;</td>
+<td>&nbsp;&nbsp; </td>
+<td style="text-align:right"><b>v</b>&nbsp;[v,f]&nbsp;&nbsp; ‹v›</td>
+<td style="text-align:right"><b>s</b>&nbsp;&nbsp; ‹s›</td>
 <td>&nbsp;&nbsp; </td>
 </tr>
 <tr>
 <th>Nasal</th>
-<td style="text-align:right"><b>mʷ</b>&nbsp;&nbsp; &lt;mw&gt;</td>
-<td style="text-align:right"><b>m</b>&nbsp;&nbsp; &lt;m&gt;</td>
-<td style="text-align:right"><b>n</b>&nbsp;&nbsp; &lt;n&gt;</td>
-<td style="text-align:right"><b>ɲ</b>&nbsp;&nbsp; &lt;ñ&gt;</td>
-<td style="text-align:right"><b>ŋ</b>&nbsp;&nbsp; &lt;ng&gt;</td>
+<td style="text-align:right"><b>mʷ</b>&nbsp;&nbsp; ‹mw›</td>
+<td style="text-align:right"><b>m</b>&nbsp;&nbsp; ‹m›</td>
+<td>&nbsp;&nbsp; </td>
+<td style="text-align:right"><b>n</b>&nbsp;&nbsp; ‹n›</td>
+<td style="text-align:right"><b>ɲ</b>&nbsp;&nbsp; ‹ñ›</td>
+<td style="text-align:right"><b>ŋ</b>&nbsp;&nbsp; ‹ng›</td>
 </tr>
 <tr>
 <th>Lateral</th>
 <td>&nbsp;&nbsp; </td>
 <td>&nbsp;&nbsp; </td>
-<td style="text-align:right"><b>l</b>&nbsp;&nbsp; &lt;l&gt;</td>
+<td>&nbsp;&nbsp; </td>
+<td style="text-align:right"><b>l</b>&nbsp;&nbsp; ‹l›</td>
 <td>&nbsp;&nbsp; </td>
 <td>&nbsp;&nbsp; </td>
 </tr>
 <tr>
 <th>Approximant</th>
-<td style="text-align:right"><b>w</b>&nbsp;&nbsp; &lt;w&gt;</td>
+<td style="text-align:right"><b>w</b>&nbsp;&nbsp; ‹w›</td>
+<td>&nbsp;&nbsp; </td>
 <td>&nbsp;&nbsp; </td>
 <td>&nbsp;&nbsp; </td>
 <td>&nbsp;&nbsp; </td>
@@ -337,17 +346,17 @@ _Table 3 – The 5 vowels of Teanu_
 </tr>
 <tr>
 <th style="text-align:left;">Close</th>
-<td><b>i</b>&nbsp;&nbsp; &lt;i&gt;</td>
-<td><b>u</b>&nbsp;&nbsp; &lt;u&gt;</td>
+<td style="text-align:center"><b>i</b>&nbsp;&nbsp; ‹i›</td>
+<td style="text-align:center"><b>u</b>&nbsp;&nbsp; ‹u›</td>
 </tr>
 <tr>
 <th style="text-align:left;">Mid</th>
-<td><b>e</b>&nbsp;&nbsp; &lt;e&gt;</td>
-<td><b>o</b>&nbsp;&nbsp; &lt;e&gt;</td>
+<td style="text-align:center"><b>e</b>&nbsp;&nbsp; ‹e›</td>
+<td style="text-align:center"><b>o</b>&nbsp;&nbsp; ‹e›</td>
 </tr>
 <tr>
 <th style="text-align:left;">Open</th>
-<td colspan="2"><b>a</b>&nbsp;&nbsp; &lt;a&gt;</td>
+<td colspan="2" style="text-align:center"><b>a</b>&nbsp;&nbsp; ‹a›</td>
 </tr>
 </tbody>
 </table>
@@ -362,7 +371,7 @@ Stress regularly hits the penultimate syllable of a phonological word:
 Teanu shows a preference for open syllables CV, and all words end in a vowel. However, consonant clusters are sometimes found word-internally (resulting historically from the syncope of a high vowel /i/ or /u/): 
 
 _Table 4 – A sample of Teanu words, with or without consonant clusters_
-<table border="1" cellspacing="0" cellpadding="0" width="583">
+<table class="table table-bordered">
   <tr>
     <td><strong>meaning</strong></td>
     <td><strong>orthog.</strong></td>
@@ -406,6 +415,12 @@ _Table 4 – A sample of Teanu words, with or without consonant clusters_
     <td><em>top<strong>u</strong>lau</em></td>
   </tr>
   <tr>
+    <td>&lsquo;swear&rsquo;</td>
+    <td><a href="../units/teanu-LX000042"><em>~a<strong>pt</strong>ei</em></a></td>
+    <td>[aptei]</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
     <td>&lsquo;ritual pole in festivals&rsquo;</td>
     <td><a href="../units/teanu-blateno_1"><strong><em>bl</em></strong><em>ateno</em></a></td>
     <td>[ᵐblateno]</td>
@@ -429,7 +444,8 @@ One of the characteristics of verbs is that they are bound forms, requiring a su
 Each word class is labelled using an abbreviation.
 
 _Table 5 – The word classes used in this dictionary of Teanu_
-<table class="table table-bordered"><tbody>
+<table class="table table-bordered">
+<tbody>
 <tr><th width="30">Abbr</th><th width="170">Word class</th><th width="30">Abbr</th><th width="170">Word class </th></tr>
   <tr>
     <td>ADJ</td>
@@ -575,6 +591,7 @@ _Table 5 – The word classes used in this dictionary of Teanu_
     <td>VTO</td>
     <td>verb, oblique-transitive</td>
   </tr>
+  </tbody>
 </table>
 
 &nbsp;
@@ -583,18 +600,20 @@ _Table 5 – The word classes used in this dictionary of Teanu_
 
 In my syntactic analysis (explained in François 2017), a given word can show lexical flexibility, by being assigned several word classes – similar to English <span style="font-variant: small-caps;">[n.]</span> _snow_, <span style="font-variant: small-caps;">[v.]</span> _snow_. Rather than calling them &quot;homophones&quot;, I propose to analyze such examples (_snow_, _snow_) as &quot;heterosemes&quot; – i.e. identical forms linked by a relationship of &quot;heterosemy&quot; (conversion), and showing different grammatical behaviour: thus the Eng. noun _snow_ and the verb _snow_ would not be homophones in English, but “heterosemes”.
 
-While homophones are treated as separate entries, my [original dictionary](https://tiny.cc/Vanikoro-dict) treats all heterosemes under a single entry, which is split into separate lexical sections: e.g. _biouro_ <span style="font-variant: small-caps;">‹a›</span> <span style="font-variant: small-caps;">[adj]</span> 'long' – <span style="font-variant: small-caps;">‹b›</span> <span style="font-variant: small-caps;">[n]</span> 'length' – <span style="font-variant: small-caps;">‹c›</span> <span style="font-variant: small-caps;">[adv]</span> 'at length', etc. Yet for technical reasons, the present _Dictionaria_ platform had to treat all heterosemes ({form / word class} pairing) as separate entries, as though they were homophones: e.g. [_biouro 1_](../units/teanu-biouro_1), [_biouro 2_](../units/teanu-biouro_2), [_biouro 3_](../units/teanu-biouro_3); they are mutually linked with a label &quot;heteroseme(s)&quot;.
+While homophones are treated as separate entries, my [original dictionary](https://tiny.cc/Vanikoro-dict) treats all heterosemes under a single entry, which is split into separate lexical sections: e.g. [_biouro_](https://marama.huma-num.fr/Lex/Teanu/b.htm#%E2%93%94biouro) <span style="font-variant: small-caps;">‹a›</span> <span style="font-variant: small-caps;">[adj]</span> 'long' – <span style="font-variant: small-caps;">‹b›</span> <span style="font-variant: small-caps;">[n]</span> 'length' – <span style="font-variant: small-caps;">‹c›</span> <span style="font-variant: small-caps;">[adv]</span> 'at length', etc. Yet for technical reasons, the present _Dictionaria_ platform had to treat all heterosemes ({form / word class} pairing) as separate entries, as though they were homophones: e.g. [_biouro 1_](../units/teanu-biouro_1), [_biouro 2_](../units/teanu-biouro_2), [_biouro 3_](../units/teanu-biouro_3); they are mutually linked with a label &quot;heteroseme(s)&quot;.
 
 ### Types of nouns
 
 #### Possession
 
-Nouns are also divided along a second split, regarding not whether they can be prefixed, but suffixed, indexing a possessor:
+Nouns are divided along a grammatical split, regarding whether or not they require a possessor:
 
 - **independent** (~ intransitive ~ alienable) nouns:
-the majority of nouns can occur without a possessor – e.g. _moe_ 'house', _kuo_ 'canoe'
+the majority of nouns can occur without a possessor – e.g. [_moe_](../units/teanu-moe_1) 'house', [_kuo_](../units/teanu-kuo_1) 'canoe'
 - **relational** (~ transitive ~ inalienable) nouns:
-about 115 nouns of Teanu are relational nouns, which demand a possessor. This is particularly true of kinship nouns (e.g. [_uku_](../units/teanu-biouro_2) 'father-in-law (of s.o.)'), body parts ([_ma_](../units/teanu-ma_1) 'arm, hand (of s.o.)'), and other relational nouns ([_enga_](../units/teanu-enga_1) 'name (of s.o.)').
+about 115 nouns of Teanu are relational nouns, which demand a possessor. This is particularly true of kinship nouns (e.g. [_uku_](../units/teanu-uku_1) 'father-in-law (of s.o.)'), body parts ([_ma_](../units/teanu-ma_1) 'arm, hand (of s.o.)'), and other relational nouns ([_enga_](../units/teanu-enga_1) 'name (of s.o.)').
+
+In terms of word class, relational nouns are labelled as <span style="font-variant: small-caps;">nk</span> for “noun, kinship” or <span style="font-variant: small-caps;">nop</span> “noun, obligatorily possessed”.  Independent nouns are simply labelled <span style="font-variant: small-caps;">n</span> for “noun”.
 
 &nbsp;
 
@@ -606,7 +625,7 @@ The  personal pronouns of Teanu distinguish three numbers: singular, dual, plura
 
 _Table 6 – Pronominal forms in Teanu_
 
-<table style="text-align:center;" border="1" cellspacing="0" cellpadding="0">
+<table class="table table-bordered">
   <tr>
     <th colspan="2" valign="top">&nbsp;</th>
     <th>free pronouns</th>
@@ -691,7 +710,7 @@ _Table 6 – Pronominal forms in Teanu_
 
 &nbsp;
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="3px">
   <tr style="font-style:italic;">
     <td>(3)</td>
     <td><strong>Ene</strong></td>
@@ -724,7 +743,7 @@ _Table 6 – Pronominal forms in Teanu_
   </tr>
 </table>
 &nbsp;
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="3px">
   <tr style="font-style:italic;">
     <td>(4)</td>
     <td><strong>Da</strong></td>
@@ -751,7 +770,7 @@ _Table 6 – Pronominal forms in Teanu_
 
 Teanu has a special pronoun, [_**idi**_](../units/teanu-idi_1), for “generic” reference, similar to Fr. _on_ (see François 2014).
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="3px">
   <tr style="font-style:italic;">
     <td>(5)</td>
     <td>Lek’</td>
@@ -801,19 +820,19 @@ Teanu encodes possession in a pattern {Possessed + Possessor}. When that possess
 
 _Table 7 – Personal possessives in Teanu_
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table class="table table-bordered">
   <tr>
     <th colspan="2" valign="top">&nbsp;</th>
-    <th>KIN poss.</td>
-    <th>FOOD poss.</td>
-    <th>GENERAL poss.</td>
+    <th>KIN poss.</th>
+    <th>FOOD poss.</th>
+    <th>GENERAL poss.</th>
   </tr>
   <tr>
     <th rowspan="3"><strong>sing</strong></th>
     <td>1</td>
-    <td><em>one</em></td>
-    <td><em>enaka</em></td>
-    <td><em>enone</em></td>
+    <td><a href="../units/teanu-one_1"><em>one</em></a></td>
+    <td><a href="../units/teanu-enaka_1"><em>enaka</em></a></td>
+    <td><a href="../units/teanu-enone_1"><em>enone</em></a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -899,7 +918,7 @@ _Table 7 – Personal possessives in Teanu_
 
 It is not possible to list here the many Teanu speakers who have taught me words in their languages, and helped my progress along the years. To name but a few, my warmest thanks go to Ben Tua Apilaka, Stanley Wako Repwamu, Teka Repwamu, Janet Udeu, Ruben Ubi, Mosten Cook, David Tate, Mak Lakule, Tere Brad Alungo, Eddy Pae, Steve Koro, Ezekiel Prians Tamoa. 
 
-I am also highly indebted to the many men and women who told me their countless stories or sang me their songs in Teanu: Teliki Thomas (†2009), Faithful Bila (†2010), Daniel Bakap (†2014), Teliki James Cook Pae (†2014), Bartholomew Alungo, Teliki Ben Tua Pine (†2010), Willy Usao (†2017), Marion Laki (†), Mary Laulei (†), Mofet Bwana, Wolta Simevio.
+I am also highly indebted to the many men and women who told me their countless stories or sang me their songs in Teanu: Teliki Thomas (†2009), Faithful Bila (†2010), Daniel Bakap (†2014), Teliki James Cook Pae (†2014), Bartholomew Alungo (†2020), Teliki Ben Tua Pine (†2010), Willy Usao (†2017), Marion Laki (†), Mary Laulei (†), Mofet Bwana, Wolta Simevio.
 
 ## Useful references
 
