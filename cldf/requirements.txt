@@ -4,7 +4,7 @@ cdstarcat==1.3.0
 certifi==2019.11.28
 chardet==3.0.4
 cldfbench==1.6.0
--e git+git@github.com:dictionaria/teanu.git@bb2385ac262243dc2a73d7fca74d01706e816b6d#egg=cldfbench_teanu
+-e git+git@github.com:dictionaria/teanu.git@4e8c1d1cbb56654b949db8d347cfca85aae7316b#egg=cldfbench_teanu
 cldfcatalog==1.3.0
 clldutils==3.8.0
 colorama==0.4.3
@@ -27,7 +27,7 @@ pycdstar==1.0.1
 pycldf==1.19.0
 pyconcepticon==2.7.0
 pycountry==20.7.3
--e git+git@github.com:dictionaria/pydictionaria@01b0269e2762375e5f3a1f9fe93b88b4b2b9052e#egg=pydictionaria
+pydictionaria==2.0
 pyglottolog==3.4.1
 pytest==6.2.3
 requests==2.22.0

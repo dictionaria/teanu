@@ -7,7 +7,7 @@ Welcome to this **online Teanu – English dictionary**.
 The language receives its name from [_Teanu_](../units/teanu-Teanu_1), the island located northeast of the Vanikoro island group (the second island in size, after Banie). The same language has also been known in the literature as _Puma_ or _Buma_, after the main village of Teanu island.
 
 
-<table class="unstyled" style="width: 75%; max-width:500px; margin-right:12px; padding:4px; border:0;">
+<table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
 <td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" target="_blank">
 <img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" alt="Pacific map" title="Pacific map" border="1"></a></td>
@@ -19,7 +19,7 @@ The language receives its name from [_Teanu_](../units/teanu-Teanu_1), the islan
 
 Vanikoro's traditional context is a society of fishermen and farmers – growing tubers, raising pigs and poultry. 
 
-## The languages of Vanikoro
+### The languages of Vanikoro
 In earlier times, the island group of Vanikoro used to be divided into three tribal territories, each with its distinctive language: **Teanu** in the northeast, **Lovono** in the west, **Tanema** in the south. During the 20th century, the latter two languages became almost extinct, and replaced with Teanu. In 2012, Lovono was surviving with only 4&nbsp;speakers, and Tanema with only one.
 
 During my fieldwork trips in Vanikoro, I collected linguistic data on those three languages.
@@ -36,13 +36,13 @@ The following two examples illustrate how different the three languages of Vanik
 <tr style="font-style:italic;">
 <td>(1)</td></tr>
 <tr style="font-style:italic;">
-<td><b><i>Teanu</i><b></td><td>En'</td><td>na</td><td>dameliko</td><td>tae,</td><td>ene</td><td>na</td><td>ka</td><td>mwaliko</td><td>pine.</td>
+<td style="font-style:normal;"><b>Teanu</b></td><td>En'</td><td>na</td><td>dameliko</td><td>tae,</td><td>ene</td><td>na</td><td>ka</td><td>mwaliko</td><td>pine.</td>
 </tr>
 <tr style="font-style:italic;">
-<td><i>Lovono</i></td><td>Ngan'</td><td>da</td><td>apali</td><td>taie,</td><td>ngan'</td><td>da</td><td>ga</td><td>lamuka</td><td>pwene.</td>
+<td style="font-style:normal;">Lovono</td><td>Ngan'</td><td>da</td><td>apali</td><td>taie,</td><td>ngan'</td><td>da</td><td>ga</td><td>lamuka</td><td>pwene.</td>
 </tr>
 <tr style="font-style:italic;">
-<td><i>Tanema</i></td><td>Nana</td><td>kana</td><td>uneida</td><td>eia,</td><td>nana</td><td>kana</td><td>mo</td><td>anuka</td><td>bwau.</td>
+<td style="font-style:normal;">Tanema</td><td>Nana</td><td>kana</td><td>uneida</td><td>eia,</td><td>nana</td><td>kana</td><td>mo</td><td>anuka</td><td>bwau.</td>
 </tr>
 <tr>
 <td>&nbsp;</td><td>1sg</td><td><span style="font-variant: small-caps;">prox</span></td><td>child</td><td><span style="font-variant: small-caps;">neg</span></td><td>1sg</td><td><span style="font-variant: small-caps;">prox</span></td><td><span style="font-variant: small-caps;">pft</span></td><td>person</td><td>big</td></tr>
@@ -55,13 +55,13 @@ The following two examples illustrate how different the three languages of Vanik
 <tr style="font-style:italic;">
 <td>(2)</td></tr>
 <tr style="font-style:italic;">
-<td><b><i>Teanu</i><b></td><td>Pi-ka</td><td>vele?</td><td>–&nbsp;Kupa</td><td>pi-te</td><td>ne</td><td>sekele</td><td>iupa,</td><td>pi-wowo</td><td>none.</td>
+<td style="font-style:normal;"><b>Teanu</b></td><td>Pi-ka</td><td>vele?</td><td>–&nbsp;Kupa</td><td>pi-te</td><td>ne</td><td>sekele</td><td>iupa,</td><td>pi-wowo</td><td>none.</td>
 </tr>
 <tr style="font-style:italic;">
-<td><i>Lovono</i></td><td>Nupe-mage</td><td>mene?</td><td>–&nbsp;Gamitu</td><td>nupe-lu</td><td>ne</td><td>amenonga</td><td>iemitore,</td><td>nupe-ngoa</td><td>nane.</td>
+<td style="font-style:normal;">Lovono</td><td>Nupe-mage</td><td>mene?</td><td>–&nbsp;Gamitu</td><td>nupe-lu</td><td>ne</td><td>amenonga</td><td>iemitore,</td><td>nupe-ngoa</td><td>nane.</td>
 </tr>
 <tr style="font-style:italic;">
-<td><i>Tanema</i></td><td>Ti-loma</td><td>vane?</td><td>–&nbsp;Gamuto</td><td>tei-o</td><td>ini</td><td>vasangola</td><td>akegamuto,</td><td>ti-oa</td><td>bauva.</td>
+<td style="font-style:normal;">Tanema</td><td>Ti-loma</td><td>vane?</td><td>–&nbsp;Gamuto</td><td>tei-o</td><td>ini</td><td>vasangola</td><td>akegamuto,</td><td>ti-oa</td><td>bauva.</td>
 </tr>
 <tr>
 <td>&nbsp;</td><td>2pl:R-come</td><td>where</td><td>1e:pl</td><td>1e:pl:R-stay</td><td><span style="font-variant: small-caps;">loc</span></td><td>garden</td><td><span style="font-variant: small-caps;">poss</span>:1e:pl</td><td>1e:pl:R-plant</td><td>yam</td>
@@ -73,28 +73,28 @@ The following two examples illustrate how different the three languages of Vanik
 
 &nbsp;
 
-For each entry in my Teanu dictionary, I will also indicate – whenever I have them – the lexical equivalents in the island's two moribund languages. Lovono has 525 headwords and Tanema 555, covering respectively 37% and 39% of Teanu entries.
+For each entry in my Teanu dictionary, I will also indicate – whenever I have them – the lexical equivalents in the island's two moribund languages. Lovono has 537 headwords and Tanema 564, covering respectively 37% and 39% of Teanu entries.
 
 These forms can be quite instructive for the historical linguist wishing to compare the three languages of Vanikoro, and reconstruct their history from their Proto Oceanic ancestor. Words from Lovono and Tanema are indispensable in reconstructing “Proto Vanikoro”, the shared ancestor of these three languages.
 
 The meaning of Lovono and Tanema words can safely be assumed to be identical to those of Teanu: this isomorphism is indeed very strong on the island (François 2009).
 
-## Teanu in its regional context
+### Teanu in its regional context
 Besides its indigenous Melanesian population, the island of Vanikoro is also home to a Polynesian community that has been colonising the southern shore since at least the 16th century. Their homeland is Tikopia (the easternmost island of the Solomon archipelago), and their language is **Tikopia** or Fakatikopia, a Polynesian outlier language. 
 
-<table class="unstyled" style="width: 75%; max-width:500px; margin-right:12px; padding:4px; border:0;">
+<table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
 <td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" target="_blank">
 <img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" alt="Temotu map" title="Temotu map" border="1"></a></td>
 </tr>
-<tr style="font-style:italic;">
-<td>Fig.&nbsp;2 - The languages of Temotu province (eastern&nbsp;Solomons). The two languages Vaeakau-Taumako and Tikopia (east of the map) are Polynesian; all other languages, including those of Vanikoro, belong to the “Temotu” subgroup of Oceanic.</td>
+<tr>
+<td><i>Fig.&nbsp;2 - The languages of Temotu province (eastern&nbsp;Solomons). The two languages Vaeakau-Taumako and Tikopia (east of the map) are Polynesian; all other languages, including those of Vanikoro, belong to the “Temotu” subgroup of Oceanic.</i><br/><small><i>Source</i>: NordNordWest and Stefano Coretta, <a href="https://commons.wikimedia.org/wiki/File:Temotu-languages.png" target="_blank">Map of Temotu languages</a> (2015), Wikimedia Commons. Based on publications by <i>Ethnologue</i>, Boerger (2007), and François (2009).</small></td>
 </tr></tbody>
 </table>
 
 &nbsp;
 
-Vanikoro people always had contact, trade exchanges and intermarriage, with the nearby island of Utupua; and to a lesser extent, with other islands of the Temotu region: Nendö, the Reefs – as well as Polynesian communities from Tikopia and Vaeakau-Taumako. This contact with Polynesian languages manifests itself in Teanu through many borrowings: 58 exactly (=4&nbsp; percent of the Teanu lexicon).
+Vanikoro people always had contact, trade exchanges and intermarriage, with the nearby island of Utupua; and to a lesser extent, with other islands of the Temotu region: Nendö, the Reefs – as well as Polynesian communities from Tikopia and Vaeakau-Taumako. This contact with Polynesian languages manifests itself in Teanu through many borrowings: 59 exactly in this dictionary (=4&nbsp;percent of the Teanu lexicon). These include many nouns of artifacts, often recognisable by their incorporated article _te_ or _to_ ([_temotu_](../units/teanu-temotu_1) ‘islet’; [_tepuke_](../units/teanu-tepuke_1) ‘sailing canoe’; [_toloto_](../units/teanu-toloto_1) ‘lagoon’; [_tomona_](../units/teanu-tomona_1) ‘pudding’…). Outside of nouns, Polynesian loans also include the grammatical marker of the prohibitive [_etapu_](../units/teanu-etapu_3) ‘don't!’, derived from _tapu_ ‘sacred, taboo’.
 
 Contact with other islands of the Temotu region has left much fewer linguistic traces, at least none that are obvious in the present state of knowledge.
 
@@ -115,18 +115,21 @@ That said, the myth of the “[_Tamate_](../units/teanu-tamate_1)” spirits tel
 
 Finally, current generations are also experiencing modern life, particularly in the towns of Lata and in the capital Honiara. In urban contexts, the pressure is high to replace indigenous languages such as Teanu with the country's national language **Solomon Islands Pijin** – an English-based creole that emerged during colonial times. All speakers of Teanu are bilingual in Pijin, and some loanwords from English actually enter Teanu through Pijin.
 
-All in all, about 6% of the Teanu lexicon consists of identifiable **borrowings**: 58 words borrowed from Polynesian, 18 from Solomons Pijin or English, 5 words from Mota in Vanuatu. As for the native lexicon, it proves quite original among other Oceanic languages: only 11.1% of entries can be traced back to Proto-Oceanic roots, while 82% of the lexicon has unclear origins. These innovative words probably result from three millennia of language-internal renewal of the lexicon – perhaps encouraged by a trend towards lexical differentiation. In particular, the vocabulary of Vanikoro languages shows extreme dissimilarities with other languages of the area (whether Utupua, Nendö or the Reefs), even though they supposedly belong to the same “Temotu” subgroup of Oceanic. (Whether that “Temotu” subgroup is effectively warranted, is a matter for further historical research.)
+All in all, about 6% of the Teanu lexicon consists of identifiable **borrowings**: 59 words borrowed from Polynesian, 19 from Solomons Pijin or English, 5 words from Mota in Vanuatu. As for the native lexicon, it proves quite original among other Oceanic languages: only 11.1% of entries can be traced back to Proto-Oceanic roots, while 82% of the lexicon has unclear origins. These innovative words probably result from three millennia of language-internal renewal of the lexicon – perhaps encouraged by a trend towards lexical differentiation. In particular, the vocabulary of Vanikoro languages shows extreme dissimilarities with other languages of the area (whether Utupua, Nendö or the Reefs), even though they supposedly belong to the same “Temotu” subgroup of Oceanic. (Whether that “Temotu” subgroup is effectively warranted, is a matter for further historical research.)
 
+&nbsp;
 
 ## Methodology and data sources
 
 When I began studying it, Teanu was known mostly through wordlists (Tryon & Hackmann 1983), and from a grammatical sketch (Tryon 2002).
 
-Due to its difficult access, I've had only two occasions to visit the island of Vanikoro. One was an archaeological expedition in April-May 2005, organised around the fate of French navigator Jean François de Lapérouse ([_Laperusi_](../units/teanu-Laperusi_1) in Teanu), who had perished on the island in 1788. My second trip was in 2012, with a group of geologists who took me with them for a brief visit to the island; I took that opportunity to collect more data on the island's two moribund languages Lovono and Tanema. To these two short stays, I was able to add a couple encounters with Teanu speakers – in Paris in 2008, in Honiara in 2017; and recently, regular contact with speakers through social media.
+Due to its difficult access, I've had only two occasions to visit the island of Vanikoro. One was an archaeological expedition in April-May 2005, organised around the fate of French navigator Jean François de Lapérouse ([_Laperusi_](../units/teanu-Laperusi_1) in Teanu), who had perished on the island in 1788. My role in that multidisciplinary project was to document the memory of that early encounter that is still vivid in the islanders’ oral tradition (François 2008); for that purpose, I first needed to familiarise myself with the island's indigenous languages.
+
+My second trip was in 2012, with a group of geologists who took me with them for a brief visit to the island; I took that opportunity to collect more data on the island's two moribund languages Lovono and Tanema. To these two short stays, I was able to add a couple encounters with Teanu speakers – in Paris in 2008, in Honiara in 2017; and recently, regular contact with speakers through social media.
 
 Altogether, my linguistic exposure to the language of Teanu was about 29 days in total. But thanks to my knowledge of nearby Vanuatu languages, and to a linguistic questionnaire I had designed (François 2019), I was able to speak and understand Teanu early enough to hold conversations.
 
-My methodology in the field combined language learning, targeted elicitation, and the recording of spontaneous speech in the form of conversations or narratives. Out of the [73 items](https://tiny.cc/AF-ark_Teanu) I recorded in Teanu, 43 were narratives; I transcribed 22 of these with the help of native speakers, yielding a corpus of 18,800 words. Among those transcribed texts, [several are displayed online](https://tiny.cc/AF-ark_Teanu), in open access (_Pangloss collection_, CNRS).
+My methodology in the field combined language learning, targeted elicitation, and the recording of spontaneous speech in the form of conversations or narratives. Out of the 73 items I recorded in Teanu, 43 were narratives; I transcribed 22 of these with the help of native speakers, yielding a digital corpus of 18,800 words. Among those transcribed texts, [several are displayed online](https://tiny.cc/AF-ark_Teanu), in open access (_Pangloss collection_, CNRS).
 
 &nbsp;
 <div style="clear:both;"></div>
@@ -135,12 +138,12 @@ My methodology in the field combined language learning, targeted elicitation, an
 
 This bilingual Teanu dictionary is based on my corpus of texts, conversations, elicited data, and immersive fieldwork.
 
-It contains a total of 1855 entries, illustrated by 3,200 example sentences.
+It contains a total of 1860 entries, illustrated by about 3,200 example sentences.
 
 While the present _Dictionaria_ edition includes all my lexical data, interested readers can find the same data under a different presentation, on [_tiny.cc/Vanikoro-dict_](https://tiny.cc/Vanikoro-dict).
 
 ### Special features
-The present dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry <a href="../units/teanu-ngiro_1" target="_blank"><b><i>ngiro</i></b></a> ‘wind’ has examples linking to original texts, such as [doi:Pangloss-0003352#S106](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:Pangloss-0003351#S16](https://doi.org/10.24397/pangloss-0003351#S16).
+The present dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry  [**_ngiro_**](../units/teanu-ngiro_1) ‘wind’ has examples linking to original texts, such as [doi:Pangloss-0003352#S106](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:Pangloss-0003351#S16](https://doi.org/10.24397/pangloss-0003351#S16).
 
 The present work pays attention not just to language and grammar, but also to **culture and society**. Many entries come with photographs, as well as encyclopedic notes: see, for example, entries [_tolosai_](../units/teanu-tolosai_1) 'loincloth', [_savene_](../units/teanu-savene_1) 'valuable mat', [_nuduro_](../units/teanu-nuduro_2) 'scareline', [_mamdeuko_](../units/teanu-mamdeuko_1) 'Cardinal honeyeater'…
 
@@ -153,6 +156,16 @@ Entries usually feature a broad array of **cross-references** to other words: he
 - [_uie luro_](../units/teanu-uie_luro_1) 'coconut palm' links to various objects traditionally woven out of coconut leaves ('mat', 'semi-mat', 'basket', 'fan'…);
 
 - [_ngiro_](../units/teanu-ngiro_1) 'wind' lists the names of all winds, and includes a wind map.
+
+- [_revo_](../units/teanu-revo_1) 'sea' brings together many words from the lexicon of the sea.
+
+- [_vilo_](../units/teanu-vilo_1) 'tree' brings together many words from the lexicon of the sea.
+
+- [_nengele moe_](../units/teanu-nengele_moe_1) 'house parts' has a list of all the elements of carpentry.
+
+- [_moro_](../units/teanu-moro_1) 'day' lists the words referring to moments of the day.
+
+- and so on and so forth.
 
 &nbsp;
 
@@ -803,16 +816,16 @@ Teanu has a special pronoun, [_**idi**_](../units/teanu-idi_1), for “generic�
 
 Teanu encodes possession in a pattern {Possessed + Possessor}. When that possessor is not a noun but a pronoun, it is encoded by a “personal possessive”. But the form taken by that personal possessive will depend on the exact meaning of the possessive relationship. Most of the time, this amounts to assigning the possessed noun to a certain possessive class:
 
-1. _body parts + relational nouns_ <br/>= {N + free pronoun} <sup>(see Table&nbsp;5)</sup><br/>
+1. _body parts + relational nouns_ <br/>= {NOP + free pronoun} <sup>(see Table&nbsp;5)</sup><br/>
 → _visibaele **ene**_ ‘my knee’; _enga **ini**_ ‘his/her name’; _vilisa **dapa**_ ‘their clothes’;<br/>→ _awa Teliki_ ‘Teliki's desire’. 
 
-1. _kinship nouns_ <br/>= {N + [KIN possessive](../units/teanu-one_1)} <br/>
+1. _kinship nouns_ <br/>= {NK + [KIN possessive](../units/teanu-one_1)} <br/>
 → _uk' [**one**](../units/teanu-one_1)_ ‘my father-in-law’; _et’ [**iape**](../units/teanu-iape_2)_ ‘his/her mother’; _gi’ [**adapa**](../units/teanu-adapa_2)_ ‘their uncle’;<br/>→ _ai’ [**ie**](../units/teanu-ie_2) Teliki_ ‘Teliki's father’.
 
 1. _food + drink + tools + certain objects_ <br/>= {N + [FOOD possessive](../units/teanu-enaka_1)} <br/>
 → _buioe [**enaka**](../units/teanu-enaka_1)_ ‘my betelnut’; _laro [**ape**](../units/teanu-ape_1)_ ‘his/her drinking coconut’; _piene [**adapa**](../units/teanu-adapa_1)_ ‘their language’;<br/>→ _okoro [**we**](../units/teanu-we_2) Teliki_ ‘Teliki's knife’.
 
-1. _other possessions_ <br/>= {NOP + [GENERAL possessive](../units/teanu-enone_1)} <br/>
+1. _other possessions_ <br/>= {N + [GENERAL possessive](../units/teanu-enone_1)} <br/>
 → _moe [**’none**](../units/teanu-enone_1)_ ‘my house’; _emel’ [**iape**](../units/teanu-iape_1)_ ‘his wife’; _kulumoe [**iadapa**](../units/teanu-iadapa_1)_ ‘their village’<br/>
 → _men’ [**ie**](../units/teanu-ie_1) Teliki_ ‘Teliki's child’. 
 
@@ -920,7 +933,7 @@ It is not possible to list here the many Teanu speakers who have taught me words
 
 I am also highly indebted to the many men and women who told me their countless stories or sang me their songs in Teanu: Teliki Thomas (†2009), Faithful Bila (†2010), Daniel Bakap (†2014), Teliki James Cook Pae (†2014), Bartholomew Alungo (†2020), Teliki Ben Tua Pine (†2010), Willy Usao (†2017), Marion Laki (†), Mary Laulei (†), Mofet Bwana, Wolta Simevio.
 
-## Useful references
+## References
 
 The following selected publications – all available from [my homepage](http://alex.francois.online.fr/AFpub_articles_e.htm) – present various aspects of the Teanu language and culture:
 
@@ -928,12 +941,18 @@ The following selected publications – all available from [my homepage](http://
 - François, Alexandre. 2008. [Mystère des langues, magie des légendes](http://alex.francois.online.fr/data/AlexFrancois_2008_Vanikoro_Legendes.pdf). In _Le mystère Lapérouse ou le rêve inachevé d’un roi_, edited by Association Salomon. Paris: de Conti, Musée national de la Marine. 230-233.
 - François, Alexandre. 2009. [The languages of Vanikoro: Three lexicons and one grammar](http://alex.francois.online.fr/data/AlexFrancois_2009_Vanikoro-languages.pdf). In Bethwyn Evans (ed). _Discovering history through language: Papers in honour of Malcolm Ross_. Pacific Linguistics 605. Canberra: Australian National University. 103-126.
 - François, Alexandre. 2014. [Person syncretism and impersonal reference in Vanikoro languages](https://www.academia.edu/8349394/). Paper read at _Syntax of the World's Languages_ (SWL6), Università di Pavia. 
-- François, Alexandre. 2017. [The economy of word classes in Hiw, Vanuatu: Grammatically flexible, lexically rigid](http://alex.francois.online.fr/data/AlexFrancois_2017_Economy-word-classes_St-in-Lg.pdf). _Studies in Language_ 41(2). 294–357.
-- François, Alexandre. 2019. [A proposal for conversational questionnaires](https://scholarspace.manoa.hawaii.edu/handle/10125/24861). In Aimée Lahaussois & Marine Vuillermet (eds.), Methodological Tools for Linguistic Description and Typology. Special issue of _Language Documentation & Conservation_ 16, 155-196.
 - Tryon, Darrell T. & Brian D. Hackman. 1983. _Solomon Islands Languages: An Internal Classification_ (Pacific Linguistics no. 72). Canberra: Australian National University.
 - Tryon, Darrell. 1994. Language contact and contact-induced language change in the Eastern Outer Islands, Solomon Islands. In Tom Dutton & Darrell Tryon (eds.), _Language Contact and Change in the Austronesian World_, 611–648. Berlin: Mouton de Gruyter.
 - Tryon, Darrell. 2002. Buma. In John Lynch, Malcolm Ross & Terry Crowley (eds), _The Oceanic languages_ (Curzon Language Family Series 1), 573–586. London: Curzon.
 - Tua, Benjamin & Peter C. Lincoln. 1979. _Our Custom Way Vanikoro: The Custom Book_. Auckland: University of Auckland. 34&nbsp;pp.
+
+&nbsp;
+
+Other work mentioned in this introduction:
+
+- Boerger, Brenda H. 2007. Natqgu literacy: Capturing three domains for written language use. _Language Documentation and Conservation_. 1(2). 126–153.
+- François, Alexandre. 2017. [The economy of word classes in Hiw, Vanuatu: Grammatically flexible, lexically rigid](http://alex.francois.online.fr/data/AlexFrancois_2017_Economy-word-classes_St-in-Lg.pdf). _Studies in Language_ 41(2). 294–357.
+- François, Alexandre. 2019. [A proposal for conversational questionnaires](https://scholarspace.manoa.hawaii.edu/handle/10125/24861). In Aimée Lahaussois & Marine Vuillermet (eds.), Methodological Tools for Linguistic Description and Typology. Special issue of _Language Documentation & Conservation_ 16, 155-196.
 
 &nbsp;
 

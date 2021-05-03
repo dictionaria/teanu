@@ -161,11 +161,20 @@ class EntrySplitter:
 
 def _fix_single_ref(value, id_map):
     # Shave off sense numbers
-    id_match = re.fullmatch('(.*?\d*[A-Z]*)(\d*)', value.strip())
-    if id_match:
-        return id_map.get(id_match.group(1)) or value
-    else:
-        return value
+    #
+    # Note: We cannot tell the difference between homonym numbers and sense
+    # numbers, so we're just gonna shave off digits at the end until something
+    # matches...
+    old_id = value.strip()
+    while True:
+        new_id = id_map.get(old_id)
+        if new_id:
+            return new_id
+        elif re.search(r'\d$', old_id):
+            old_id = old_id[:-1]
+            continue
+        else:
+            return value
 
 
 def _fix_crossref_field(value, id_map):

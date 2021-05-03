@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/teanu",
-            "dc:created": "bb2385a"
+            "dc:created": "4e8c1d1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 1857,
+            "dc:extent": 1877,
             "tableSchema": {
                 "columns": [
                     {
@@ -139,10 +139,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Plural_Form"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Reduplication_Form",
                         "titles": "Reduplication Form(s)"
                     },
@@ -221,7 +217,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 2757,
+            "dc:extent": 2776,
             "tableSchema": {
                 "columns": [
                     {
@@ -265,6 +261,11 @@
                     },
                     {
                         "datatype": "string",
+                        "separator": " ; ",
+                        "name": "Explanation"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "Infobox"
                     },
                     {
@@ -275,10 +276,6 @@
                     {
                         "datatype": "string",
                         "name": "Lexical_Function_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Link"
                     },
                     {
                         "datatype": "string",
@@ -301,12 +298,6 @@
                     {
                         "datatype": "string",
                         "name": "Sense_Comment"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "separator": ";",
-                        "name": "Source"
                     },
                     {
                         "datatype": "string",
@@ -347,6 +338,17 @@
                     },
                     {
                         "columnReference": [
+                            "Explanation"
+                        ],
+                        "reference": {
+                            "resource": "entries.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
                             "Media_IDs"
                         ],
                         "reference": {
@@ -376,7 +378,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 3203,
+            "dc:extent": 2910,
             "tableSchema": {
                 "columns": [
                     {
@@ -434,10 +436,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Corpus_Reference"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Example_Comment_English",
                         "titles": "Example Comment"
                     },
@@ -449,10 +447,6 @@
                         "datatype": "string",
                         "separator": " ; ",
                         "name": "Sense_IDs"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "alt_translation1"
                     }
                 ],
                 "foreignKeys": [
