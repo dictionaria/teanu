@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/teanu",
-            "dc:created": "4e8c1d1"
+            "dc:created": "85b52f3"
         },
         {
             "rdf:type": "prov:Entity",
@@ -56,12 +56,14 @@
                         "name": "ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
                         "name": "Language_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#headword",
                         "required": true,
@@ -97,15 +99,6 @@
                         "datatype": "string",
                         "name": "Etymology",
                         "titles": "Proto-Form"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Gloss_Bislama",
-                        "titles": "Gloss (Bislama)"
                     },
                     {
                         "datatype": "string",
@@ -217,7 +210,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 2776,
+            "dc:extent": 2775,
             "tableSchema": {
                 "columns": [
                     {
@@ -289,6 +282,11 @@
                     },
                     {
                         "datatype": "string",
+                        "separator": " ; ",
+                        "name": "Possessive_Classifier"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "Scientific_Name"
                     },
                     {
@@ -298,6 +296,11 @@
                     {
                         "datatype": "string",
                         "name": "Sense_Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": " ; ",
+                        "name": "Singular_Form"
                     },
                     {
                         "datatype": "string",
@@ -360,6 +363,28 @@
                     },
                     {
                         "columnReference": [
+                            "Possessive_Classifier"
+                        ],
+                        "reference": {
+                            "resource": "entries.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Singular_Form"
+                        ],
+                        "reference": {
+                            "resource": "entries.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
                             "Synonym"
                         ],
                         "reference": {
@@ -378,7 +403,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2910,
+            "dc:extent": 2797,
             "tableSchema": {
                 "columns": [
                     {
@@ -391,18 +416,23 @@
                         "name": "ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
                         "name": "Language_ID"
                     },
                     {
+                        "dc:description": "The example text in the source language.",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#primaryText",
                         "required": true,
                         "name": "Primary_Text"
                     },
                     {
+                        "dc:description": "The sequence of words of the primary text to be aligned with glosses",
+                        "dc:extent": "multivalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
                         "required": false,
@@ -410,6 +440,8 @@
                         "name": "Analyzed_Word"
                     },
                     {
+                        "dc:description": "The sequence of glosses aligned with the words of the primary text",
+                        "dc:extent": "multivalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
                         "required": false,
@@ -417,12 +449,16 @@
                         "name": "Gloss"
                     },
                     {
+                        "dc:description": "The translation of the example text in a meta language",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#translatedText",
                         "required": false,
                         "name": "Translated_Text"
                     },
                     {
+                        "dc:description": "References the language of the translated text",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference",
                         "required": false,
@@ -491,6 +527,7 @@
             "url": "examples.csv"
         },
         {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:extent": 112,
             "tableSchema": {
                 "columns": [
@@ -500,7 +537,32 @@
                             "format": "[a-zA-Z0-9_\\-]+"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
                         "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
+                    },
+                    {
+                        "datatype": "anyURI",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false,
+                        "name": "Download_URL"
                     },
                     {
                         "datatype": "string",
@@ -508,25 +570,8 @@
                         "name": "Language_ID"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Filename"
-                    },
-                    {
-                        "datatype": "anyURI",
-                        "name": "URL"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "mimetype"
-                    },
-                    {
                         "datatype": "integer",
                         "name": "size"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-                        "name": "Description"
                     }
                 ],
                 "foreignKeys": [
