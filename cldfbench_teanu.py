@@ -15,6 +15,26 @@ CROSSREF_BLACKLIST = {'xv'}
 CROSSREF_MARKERS = {'cf', 'mn', 'sy', 'an', 'cont', 'lv'}
 
 
+def _unhtml(pair):
+    marker, value = pair
+    if marker == 'mr':
+        return marker, re.sub(r'<compo>([^<]+)</compo>', r'|fv{\1}', value)
+    else:
+        return pair
+
+
+def unhtml_mr(entry):
+    if entry.get('mr'):
+        return entry.__class__(map(_unhtml, entry))
+    else:
+        return entry
+
+
+def prepreprocess(entry):
+    entry = unhtml_mr(entry)
+    return entry
+
+
 class MySFM(SFM):
     def __init__(self, entries):
         self.extend(entries)
@@ -302,21 +322,6 @@ def merge_etymology(marker_dict):
         eg="'{}'".format(marker_dict.get('eg')) if marker_dict.get('eg') else '')
 
 
-def _unhtml(pair):
-    marker, value = pair
-    if marker == 'mr':
-        return marker, re.sub(r'<compo>([^<]+)</compo>', r'|fv{\1}', value)
-    else:
-        return pair
-
-
-def unhtml_mr(entry):
-    if entry.get('mr'):
-        return entry.__class__(map(_unhtml, entry))
-    else:
-        return entry
-
-
 def generate_link_label(entry):
     link_label = entry.get('la') or entry.get('lx') or ''
     new_entry = entry.__class__(entry)
@@ -340,7 +345,6 @@ def preprocess(entry):
     entry = merge_markers(entry, ['un', 'en'], 'en')
     entry = merge_markers(entry, ['pdl', 'pdv'], 'pdv')
     entry = merge_markers(entry, ['el', 'et', 'eg'], 'et', format_fn=merge_etymology)
-    entry = unhtml_mr(entry)
     entry = generate_link_label(entry)
     return entry
 
@@ -500,6 +504,7 @@ class Dataset(BaseDataset):
 
         # preprocessing
 
+        sfm.visit(prepreprocess)
         sfm = reorganize(sfm)
         sfm.visit(preprocess)
 
