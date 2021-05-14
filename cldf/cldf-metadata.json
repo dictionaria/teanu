@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/teanu",
-            "dc:created": "724bbd6"
+            "dc:created": "99ca37b"
         },
         {
             "rdf:type": "prov:Entity",
@@ -104,6 +104,10 @@
                         "datatype": "string",
                         "separator": " ; ",
                         "name": "Heterosemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Lovono_Equivalent"
                     },
                     {
                         "datatype": "string",
