@@ -12,6 +12,7 @@ from pydictionaria import sfm2cldf
 
 
 CROSSREF_BLACKLIST = {'xv'}
+CROSSREF_MARKERS = {'cf', 'mn', 'sy', 'an', 'cont', 'lv'}
 
 
 class MySFM(SFM):
@@ -169,8 +170,6 @@ def _fix_crossref_field(value, id_map):
 
 
 def fix_crossrefs(entry, id_map):
-    crossref_markers = {'cf', 'mn', 'sy', 'an', 'cont', 'lv'}
-
     def fix_inline_crossref(match):
         new_link = _fix_crossref_field(
             '{}{}'.format(match.group(2), match.group(3) or ''),
@@ -179,7 +178,7 @@ def fix_crossrefs(entry, id_map):
 
     new_entry = entry.__class__()
     for marker, value in entry:
-        if marker in crossref_markers:
+        if marker in CROSSREF_MARKERS:
             value = _fix_crossref_field(value, id_map)
         elif marker not in CROSSREF_BLACKLIST:
             value = re.sub(
@@ -353,6 +352,65 @@ def _remove_inline_markers(val):
         return val
 
 
+def _warn_about_table(table_name, table, columns, link_regex, cldf_log):
+    if not columns:
+        return
+
+    for row in table:
+        row_id = row.get('ID')
+        for colname, value in row.items():
+            if colname not in columns:
+                continue
+            for link_match in re.finditer(link_regex, value):
+                link = link_match.group(0)
+                if re.fullmatch(r'\s*\[.*\]\s*\(.*\)\s*', link):
+                    continue
+                msg = '{}:{}:{}:unknown in-line cross reference `{}`'.format(
+                    table_name, row.get('ID'), colname, link)
+                cldf_log.warn(msg)
+
+
+def warn_about_inline_references(
+    entries, senses, examples, props, cldf_log
+):
+    props = sfm2cldf._add_property_fallbacks(props)
+    if not props.get('link_regex') or not props.get('process_links_in_markers'):
+        return
+
+    _warn_about_table(
+        'EntryTable',
+        entries,
+        {
+            props['entry_map'][m]
+            for m in props['process_links_in_markers']
+            if m in props['entry_map']
+        },
+        props['link_regex'],
+        cldf_log)
+
+    _warn_about_table(
+        'SenseTable',
+        senses,
+        {
+            props['sense_map'][m]
+            for m in props['process_links_in_markers']
+            if m in props['sense_map']
+        },
+        props['link_regex'],
+        cldf_log)
+
+    _warn_about_table(
+        'ExampleTable',
+        examples,
+        {
+            props['example_map'][m]
+            for m in props['process_links_in_markers']
+            if m in props['example_map']
+        },
+        props['link_regex'],
+        cldf_log)
+
+
 def remove_inline_markers(val):
     if isinstance(val, list):
         return [_remove_inline_markers(v) for v in val]
@@ -461,6 +519,9 @@ class Dataset(BaseDataset):
 
             # Note: If you want to manipulate the generated CLDF tables before
             # writing them to disk, this would be a good place to do it.
+
+            warn_about_inline_references(
+                entries, senses, examples, properties, cldf_log)
 
             entries = clean_table(entries)
             senses = clean_table(senses)
