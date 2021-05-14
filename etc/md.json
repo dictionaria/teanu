@@ -11,6 +11,7 @@
         "media_lookup": ["Mwotlap", "teanu"],
         "entry_sep": "\\lx",
         "marker_map": {
+            "lvn": "la",
             "de": "gxx",
             "dn": "de",
             "img": "pc",

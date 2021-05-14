@@ -4,7 +4,7 @@ cdstarcat==1.3.0
 certifi==2019.11.28
 chardet==3.0.4
 cldfbench==1.6.0
--e git+git@github.com:dictionaria/teanu.git@85b52f340cb9396ade5d0efe96a751cffb66bc23#egg=cldfbench_teanu
+-e git+git@github.com:dictionaria/teanu.git@724bbd6b9b613315cca5adefe947a9c55c195b4a#egg=cldfbench_teanu
 cldfcatalog==1.3.0
 clldutils==3.8.0
 colorama==0.4.3

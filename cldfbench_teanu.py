@@ -62,8 +62,8 @@ class EntrySplitter:
 
     def _generate_subentry(self, subentry, parent_id, ps):
         lx = subentry.get('se')
-        homonym_no = subentry.get('hm') or ''
-        old_id = '{}{}'.format(lx, homonym_no)
+        hm = subentry.get('hm') or ''
+        old_id = '{}_{}'.format(lx, hm) if hm else lx
 
         self._homonyms[lx] += 1
         new_hm = str(self._homonyms[lx])
@@ -84,9 +84,9 @@ class EntrySplitter:
     def split_entry(self, entry):
         lx = entry.get('lx')
         la = entry.get('la')
+        hm = entry.get('hm') or ''
         citation_form = la or lx
-        homonym_no = entry.get('hm') or ''
-        old_id = '{}{}'.format(citation_form, homonym_no)
+        old_id = '{}_{}'.format(citation_form, hm) if hm else citation_form
         ps = entry.get('ps')
 
         main_entry, groups = self._split_groups(entry)
@@ -98,7 +98,7 @@ class EntrySplitter:
             for group in groups:
                 group_entries = self._split_groups(group)
                 gp = group.get('gp') or ''
-                old_gid = '{}{}'.format(old_id, gp)
+                old_gid = '{}.{}'.format(old_id, gp) if gp else old_id
 
                 self._homonyms[lx] += 1
                 new_hm = str(self._homonyms[lx])
@@ -107,7 +107,7 @@ class EntrySplitter:
                 if la:
                     if la not in self.la_index:
                         self.la_index[la] = new_id
-                    la_gid = '{}{}'.format(la, gp)
+                    la_gid = '{}.{}'.format(la, gp) if gp else la
                     if la_gid not in self.la_index:
                         self.la_index[la_gid] = new_id
 
@@ -159,22 +159,9 @@ class EntrySplitter:
                 yield self._generate_subentry(subentry, old_id, ps)
 
 
-def _fix_single_ref(value, id_map):
+def _fix_single_ref(ref, id_map):
     # Shave off sense numbers
-    #
-    # Note: We cannot tell the difference between homonym numbers and sense
-    # numbers, so we're just gonna shave off digits at the end until something
-    # matches...
-    old_id = value.strip()
-    while True:
-        new_id = id_map.get(old_id)
-        if new_id:
-            return new_id
-        elif re.search(r'\d$', old_id):
-            old_id = old_id[:-1]
-            continue
-        else:
-            return value
+    return id_map.get(re.sub(r'–\d+$', '', ref.strip())) or ref
 
 
 def _fix_crossref_field(value, id_map):
