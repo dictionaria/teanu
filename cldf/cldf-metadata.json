@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/teanu",
-            "dc:created": "14ec5be"
+            "dc:created": "ec21f5a"
         },
         {
             "rdf:type": "prov:Entity",
