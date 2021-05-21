@@ -744,8 +744,8 @@ before a noun
 \sd Sea
 \sn 2
 \hn esp
-\dn bivalve shell, traditionally used as an instrument to grate (|fv{~lu})
-coconut flesh or scrape the skin of tubers
+\dn bivalve shell, traditionally used as an instrument to grate (|fv{~lu_2}) coconut
+flesh or scrape the skin of tubers
 \el POc
 \et *kaRi
 
@@ -1259,12 +1259,12 @@ language is spoken
 \ph alero
 \va alero
 \ps n
-\mr <compo>ale</compo> ‘foot’ + <compo>ero_1.A–2</compo> ‘river’
+\mr <compo>ale</compo> ‘foot’ + <compo>ero_1–2</compo> ‘river’
 \ll river foot
 \dn river mouth, down where a river reaches the sea
 \xv alero peini iaero Paiu
 \xn the mouth of the Paiu river
-\cf ero_1.A
+\cf ero_1
 
 \lx ~amei
 \ph (i·)amei
@@ -2025,7 +2025,7 @@ one I can swear on.
 \xv Pe-ka p-atui botu 'none!
 \xn Come and have a go at (lifting) my boat!
 \sn 2
-\wn + Subord. |vl{pe}
+\wn + Subord. |vl{pe_2–4}
 \dn try unsuccessfully, |fl{hence} fail, not manage to do s.th.
 \xv Ni-atui pe ni-mokoiu.
 \xn I had a hard time finding sleep.
@@ -2445,7 +2445,7 @@ them so as to be cooked (|fv{~apinu}) or baked (|fv{~vai}).
 \xv Awisi pine peini angede ovene ai-akasi i-ka.
 \xn Many thanks for the email you sent me.
 \un
-\en Usually reinforced with |fv{pine} ‘big’, or |fv{pine tamwase} ‘very big’.
+\en Usually reinforced with |fv{pine} ‘big’, or |fv{pine} |fv{tamwase} ‘very big’.
 \sn 2
 \wn
 \hn esp
@@ -2736,7 +2736,7 @@ should be restricted to a single island (|vl{Banie.B–2}).
 \ps n
 \dn petiole of the coconut palm
 \sd Bot
-\xv |fv{boe baro}
+\xv |fv{bwoe baro}
 \xn [coconut-petiole shark] hammerhead shark
 \urlx
 \se oie baro
@@ -3041,17 +3041,6 @@ inside.
 \cf engaiote
 \cn different
 
-\lx be mata
-\ph ᵐbe mata
-\ps n
-\mr (?) + <compo>mata</compo> ‘eyes’
-\dn long antennae found on certain ritual headdresses (|fv{tamate}),
-representing the Spirit's eyes
-\xv Noma, mata pon, be mata pon! Tilu.
-\zn mythical times
-\xn In the olden days, their eyes were actually on two antennae.
-\urlx https://doi.org/10.24397/pangloss-0003351#S162
-
 \lx bea
 \ph ᵐbea
 \lvn lale
@@ -3276,6 +3265,22 @@ almond shelf; then they lit a fire underneath, to dry them up.
 crushing them.
 \urlx https://doi.org/10.24397/pangloss-0003351#S5
 
+\lx bemata
+\ph ᵐbemata
+\ps n
+\mr (?) + <compo>mata</compo> ‘eyes’
+\img px/BerngyTee_Tamate.jpg
+\lg Certain |vl{tamate} headdresses show the Spirits’ antennae
+\dn long antennae found on certain ritual headdresses (|fv{tamate}),
+representing the Spirit's eyes
+\xv Noma, mata pon, bemata pon! Tilu.
+\zn mythical times
+\xn In the olden days, their eyes were actually on two antennae.
+\urlx https://doi.org/10.24397/pangloss-0003351#S162
+\cf Mata Teva
+\lf Cf.
+\lv Mata Tilu
+
 \lx beme
 \ph ᵐbeme
 \lvn beme
@@ -3290,7 +3295,7 @@ crushing them.
 \lx beniawo
 \ph ᵐbeniawo
 \ps n
-\mr <compo>be_1</compo> + <compo>iawo</compo>
+\mr Cf. <compo>iawo</compo> ‘fire’
 \dn ashes
 \xv Ni-bo beniawo ni-le ni-laioi.
 \xn I collected the ashes and threw them away.
@@ -3696,16 +3701,16 @@ in the middle.
 \dn be shut
 \xv Mataruene i-bono.
 \xn The door is shut.
-\cf ~su_2
-\cn blocked
-\an ~ko_3
+\cf ~su_2.A
+\cn shut, close
+\an ~ko_3.A
 \gp B
 \ps vt
 \wr B
 \dn shut ‹door+›
 \xv Ka li-ko ruene, ka li-tabo li-bono.
 \xn They open the door, and then shut it back.
-\an ~ko_3
+\an ~ko_3.B
 
 \lx bonge
 \ph ᵐboŋe
@@ -4436,8 +4441,8 @@ individuals
 \xv menu → |fv{da=}|fv{meliko}
 \xn child → children
 \un Synt.
-\en Ordinary nouns encode their plural using |fv{dapa} or |fv{uña}, |fl{e.g.} |vl{dapa teliki}
-~ |vl{uña teliki}  ‘(the) chiefs’.
+\en Ordinary nouns encode their plural using |fv{dapa} or |fv{uña}, |fl{e.g.} |vl{dapa}
+|vl{teliki} ~ |vl{uña} |vl{teliki}  ‘(the) chiefs’.
 \el POc
 \et *ra
 \eg 3 plural
@@ -4586,9 +4591,9 @@ island.
 \xv Ni-vodo ni-ko eo ka uña damiliko iono pi-te wako.
 \xn I hope that you and your children are well.
 \un Morph.
-\en Originally |vl{da meliko} with plural |fv{da=} clitic; the dual form is |fv{da-tilu meliko}
-‘the two children’. The form sometimes has redundant plural marking: |fv{uña
-dameliko}.
+\en Originally |vl{da} |vl{meliko} with plural |fv{da=} clitic; the dual form is
+|fv{da-tilu} |fv{meliko} ‘the two children’. The form sometimes has redundant
+plural marking: |vl{uña} |vl{dameliko}.
 \sy menu
 \lf Sg.
 \lv apali
@@ -4764,7 +4769,8 @@ towards them.
 \xn The men girt themselves in loincloths, the women in skirts.
 \urlx https://doi.org/10.24397/pangloss-0003352#S21
 \un Morph.
-\en Originally |vl{da penuo} with plural |fv{da=} clitic; the dual form is |fv{da-tilu penuo} ‘the two men’.
+\en Originally |vl{da penuo} with plural |fv{da=} clitic; the dual form is |vl{da-tilu}
+|vl{penuo} ‘the two men’.
 
 \lx da-tilu
 \va datilu
@@ -4773,7 +4779,7 @@ towards them.
 \gp A
 \wr A
 \ps det
-\mr <compo>da=2</compo> + <compo>tilu</compo>
+\mr <compo>da=_2</compo> + <compo>tilu</compo>
 \dn dual proclitic, combined with the same irregular plural nouns as |fv{da=}
 \xv da-tilu viñevi mwatebe
 \xn two virgin women
@@ -4828,9 +4834,9 @@ towards them.
 \xv Temabete me mawene, li-garei pe daviñevi li-te ene.
 \xn Women are forbidden from sitting on mats or semi-mats.
 \un Morph.
-\en Originally |vl{da viñevi} with plural |fv{da=} clitic; the dual form is |fv{da-tilu
-viñevi} ‘the two women’. The form |vl{viñevi} sometimes appears in compounds,
-|fl{e.g.} |fv{da meliko viñevi} ‘female children, |fl{i.e.} girls’.
+\en Originally |vl{da viñevi} with plural |fv{da=} clitic; the dual form is |vl{da-tilu}
+|vl{viñevi} ‘the two women’. The form |vl{viñevi} sometimes appears in
+compounds, |fl{e.g.} |vl{da} |vl{meliko} |vl{viñevi} ‘female children, |fl{i.e.} girls’.
 \el POc
 \et *pine
 \eg woman
@@ -5022,6 +5028,14 @@ themselves in the water, men would use a shark tooth to shave their beard or the
 \cf die moso
 \cn spine
 
+\lx diemoso
+\ph ⁿdiemoso
+\lvn lebwe
+\ps n
+\mr Cf. <compo>die</compo> ‘bone’
+\dn spine
+\sd Anat
+
 \lx dienebe
 \ph ⁿdieneᵐbe
 \ps n
@@ -5035,7 +5049,8 @@ themselves in the water, men would use a shark tooth to shave their beard or the
 \lx digo
 \ph ⁿdiᵑgo
 \ps n
-\dn vertical post holding the walling of a house (|fv{tele moe}), and supporting a tie-beam (|fv{basadigo}).
+\dn vertical post holding the walling of a house (|fv{telemoe}), and supporting a
+tie-beam (|fv{basadigo}).
 \sd Archi
 \xv Li-toe iuro, ae, digo, we uña ngatene nga pon, peini kape le-vo.
 \xn They made pillars, beams, and all the pieces so they could build [the house].
@@ -5713,7 +5728,7 @@ feel hot…
 \dn shake, have an earthquake
 \xv La-lengi tanoe pe ka i-ekili.
 \xn They felt the earth shake.
-\sy ~wai_2
+\sy ~wai_2.A
 \cf miko
 \cn earthquake
 
@@ -5809,13 +5824,19 @@ feel hot…
 \xv Emele, we mwalkote?
 \zn baby
 \xn Is it a girl, or a boy?
-\xv emele aplaka
-\xn small girl
 \xv emele damala
 \xn a Western woman
 \xv U-le u-wasu emele re u-min' ene!
 \xn Please go and connect me with that girl!
 \an mwalikote
+\se emele aplaka
+\va emele apilaka
+\ps n
+\mr <compo>emele</compo> + <compo>apilaka</compo>
+\ll small woman
+\dn young girl, young woman (|fl{opp.} |fv{momoso}, adult woman)
+\xv Ini ka emele aplaka tae, ini ka momoso iote.
+\xn She's not a young girl any more, she has become a woman now.
 \sn 2
 \wn espec. with possessor
 \dn wife
@@ -6397,8 +6418,6 @@ possessor (|vl{one}).
 \ph ero
 \lvn wire
 \tnm nira
-\gp A
-\wr A
 \ps n
 \sn 1
 \dn water, |fl{esp.} fresh water
@@ -6457,9 +6476,10 @@ possessor (|vl{one}).
 \xv Ero ponu, enga ini ‘Ero Meie’.
 \xn That river was called ‘River Meie’.
 \urlx https://doi.org/10.24397/pangloss-0003352#S84
+\sy iaero
 \se waluko ero
 \ps n
-\mr <compo>waluko</compo> ‘side’ + <compo>ero_1.A–2</compo> ‘river’
+\mr <compo>waluko</compo> ‘side’ + <compo>ero_1–2</compo> ‘river’
 \ll river side
 \dn river bank
 \xv Li-le li-te teta-vene pon, ne waluko ero.
@@ -6469,16 +6489,6 @@ possessor (|vl{one}).
 \dn liquid
 \xv |fv{ero korone}
 \xn [powerful liquid] alcohol
-\gp B
-\ps pred
-\wr B
-\hn fig
-\uv hair
-\dn be long and falling, like a river
-\xv Viabasa dapa Tekupie ero.
-\xn Tikopians have long hair.
-\an ome
-\cf viabasa
 \el POc
 \et *waiR
 
@@ -6497,7 +6507,7 @@ possessor (|vl{one}).
 \xv ero me buluka
 \xn cow's milk
 \un Etym.
-\en The forms in Lovono and Tanema suggests that the similarity of |fv{ero} ‘milk’ and
+\en The forms in Lovono and Tanema show that the similarity of |fv{ero} ‘milk’ and
 |fv{ero} ‘water’ in Teanu is coincidental.
 \cf ne_1.B–1
 \lf ClPos
@@ -6522,6 +6532,21 @@ possessor (|vl{one}).
 \xn Her breasts! Such beautiful breasts!
 \sy waero
 \cf me_3
+
+\lx ero
+\hm 3
+\ps pred
+\mr Cf. (?) <compo>ero_1</compo>  ‘water, stream’
+\uv hair
+\dn be long and falling
+\xv Viabasa dapa Tekupie ero.
+\xn Tikopians have long hair.
+\un Etym.
+\en This term, always used as a predicate, may involve a comparison of long hair with a
+flowing stream.
+\an ome
+\cf viabasa
+\lf
 
 \lx etapu
 \ph etapu
@@ -6938,7 +6963,7 @@ distant or invisible person in the bush
 
 \lx ia
 \hm 1
-\ph ia
+\ph ja
 \ps intj
 \dn exclamatory particle used when handing s.th. to s.o.: ‘here you are’
 \xv Ia! Okor' ono!
@@ -6946,7 +6971,7 @@ distant or invisible person in the bush
 
 \lx ia
 \hm 2
-\ph ia
+\ph ja
 \lvn ia
 \tnm ia
 \ps coord
@@ -6961,7 +6986,7 @@ distant or invisible person in the bush
 
 \lx ~ia
 \hm 3
-\ph (i·)ia
+\ph (i·)ja
 \ps vt
 \sn 1
 \dn rub intensely ‹s.th.› so as to alter its shape; file ‹s.th.›
@@ -6984,7 +7009,7 @@ distant or invisible person in the bush
 
 \lx ~ia
 \hm 4
-\ph (i·)ia
+\ph (i·)ja
 \ps vt
 \dn remove ‹guts of fish+›
 \xv U-do ngava, awoiu u-ia bea mina.
@@ -6993,7 +7018,7 @@ distant or invisible person in the bush
 \cn guts
 
 \lx iaba
-\ph iaᵐba
+\ph jaᵐba
 \lvn iemere
 \tnm (ak)egabe
 \ps pos
@@ -7007,7 +7032,7 @@ classifier (|fv{enone}*), with a 1 exclusive dual possessor (|fl{see}
 \xn We are betrothing your daughter to our son.
 
 \lx iabuiepa
-\ph iaᵐbuiepa
+\ph jaᵐbujepa
 \ps n
 \dn thunder
 \xv Ka iolulu! tebo! ngiro! iabuiepa!
@@ -7016,7 +7041,7 @@ classifier (|fv{enone}*), with a 1 exclusive dual possessor (|fl{see}
 \sy iolulu
 
 \lx iada
-\ph iaⁿda
+\ph jaⁿda
 \lvn iedere
 \tnm (ak)edea
 \ps pos
@@ -7028,7 +7053,7 @@ classifier (|fv{enone}*), with a 3 dual possessor (|fl{see} |fv{da})
 \urlx https://doi.org/10.24397/pangloss-0003351#S1
 
 \lx iadapa
-\ph iaⁿdapa
+\ph jaⁿdapa
 \lvn iodore
 \tnm (ak)edato
 \ps pos
@@ -7077,7 +7102,7 @@ uses
 \xn You can turn (a bunch of) sago midribs into a broom.
 
 \lx iae
-\ph iae
+\ph jae
 \lvn ese
 \tnm jive
 \ps intj
@@ -7087,7 +7112,7 @@ uses
 \xn Leave that, that's the rubbish! Yuck!
 
 \lx iaero
-\ph iaero
+\ph jaero
 \lvn sawire
 \tnm
 \gp A
@@ -7103,7 +7128,7 @@ uses
 \xn on the river bank
 \xv |fv{al’ ero} ne iaero
 \xn the river mouth [|ax{lit.} foot]
-\cf ero_1.A
+\cf ero_1
 \gp B
 \ps np
 \wr B
@@ -7120,7 +7145,7 @@ uses
 \xn You mix (it) with water.
 
 \lx iaidi
-\ph iaiⁿdi
+\ph jaiⁿdi
 \ps pos
 \sn 1
 \dn people's: form of the general possessive classifier (|fv{enone}*), with an
@@ -7159,7 +7184,7 @@ clothes, their hair, the food they left, the nut they chewed…
 \lv io
 
 \lx iaipa
-\ph iaipa
+\ph jaipa
 \lvn
 \tnm (ak)edato
 \ps pos
@@ -7173,7 +7198,7 @@ clothes, their hair, the food they left, the nut they chewed…
 \urlx https://doi.org/10.24397/pangloss-0003351#S62
 
 \lx iakapa
-\ph iakapa
+\ph jakapa
 \lvn iegitore
 \tnm (ak)egeto
 \ps pos
@@ -7205,7 +7230,7 @@ with a 1st inclusive plural possessor (|fv{kiapa})
 \xn He wrote a book with several stories from our country.
 
 \lx iakia
-\ph iakia
+\ph jakia
 \lvn iegitore
 \tnm (ak)egie
 \ps pos
@@ -7224,7 +7249,7 @@ with a 1st inclusive plural possessor (|fv{kiapa})
 \cf akia
 
 \lx iamela
-\ph iamela
+\ph jamela
 \lvn iemiere
 \tnm emile
 \ps pos
@@ -7239,7 +7264,7 @@ with a 1st inclusive plural possessor (|fv{kiapa})
 
 \lx iape
 \hm 1
-\ph iape
+\ph jape
 \lvn ia
 \tnm na, ena, ake nini
 \ps pos
@@ -7266,7 +7291,7 @@ singular possessor (|fl{see} |fv{ini})
 
 \lx iape
 \hm 2
-\ph iape
+\ph jape
 \lvn
 \tnm ena
 \ps pos
@@ -7283,7 +7308,7 @@ singular possessor (|fl{see} |fv{ini})
 \cf one
 
 \lx iawo
-\ph iawo
+\ph jawo
 \lvn nepie
 \tnm niava
 \ps n
@@ -7463,7 +7488,7 @@ language, everything we do…
 
 \lx ie
 \hm 1
-\ph ie
+\ph je
 \lvn ie
 \tnm ake
 \ps pos
@@ -7491,7 +7516,7 @@ a noun possessor
 
 \lx ie
 \hm 2
-\ph ie
+\ph je
 \ps pos
 \wn foll. by NP
 \dn (relative) of (X):  form of the possessive classifier used for kin
@@ -7504,7 +7529,7 @@ terms (|fv{one}*), with a noun possessor
 
 \lx ie
 \hm 3
-\ph ie
+\ph je
 \ps n
 \img drw/dauphin.png
 \dn dolphin
@@ -7555,7 +7580,7 @@ mother.
 go to sleep.
 
 \lx iero
-\ph iero
+\ph jero
 \ps n
 \img px/2006-01-21_Casuarina.jpg
 \dn She-oak
@@ -7630,11 +7655,12 @@ go to sleep.
 \lvn milipie
 \tnm
 \ps n
-\mr <compo>maluo</compo>  ‘life, way of life’
+\mr <compo>~maluo</compo>  ‘live’
 \uv s.o.
 \dn behaviour; general attitude, character
 \xv Awa ene i-viaene imaluo iape.
 \xn I like her character.
+\sy ~maluo.B
 
 \lx imuo
 \ph imuo
@@ -7698,7 +7724,7 @@ especially true for inanimate referents: ‘I saw it’ would be |vl{Ka ni-romo.
 \xn That's it!
 
 \lx io
-\ph io
+\ph jo
 \lvn
 \tnm io
 \ps intj
@@ -7727,7 +7753,7 @@ fish.”
 \mn ~iui
 
 \lx iolulu
-\ph iolulu
+\ph jolulu
 \ps n
 \dn thunder
 \xv Ka iolulu! tebo! ngiro! iabuiepa!
@@ -7738,7 +7764,7 @@ fish.”
 \cn lightning
 
 \lx iono
-\ph iono
+\ph jono
 \lvn iemie
 \tnm ei, eni
 \ps pos
@@ -7753,7 +7779,7 @@ a 2 singular possessor (|fl{see} |fv{eo})
 \xn [|ax{lit.} How many are your years?] How old are you? – Fourteen.
 
 \lx iote
-\ph iote
+\ph jote
 \lvn leka
 \tnm keo
 \gp A
@@ -7832,7 +7858,7 @@ a 2 singular possessor (|fl{see} |fv{eo})
 \urlx https://doi.org/10.24397/pangloss-0003351#S99
 
 \lx ioti
-\ph ioti
+\ph joti
 \lvn ioti
 \ps n
 \dn dark cloud carrying rain
@@ -7857,7 +7883,7 @@ a 2 singular possessor (|fl{see} |fv{eo})
 
 \lx iu
 \hm 1
-\ph iu
+\ph ju
 \lvn ngau
 \tnm iu
 \ps adv
@@ -7878,7 +7904,7 @@ a 2 singular possessor (|fl{see} |fv{eo})
 
 \lx ~iu
 \hm 2
-\ph (i·)iu
+\ph (i·)ju
 \lvn
 \tnm ~po
 \ps vt
@@ -7901,7 +7927,7 @@ an earthquake.
 
 \lx ~iu
 \hm 3
-\ph (i·)iu
+\ph (i·)ju
 \ps vt
 \dn thread ‹several things› using a string or thread
 \xv Dapa Iura li-la vesevelae li-iu me viko.
@@ -7909,7 +7935,7 @@ an earthquake.
 
 \lx ~iui
 \va ~ioi
-\ph (i·)iui
+\ph (i·)jui
 \lvn ~tui
 \tnm ~so
 \ps vt
@@ -7948,7 +7974,7 @@ till he threw it far away.
 \sy ~ago
 
 \lx iuko
-\ph iuko
+\ph juko
 \ps n
 \dn Red silkwood (Sapotaceae)
 \sc Burckella obovata
@@ -7984,7 +8010,7 @@ till he threw it far away.
 \xn That (ship) anchor, I have seen it with my own eyes.
 
 \lx ~iumu
-\ph (i·)iumu
+\ph (i·)jumu
 \lvn ~ono
 \tnm ~amo, ~amu
 \ps aux
@@ -8114,7 +8140,7 @@ till he threw it far away.
 \cn pufferfish
 
 \lx iunubo
-\ph iunuᵐbo
+\ph junuᵐbo
 \lvn nunumie
 \tnm nuba
 \ps n
@@ -8137,7 +8163,7 @@ oven
 \xn They will wrap [the food], and fasten every parcel using rope.
 
 \lx iupa
-\ph iupa
+\ph jupa
 \lvn iemitore
 \tnm (ak)egamuto
 \ps pos
@@ -8155,7 +8181,7 @@ classifier (|fv{enone}*), with a 1 exclusive plural possessor
 \xn our ancestors
 
 \lx iura
-\ph iura
+\ph jura
 \lvn leve ngau
 \tnm iu-da
 \gp A
@@ -8193,7 +8219,7 @@ the Torres and Banks Islands, in northern Vanuatu
 \xn They used to travel to (north) Vanuatu on their canoes.
 
 \lx iuro
-\ph iuro
+\ph juro
 \ps n
 \sn 1
 \uv house
@@ -8214,7 +8240,7 @@ the Torres and Banks Islands, in northern Vanuatu
 \cf kuo
 
 \lx iutego
-\ph iuteᵑgo
+\ph juteᵑgo
 \ps n
 \img px/Francois_charpente2.jpg
 \dn forked pillar standing in each corner of the house, holding the framing of the roof
@@ -8238,8 +8264,8 @@ the Torres and Banks Islands, in northern Vanuatu
 \sn 0
 \dn interrogative verb enquiring about a whole situation
 \un Morph.
-\en |fv{Ive} is formally an instance of an interrogative verb |fv{~ve_1}, which always surfaces
-at the 3sg |fv{i-ve}, whether Realis or Irrealis.
+\en The form |fv{ive} is formally an instance of an interrogative verb |fv{~ve_1}, which
+always surfaces at the 3sg |fv{i-ve}, whether Realis or Irrealis.
 \sn 1
 \wn main predicate
 \dn what happens? what's up? how's things?
@@ -8513,7 +8539,7 @@ event
 \zn numeral predicate
 \xn [hours are (already) five] It's five o'clock now.
 \un Morph.
-\en A stronger, stressed variant of |fv{ka} is |fv{kata ka}.
+\en A stronger, stressed variant of |fv{ka} is |fv{kata ka} (see |fv{katae ka}).
 \cf ka… tae
 \cn not any more
 \sn 2
@@ -9390,7 +9416,7 @@ following] them all.
 \lx kava
 \ph kava
 \lvn kava
-\img drw/kava.jpg
+\img px/AlexFrancois_Piper-methysticum.jpg
 \ps n
 \sn 1
 \dn kava plant
@@ -9693,7 +9719,7 @@ exclusive dual
 \lx ~kevei
 \ph kevei
 \ps vt
-\mr Caus. of <compo>~ke_2</compo> ‘go out’
+\mr Caus. of <compo>~ke_2.A</compo> ‘go out’
 \dn take ‹s.th., s.o.› out
 \xv Ini i-aiu i-ka i-le i-koie i-tabe pi' iape i-kevei.
 \xn She came in, took her grandson in her arms, and took him out (of the
@@ -9845,7 +9871,7 @@ dance.
 \en Vanikoro has no phone. Communication between villages, or with other islands,
 is done by teleradio.
 \sn 4
-\wn followed by |vl{~ko_2}
+\wn followed by |vl{~ko_2.B}
 \dn call ‹s.th., s.o.› with such and such a name
 \xv Dapa li-kila li-ko “Beme” pe ini beme.
 \xn They call him “Baldhead” because he's bald.
@@ -10081,9 +10107,8 @@ do you mean, there's no baby?”
 \xn The boy will strike the canoe's hull, and then he'll go “Hey ho! Push!
 Hey ho! Push!”
 \urlx https://doi.org/10.24397/pangloss-0003350#S24
-\xv |fv{nga li-ko}
-\zn formula used when looking for one's words
-\xn [|ax{lit.} as they say] how should I say…
+\cf nga li-ko
+\cn formula used when looking for one's words
 \sy ~vete
 \se li-ko
 \ps pred
@@ -10273,9 +10298,10 @@ rescue them.
 \dn be open
 \xv Jokoro pon, tevie i-ko, tevie li-botongo.
 \xn On bamboo drums, one side is open, the other side is shut.
+\an ~bono.A
 \se ~ko pine
 \ps vi
-\mr <compo>~ko_3</compo> ‘open’ + <compo>pine</compo> ‘large’
+\mr <compo>~ko_3.A</compo> ‘open’ + <compo>pine</compo> ‘large’
 \ll open big
 \uv mouth, eyes, legs+
 \dn be wide open
@@ -10294,7 +10320,7 @@ rescue them.
 being opened.
 \xv Ka li-ko ruene, ka li-tabo li-bono.
 \xn They open the door, and then shut it back.
-\urlx
+\an ~bono.B
 
 \lx ~ko
 \hm 4
@@ -10375,7 +10401,7 @@ called Utupua.
 \gp A
 \ps vt
 \wr A
-\mr <compo>~ko_2</compo> + <compo>me_2</compo>  ‘Subjunctive’
+\mr <compo>~ko_2.A</compo> + <compo>me_2</compo>  ‘Subjunctive’
 \wn + Irrealis
 \dn want to, intend to
 \xv Ni-ko me n-ajau kopi abia.
@@ -10481,7 +10507,7 @@ ship was coming back.
 \urlx https://doi.org/10.24397/pangloss-0003353#S14
 \xv Li-koie ne lema kuo awoiu pon, ka li-le.
 \xn They stepped into the canoe, and took off.
-\an ~ke_2
+\an ~ke_2.A
 \sn 2
 \uv s.o.
 \dn be inside
@@ -10744,7 +10770,7 @@ there.
 \lvn ~tuvene
 \tnm ~wo'o
 \ps vi
-\mr <compo>~ko_3</compo> ‘open’ + <compo>pine</compo> ‘large’
+\mr <compo>~ko_3.A</compo> ‘open’ + <compo>pine</compo> ‘large’
 \sn 1
 \ll wide open
 \uv hole, sea+
@@ -10766,7 +10792,7 @@ there.
 \xn Shift yourself a little (that way)!
 \xv Ka li-kopu li-vene li-le. 
 \xn They decided to move (camp) uphill.
-\cf ~le_2
+\cf ~le_2.A
 \cn go
 
 \lx koro
@@ -11104,6 +11130,8 @@ there.
 \xv ne tevie kulumoe
 \xn the other side of the world
 \sy lovia vono
+\lf Syn.
+\lv marama
 
 \lx kumara
 \ph kumara
@@ -11354,8 +11382,7 @@ down, and she'll pick it up.
 \xv I-ko i-la abo ne kaipa i-ko i-romo abo i-ko pi-tavie we tae.
 \xn He wants to draw [|ax{lit.} take] your blood and examine it to see if you are sick.
 \cf ~labu
-\lf Cf.
-\lv ~lui
+\cf ~lui
 \sn 2
 \hn esp
 \wn often first verb in serialisation
@@ -11477,9 +11504,9 @@ non-compositional phrases
 person
 \sd
 \un
-\en The prefix surfaces as |fv{lai-} before certain monosyllabic verbs (|fl{e.g.} |fv{~ko_2} >
-|vl{la-ko}/|vl{lai-ko}, |fv{~la_1} > |vl{la-la}/|vl{lai-la}) but not others (|fl{e.g.} |fv{~ka_3} >
-|vl{la-ka}/*|vl{lai-ka}, |fv{~le_2} > |vl{la-le}/*|vl{lai-le}).
+\en The prefix surfaces as |fv{lai-} before certain monosyllabic verbs (|fl{e.g.} |fv{~ko_2.A} >
+|vl{la-ko}/|vl{lai-ko}, |fv{~la_1} > |vl{la-la}/|vl{lai-la}) but not others (|fl{e.g.} |fv{~ka_3.A} >
+|vl{la-ka}/*|vl{lai-ka}, |fv{~le_2.A} > |vl{la-le}/*|vl{lai-le}).
 \sn 1
 \wn
 \dn you and I: 1st inclusive dual subject
@@ -11621,7 +11648,7 @@ hook+’.
 \gp A
 \wr A
 \ps adj
-\mr (?) <compo>~la</compo> ‘take’ + <compo>biouro</compo>  ‘long’
+\mr <compo>~la</compo> ‘take’ + <compo>biouro</compo>  ‘long’
 \dn lasting a long time, long
 \xv Ka labiou mijaka.
 \xn It's been a long time already.
@@ -12062,7 +12089,7 @@ for axe handles
 \xn Where are you two going?
 \xv Ni-garei eo pe u-le re!
 \xn I forbid you from going there!
-\an ~ka_3
+\an ~ka_3.A
 \cf ~vilu
 \sn 2
 \wn first verb in serial pattern, with locative phrase
@@ -12228,9 +12255,9 @@ southwards.
 person
 \sd Gram
 \un
-\en Variant |fv{li-} before a radical starting from a vowel: e.g. |vl{le-} +
-|vl{ovei} = |vl{li-ovei} ‘they know’. For these verbs, the realis and irrealis
-3pl are homophonous.
+\en Variant |fv{li-} before a radical starting from a vowel: e.g. |vl{le-} + |vl{~ovei} =
+|vl{li-ovei} ‘they know’. For these verbs, the realis and irrealis 3pl are
+homophonous.
 \sn 1
 \dn 1st inclusive plural subject (|fl{see} |fv{kiapa}): you and us
 \xv Kape le-tabo le-katau na kiapa ponu.
@@ -12803,12 +12830,12 @@ then he dut out the wood.
 \va loubaido
 \mr <compo>loubo</compo> ‘crab’ + (?)
 \img px/Francois_2005_koko-krab.jpg
-\lg A coconut crab (|vl{loubaido})
+\lg A coconut crab (|vl{louboaido})
 \dn coconut crab
 \sc Birgus latro
 \sd Zool
 \xv buia loubaido
-\xn [testicles of c.c.] abdomen of a coconut crab
+\xn abdomen [|ax{lit.} testicles] of a coconut crab
 \xv li-labu louboaido
 \xn hunt for coconut crabs
 
@@ -13222,6 +13249,7 @@ till he threw it far away.
 \xn clubhouse for youngsters
 \xv |fv{Voko ma Gete}
 \xn Youngsters' Rock
+\cf mam
 \sn 2
 \dn (house) for ‹s.th.›
 \xv moe ma longe
@@ -13253,7 +13281,7 @@ till he threw it far away.
 \ph maᵐbere
 \ps n
 \dn Purse-eyed scad
-\sc Selar crumenopthalmus
+\sc Selar crumenophthalmus
 \sd Fish
 
 \lx ~mabie
@@ -13412,7 +13440,7 @@ till he threw it far away.
 \xv I-mali iawo awoiu i-lui voko tilu pon i-le i-wen’ ene.
 \xn She lit a fire, and put two stones upon it.
 \urlx https://doi.org/10.24397/pangloss-0003352#S89
-\en |fv{~maili iawo} commonly contracts as |fv{~maliawo}.
+\en The phrase |fv{~maili} |fv{iawo} commonly contracts as |fv{~maliawo}.
 \cf ~su_1
 \cn burn
 
@@ -13568,17 +13596,23 @@ till he threw it far away.
 \el POc
 \et *maqurip
 
-\lx mam tadoe
-\ph mam.taⁿdoe
+\lx mam
+\ph mam
+\ps nop
+\mr Contraction <compo>moe</compo> + <compo>ma_2.B</compo>
+\dn home of ‹s.o., s.th.›
+\mn ma_2.B
+\se mam tadoe
 \ps n
-\mr Contraction <compo>moe ma</compo> + <compo>tadoe</compo>
+\mr <compo>mam</compo> + <compo>tadoe</compo>
 \ll home of spirits
 \dn place (|fl{typic.} cave), whether covered or not, haunted by spirits or deities
 (|fv{tadoe}); |fl{hence} heathen temple
 \sd Ethn
-\xv Mam tadoe Ngama
+\xv mam tadoe Ngama
 \xn the temple of spirits, in Ngama
 \mn moe ma tadoe
+
 
 \lx mama
 \hm 1
@@ -13850,7 +13884,7 @@ wood. That traditional form of money, they call it ‘noviapu’.”
 \xn Everybody in this world just wants to live in peace.
 \sy lovia vono
 \lf Syn.
-\lv kulumoe_5
+\lv kulumoe–5
 \el Mota
 \et marama
 \eg world
@@ -13867,7 +13901,7 @@ wood. That traditional form of money, they call it ‘noviapu’.”
 \zn with Prohibitive |vl{etapu}
 \xn But they forbade you from going out!
 \urlx https://doi.org/10.24397/pangloss-0003352#S76
-\cf ~ke_2
+\cf ~ke_2.A
 \cn go out
 \an ne lema
 
@@ -14045,7 +14079,7 @@ wood. That traditional form of money, they call it ‘noviapu’.”
 \ps np
 \mr <compo>mata_1</compo> + <compo>teva</compo>
 \ll four eyes
-\dn name of a Spirit (|fv{tamate}), with four antenna-like eyes (|fv{be mata})
+\dn name of a Spirit (|fv{tamate}), with four antenna-like eyes (|fv{bemata})
 \sd Myth
 \cf tamate
 
@@ -14054,7 +14088,7 @@ wood. That traditional form of money, they call it ‘noviapu’.”
 \ps np
 \mr <compo>mata_1</compo> + <compo>tilu</compo>
 \ll two eyes
-\dn name of a Spirit (|fv{tamate}), with two antenna-like eyes (|fv{be mata})
+\dn name of a Spirit (|fv{tamate}), with two antenna-like eyes (|fv{bemata})
 \sd Myth
 \cf tamate
 
@@ -14736,7 +14770,7 @@ prow
 \xv I-le i-toe kuo iape ne ngogoro: kape i-toe i-abu i-wene, i-toe mengela mina awoiu, ka
 li-la longe mina.
 \xn He went to cut a canoe in the forest: first he chopped it down; then he cut off the top;
-then he dut out the wood.
+then he cut out the wood.
 \urlx https://doi.org/10.24397/pangloss-0003350#S5
 \sy wowo_1
 \sn 2
@@ -14751,7 +14785,7 @@ then he dut out the wood.
 \dn piece ‹of wood, |fv{vilo}›, stick
 \xv Viko pe Niteni li-ejau ñe viavia menuko, li-la abwa bale li-lateli ne mengela vilo.
 \xn When Santa Cruz people make their money with bird feathers, they use glue to stick them
-to a piece of woord.
+to a piece of wood.
 \sy vilo–4
 
 \lx metae
@@ -15075,7 +15109,7 @@ lived in peace.
 \dn earthquake
 \xv Nobwogo miko i-la i-wai moe ne.
 \xn Last night an earthquake shook the houses here.
-\cf ~wai_2
+\cf ~wai_2.A
 
 \lx mikodo
 \ph mikoⁿdo
@@ -15475,7 +15509,7 @@ in the middle.
 \xn Our flat is located below; as for the one above, it belongs to someone else.
 \xv Tepuke ponu, kuo pine; moe aplaka pon, ne pongo kuo pon.
 \xn The ‘tepuke’ ship is a large canoe; it has a small cabin, on top of the ship.
-\xv |fv{mwoe etapu}
+\xv |fv{moe etapu}
 \xn [holy house] church
 \xv |fv{moe ma tadoe}
 \xn the lair of Spirits
@@ -15534,8 +15568,10 @@ worship (|fv{~tamava}) their gods, and send prayers or imprecations.
 \ps vi
 \dn worship
 \xv Tadoe ponu, li-mokavase.
-\xn That god (|vl{Tan̄teala}) was the one they worshipped.
+\xn That god (|vl{Tangteala}) was the one they worshipped.
 \sy ~tamava
+\cf ~kilase–1
+\cn invoke
 
 \lx moko
 \ph moko
@@ -15963,18 +15999,6 @@ to old age and maturity: |fv{amoso}, |fv{momoso}, |fv{makumoso}.
 \lx moso
 \hm 2
 \ph moso
-\ps n
-\dn big?
-\se die moso
-\lvn lebwe
-\ps n
-\ll big (?) bone
-\dn spine
-\sd Anat
-
-\lx moso
-\hm 3
-\ph moso
 \lvn leve vakane
 \tnm lavele apika
 \ps adj
@@ -16131,7 +16155,7 @@ light]
 \xv Mou kape ra minga basavono, wako kape pe-tabo pe-ka.
 \xn Wait till the day we come back here.
 \urlx https://doi.org/10.24397/pangloss-0003269#S10
-\cf ~ko_4
+\cf ~ko_4.B
 \cn wait for ‹s.o.›
 \cf rema
 \cn (do) in waiting
@@ -16143,7 +16167,7 @@ light]
 \tnm lavele luola
 \ps n
 \dn left hand; left side
-\an moso_3
+\an moso_2
 \el POc
 \et *mauRi
 
@@ -16236,7 +16260,7 @@ Makira.
 |fv{~ovei} ‘know’.
 \an ~ovei
 \sn 2
-\dn be unable (to do, |fv{pe}+Clause)
+\dn be unable (to do, |fv{pe_2–4}+Clause)
 \xv I-mui pe i-mo.
 \xn He cannot speak.
 \xv Mamote i-mui pe i-tatale.
@@ -16255,7 +16279,7 @@ Makira.
 \sn 4
 \hn
 \uv
-\dn forget (to do, |fv{pe}+Clause)
+\dn forget (to do, |fv{pe_2–4}+Clause)
 \xv Ka ni-mui pe ni-vete.
 \xn I forgot to say it.
 \sn 5
@@ -16610,7 +16634,7 @@ subject marker |fv{li-–3}.
 \xn She's already been promised to a boy.
 \un Anth
 \en Traditionally, male teenagers used to receive education in a Club house called
-|fv{Toplau Mwagete}.
+|fv{Toplau mwa gete}.
 \sy dapa gete
 
 \lx mwatebe
@@ -16837,7 +16861,7 @@ crossed the limits of that territory which had been defined for them.
 \un
 \en The family of the man pays a solemn visit to the parents of the future bride. The
 engagement ceremony takes the form of a gift, |fl{esp.} of customary money
-(|fv{viko}). Sometimes, a black rope (|fv{tero bworo}) is given to the girl to wear on
+(|fv{viko}). Sometimes, a black rope (|fv{tero} |fv{bworo}) is given to the girl to wear on
 her wrist, as a sign of engagement.
 \sy ~vi nuduro
 \lf Syn.
@@ -16960,6 +16984,32 @@ their betel nut and lime, their food.
 \xn I speared a fish but it escaped.
 \xv Kape le-la teuko ne jokoro me le-katei ñe namuko.
 \xn We'll take a fishing rod and go angling [for fish].
+\cf ~oma
+\tab fish
+\tin Talking about fish
+\tiv namuko
+\cf die
+\cn fishbone
+
+\cf anes
+\cn flesh
+
+\cf ngava
+\cn scales
+
+\cf dekele
+\cn tail
+
+\cf ava_1–2
+\cn pectoral fin
+
+\cf bea
+\cn guts
+
+\cf ~oma
+\cn to fish, forage for seafood
+
+<groupe><phraseme><trada>bunch of caught ‹fish›</trada></groupe>
 
 \lx nanana
 \ph nanana
@@ -17134,7 +17184,7 @@ together, ended with the sinking of the dead person's mats in the sea (|fl{see}
 \xv I-katei ero ne et' iape.
 \xn He's sucking on the milk of his mother.
 \un
-\en Nouns such as |fv{abo} ‘blood’ and |fv{ero_2} ‘milk’ are original in encoding their
+\en Nouns such as |fv{abo_2} ‘blood’ and |fv{ero_2} ‘milk’ are original in encoding their
 possessor using |fv{ne}. Yet they are also compatible with the more common linker
 |fv{peini}.
 \sn 2
@@ -17571,7 +17621,7 @@ dances (instruments, jumping boards+)
 \dn Nomianu: a small islet (|fv{temotu}) located on the northeastern coast of Teanu island
 \se Nom’ Nomianu
 \ps top
-\dn name of the northeast cape (|fv{nom’}) on Nomianu islet
+\dn name of the northeast cape (|fv{Nom’}) on Nomianu islet
 \xv La-ke la-da noma re le-ka re, Nom’ Nomianu re.
 \xn They came out and turned up around that point over there, around Nom' Nomianu.
 \urlx https://doi.org/10.24397/pangloss-0003351#S152
@@ -18132,7 +18182,7 @@ taste of it.
 \ph ŋaliko
 \va ngaliko
 \ps disc
-\mr <compo>nga</compo> + <compo>~ko_2</compo>
+\mr <compo>nga</compo> + <compo>~ko_2.A</compo>
 \hn comm
 \ll like (we/they) say
 \dn formula used when looking for words: ‘such as’, ‘like’; ‘how should I say’, ‘you
@@ -18149,7 +18199,7 @@ part was white, which part was blue, here and here…
 \se nga ebele li-ko
 \ps disc
 \mr <compo>nga</compo> + <compo>ebele.A–6</compo> ‘body; example’ +
-<compo>~ko_2</compo>
+<compo>~ko_2.A</compo>
 \ll like (we/they) say
 \dn formula used when looking for words: ‘such as’, ‘like’; ‘how should I say’, ‘you
 know’
@@ -18502,6 +18552,16 @@ things]
 \un
 \mn nganae
 
+\lx ngava
+\ph ŋava
+\ps n
+\dn scales
+\sd Anat
+\sd Fish
+\xv U-do ngava, awoiu u-ia bea mina.
+\xn You scrape off the scales, and then gut it.
+\lf
+
 \lx ~nge
 \ph (i·)ŋe
 \ps vt
@@ -18635,7 +18695,6 @@ the fibres
 
 \cf Tokolau
 \cn W wind
-
 
 \el POc
 \et *aŋin
@@ -18910,7 +18969,7 @@ bushknife, machete
 
 \cf naka teuko
 \cn fishing rod
-\cf jokoro_2
+\cf jokoro–2
 \cn fishing rod
 \cf iula teuko
 \cn fishing line
@@ -18955,7 +19014,7 @@ bushknife, machete
 \dn frizzy
 \xv Viabasa ini ome.
 \xn She has frizzy hair.
-\an ero_1.B
+\an ero_3
 
 \lx ome
 \hm 2
@@ -19003,7 +19062,6 @@ singular possessor
 \an enone
 \lf Opp.
 \lv enaka
-
 \cf ie_2
 \cn of X
 
@@ -19144,7 +19202,7 @@ sheaths
 \dn bark
 \xv Kuli i-ou pe bogo.
 \xn The dog is barking because it's night.
-\cf ~mo_1
+\cf ~mo_2–1
 
 \lx ova
 \ph ova
@@ -19569,20 +19627,20 @@ habitual characteristic
 \hn somet
 \dn complementizer after certain verbs, |fl{esp.} with modal meaning (can; cannot;
 be good; be bad; be suitable+)
-\xv Da viñevi wopine li-|fv{ovei} pe li-anu kava.
+\xv Da viñevi wopine li-ovei pe li-anu kava.
 \xn Adult women can drink kava.
-\xv I-|fv{mui} pe i-mo.
+\xv I-mui pe i-mo.
 \xn He cannot speak.
-\xv Emel' enone i-|fv{mete} ini pe i-rom dokta.
+\xv Emel' enone i-mete ini pe i-rom dokta.
 \xn My wife is too shy to see the doctor.
-\xv |fv{votobo} pe le-sava tilu
+\xv Votobo pe le-sava tilu
 \xn it's better / it's enough to buy two.
 \xv Tamwaliko pe i-vio ne kulumoe iono ñoko.
 \xn It would be a shame if (this plant) only grew in your village.
 \urlx https://doi.org/10.24397/pangloss-0003353#S30
-\xv A-|fv{mene} pe u-e none ponu?
+\xv A-mene pe u-e none ponu?
 \xn Aren't you tired of eating that food?
-\xv Ni-|fv{garei} eo pe u-le re!
+\xv Ni-garei eo pe u-le re!
 \xn I forbid you from going there!
 \sn 5
 \hn rare
@@ -20822,6 +20880,7 @@ him: then he will leave that house.
 \xn Release the sail!
 \se ~re i-wene
 \ps svt
+\va ~rewene
 \ll leave-it it-lies
 \dn leave ‹s.th.› somewhere
 \xv U-re i-wene!
@@ -20948,7 +21007,7 @@ him: then he will leave that house.
 
 \cf ~kopine
 \cn high tide
-\cf ~ma
+\cf ~ma_3–2
 \cn low tide
 \cf ole
 \cn beach, sand
@@ -21021,7 +21080,9 @@ oven.
 \lx roe tebene
 \ph roe teᵐbene
 \ps n
-\ll |vl{roe} turned yellow
+\img px/AlexFrancois_quqay_Plants-album_70_s.jpg
+\lg The |vl{roe tebene} tree
+\mr Cf. <compo>tebene</compo> ‘yellowed’
 \dn k.o. tree, unidentified
 \sc
 \sd Bot
@@ -21855,7 +21916,7 @@ there.
 cultivation; practise slash-and-burn cultivation
 \xv Nanana kape le-su sekele.
 \xn Today we're burning the land.
-\sy ~tau_1
+\sy ~tau–2
 
 \lx ~su
 \hm 2
@@ -22598,8 +22659,8 @@ the night, the day, the night, the day…
 \xn As for the Tamate, their mother was called Takulalefioe.
 \urlx https://doi.org/10.24397/pangloss-0003351#S91
 \un Hist.
-\en This cultural practice was historically borrowed from the Banks islands (|fv{Iura}) further
-south.
+\en This cultural practice was historically borrowed from the Banks islands (|fv{iura})
+further south – an island mythically called |fv{Veluko}.
 \cf tadoe
 \cn deity, spirit, god
 \tab tamate
@@ -24420,6 +24481,7 @@ the Tanema language community
 \gp A
 \wr A
 \ps vi
+\mr Contraction of <compo>~teli utele</compo>  ‘plant a stem → begin’
 \dn begin, start
 \xv Wako, u-tetele!
 \xn Alright, start!
@@ -24429,8 +24491,6 @@ the Tanema language community
 \xv Kata kape le-tetele kape le-pinoe pon ta.
 \xn They were about to start dancing.
 \urlx https://doi.org/10.24397/pangloss-0003351#S121
-\un Etym.
-\en Contraction of |fv{~teli utele}, |fl{lit.} ‘plant a base’.
 \gp B
 \ps vt
 \wr B
@@ -25067,6 +25127,7 @@ belong to the same moiety.
 \cn ten
 \cf sangaulu
 \cn ten
+
 \cf tamana
 \cn linker for units
 
@@ -25908,7 +25969,7 @@ canoe) on log rollers
 \ps n
 \dn k.o. banana
 \xv Udo, enga tilu: udo vaiene, ka udo vakaero.
-\xn They had two types of bananas: |vl{vaiene}, and |vl{vakaero}.
+\xn They had two types of bananas: vaiene, and vakaero.
 \urlx https://doi.org/10.24397/pangloss-0003351#S103
 \se udo we tadoe
 \ps n
@@ -26785,6 +26846,16 @@ up.
 \cf momoso
 \ln old man
 
+\lx Veluko
+\ph feluko
+\ps loc
+\dn Feluko: a mythical island located southeast of Vanikoro, in northern Vanuatu
+(|fv{iura}) – the origin of |fv{tamate} dances and masks
+\xv Kulumoe temotu iadapa ponu, enga ini Veluko.
+\xn The small island they were coming from was called Veluko.
+\urlx https://doi.org/10.24397/pangloss-0003351#S73
+\cf tamate
+
 \lx ~vene
 \ph (i·)vene
 \lvn ~vene, ~ne
@@ -27051,7 +27122,7 @@ arms]
 \cf ~kilase
 \cn address s.o.
 
-\cf ~ko_2
+\cf ~ko_2.A
 \cn say, think
 
 \cf ~vodo
@@ -27183,7 +27254,7 @@ till he threw it far away.
 \dn perform a ritual of engagement (to a girl: |fv{se}) for oneself, or for o.'s son
 \xv Mwatagete iote ka i-vi nuduro se.
 \xn She's already engaged to someone. [|ax{lit.} A boy has already put up a taboo on her]
-\sy ~nabe_4
+\sy ~nabe–4
 \lf Syn.
 \lv ~teli mama
 
@@ -27280,7 +27351,7 @@ dishes, and so on.
 \cf kiñe viabasa
 \cn long head hair
 
-\cf ero_1.B
+\cf ero_3
 \cn long falling hair
 
 \cf pwelele
@@ -27375,7 +27446,7 @@ a (beautiful) song.
 \cf awa ~viane
 \sn 10
 \uv |vl{awa} ‘neck > will’
-\wn foll. by |vl{~ko_2}
+\wn foll. by |vl{~ko_2.B}
 \dn want to do s.th.; want that
 \xv Awa kupa i-viane pi-ko u-le u-romo tadoe akapa.
 \xn [our neck/will hits that you go see…] We'd like you to go and meet our god.
@@ -28288,14 +28359,14 @@ tanoe}) in the garden; |fl{hence} grow big
 \tnm ~vado
 \ps vt
 \sn 1
-\dn think, believe (that, |fv{~ko_2})
+\dn think, believe (that, |fv{~ko_2.B})
 \xv A-vodo a-ko kape l-ovei pe le-watebo teve dapa?
 \xn Do you think we'll be able to ask them?
 \cf ~ko_2.A–4
 \cn say; think, believe
 \sn 2
 \wn
-\dn hope (that, |fv{~ko_2})
+\dn hope (that, |fv{~ko_2.B})
 \xv Ni-vodo ni-ko eo ka uña damiliko iono pi-te wako.
 \xn I hope that you and your children are well.
 \urlx
@@ -28623,15 +28694,15 @@ present world.
 \ps adj
 \sn 1
 \uv s.th.
-\dn adequate, sufficient (that, |vl{pe} + clause)
+\dn adequate, sufficient (that, |vl{pe_2–4} + clause)
 \xv Ero na mijaka, votobo pe ni-anu tae.
 \xn There's too little water, it's not enough for me to drink.
 \sn 2
-\dn necessary (that, |vl{pe} + Irrealis clause)
+\dn necessary (that, |vl{pe_2–4} + Irrealis clause)
 \xv Li-bo kuo votobo pe i-la moro tete we teva.
 \xn Making a canoe can take up to three or four days.
 \sn 3
-\dn desirable, suitable (that, |vl{pe} + Irrealis clause)
+\dn desirable, suitable (that, |vl{pe_2–4} + Irrealis clause)
 \xv I-romo i-ko ka votobo pe i-ioi i-abu.
 \xn He saw it was the right moment to push down (the canoe).
 \urlx https://doi.org/10.24397/pangloss-0003350#S7
@@ -29122,7 +29193,7 @@ waist.
 \xn trunk of a coconut tree
 \xv |fv{waluko ote}
 \xn [sago bole] k.o. drum
-\sy oie_1
+\sy oie–1
 \sn 3
 \uv river
 \dn side, bank

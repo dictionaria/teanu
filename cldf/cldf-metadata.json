@@ -16,13 +16,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/teanu",
-            "dc:created": "6a044e7"
+            "dc:created": "3eca5dd"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes"
+            "dc:created": "v4.4"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 1877,
+            "dc:extent": 1880,
             "tableSchema": {
                 "columns": [
                     {
@@ -210,7 +210,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 2775,
+            "dc:extent": 2778,
             "tableSchema": {
                 "columns": [
                     {
@@ -403,7 +403,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2797,
+            "dc:extent": 2792,
             "tableSchema": {
                 "columns": [
                     {
@@ -528,7 +528,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 112,
+            "dc:extent": 111,
             "tableSchema": {
                 "columns": [
                     {
