@@ -50,9 +50,9 @@ XV000048,tkw,Kape n-abu lusa ene ne iaero.,,,I'm gonna wash my shirt in the rive
 XV000049,tkw,U-ka u-abu u-te ene!,,,Come sit down here!,,,,,SN000030 ; SN000563
 XV000050,tkw,Pi-ka pi-abui ngatene upa pi-ko me p-ajau toñaki iote.,,,We took our tools down (from the ship) so as to build another boat.,,,,,SN000031 ; SN000515 ; SN000943
 XV000051,tkw,"Li-toe bale, abwa i-pu i-ke.",,,"When you cut at a breadfruit, sap will come out.",,,,,SN000032
-XV000052,tkw,"Abwa dero i-ke mina oie basavono po li-toe, i-ka i-beiu ka li-kila li-ko “tepulu peini dero”.",,,"The sap of the kauri tree runs out of the trunk when you cut it; then it solidifies, and we call it tepulu1, “kauri gum”.",,,,,SN000032 ; SN000290 ; SN000454
+XV000052,tkw,"Abwa dero i-ke mina oie basavono po li-toe, i-ka i-beiu ka li-kila li-ko “tepulu peini dero”.",,,"The sap of the kauri tree runs out of the trunk when you cut it; then it solidifies, and we call it ‹tepulu1›, “kauri gum”.",,,,,SN000032 ; SN000290 ; SN000454
 XV000053,tkw,Li-kanu ra ra li-ra abwa nabene.,,,"As they chew betelnut, what they spit out is red.",,,,,SN000034 ; SN001899
-XV000054,tkw,"Dapa ka li-romo i-katau kiñe tamate, lusa ini, temaka ene pe moloe, ene po koro, ene po nga toloto, ene ka ene nga toloto –",,,"They would observe the grass skirts, the dancing gear; which part was red, which part was white, which part was green, here and here…",,,,https://doi.org/10.24397/pangloss-0003351#S176,SN000036
+XV000054,tkw,"Dapa ka li-romo i-katau ‹kiñe tamate›, lusa ini, temaka ene pe moloe, ene po koro, ene po nga toloto, ene ka ene nga toloto –",,,"They would observe the grass skirts, the dancing gear; which part was red, which part was white, which part was green, here and here…",,,,https://doi.org/10.24397/pangloss-0003351#S176,SN000036
 XV000055,tkw,"Dapa Niteni li-loko viavia mamdeuko pe moloe, li-la abwa bale li-lateli ne mengela vilo, li-ejau viko iadapa ñei.",,,"The people of Santa Cruz collect the red feathers of the Cardinal honeyeater, then use breadfruit sap to glue them to a piece of wood: that's how they make their traditional money.",,,,,SN000037
 XV000056,tkw,abwaro peini luro,,,coconut milk,,,,,SN000038
 XV000057,tkw,mama ada,,,their taro pudding,,,,,SN000039
@@ -90,7 +90,7 @@ XV000088,tkw,Loubo iote i-ke vidiviko ne ale ene.,,,A crab has bitten my toe.,,,
 XV000089,tkw,I-la aele wa-tuo.,,,He took six steps.,,,,,SN000056 ; SN001043 ; SN002373
 XV000090,tkw,aero pe idi li-ejau i-dai mane,,,the fence erected around the dancing area,,,,,SN000058
 XV000091,tkw,Aero iupa i-vio vitoko na.,,,Our (pig) pen is very close.,,,,,SN000059
-XV000092,tkw,aero ne matarone,,,[limit of entrance] threshold,,,,,SN000060
+XV000092,tkw,‹aero ne matarone›,,,[limit of entrance] threshold,,,,,SN000060
 XV000093,tkw,aero iadapa Teanu,,,the territory of the Teanu tribe,,,,,SN000061 ; SN000648
 XV000094,tkw,Le-le ne touro li-odo aero?,,,Shall we go to the reef shore and look for seashells?,,,,,SN000062 ; SN001712 ; SN002365
 XV000095,tkw,Li-ia aero.,,,scrape cone shells to make cowries,,,,,SN000064
@@ -158,7 +158,7 @@ XV000156,tkw,et’ akia,,,our mother (of you and me),,,,,SN000101
 XV000157,tkw,"Noma, viabas' ene i-ako.",,,I used to have blond hair.,,,,,SN000102
 XV000158,tkw,udo pe i-ako,,,ripe bananas,,,type of banana,,SN000104
 XV000159,tkw,vidiviko ne ale ene,,,my toes [lit. fingers of my foot],,,,,SN000105
-XV000160,tkw,al’ ero,,,[the foot of a river] river mouth,,,,,SN000106
+XV000160,tkw,‹al’ ero›,,,[the foot of a river] river mouth,,,,,SN000106
 XV000161,tkw,"Lai-au jebute, la-kidi puluko ada, lai-ali buioe ada, la-kamai ponu.",,,"They went to harvest some taros, pinch off some betel leaves, pick some areca nuts, and came back.",,,,https://doi.org/10.24397/pangloss-0003351#S4,SN000107 ; SN000891 ; SN001869
 XV000162,tkw,Kape u-ali pele po a-labu ponu?,,,Will you be casting that net you're holding?,,,,,SN000108 ; SN001850
 XV000163,tkw,alero peini iaero Paiu,,,the mouth of the Paiu river,,,,,SN000111 ; SN001770
@@ -188,7 +188,7 @@ XV000186,tkw,"Nga ne bogo, le-romo i-katau vangana kanmoro iu, li-ovei li-ejau a
 XV000187,tkw,Awa ini i-ko i-anu laro.,,,He'd like to drink a fresh coconut.,,,,Tamate.094,SN000139 ; SN001095
 XV000188,tkw,Li-anu kava awoiu ka li-vongo viri.,,,"We first drink kava, and then have dinner.",,,,https://doi.org/10.24397/pangloss-0003351#S94,SN000139 ; SN002576
 XV000189,tkw,"Li-anu ero pana ka li-kanu, ka li-moloe ne kat.",,,"We drink tea, we chew areca nuts, and we play cards.",,,,,SN000139 ; SN000769 ; SN000803 ; SN001445
-XV000190,tkw,viñe anuele,,,turtle shell (often cut into various ornaments),,,,,SN000140
+XV000190,tkw,‹viñe anuele›,,,turtle shell (often cut into various ornaments),,,,,SN000140
 XV000191,tkw,aña mana luro,,,a bit of rice,,,,,SN000143 ; SN001257
 XV000192,tkw,Aña wako tadoe!,,,[Taste is terribly good] This is absolutely delicious!,,,,,SN000144
 XV000193,tkw,None ne aña tamwaleko.,,,"[this food, taste is bad] This food doesn't taste good.",,,,,SN000144
@@ -274,8 +274,8 @@ XV000272,tkw,Toñaki ka i-avo tetake re.,,,The ship is moored over there.,,,,,SN
 XV000273,tkw,Li-avo tepapa ka li-apilo toñaki.,,,They made planks (by splitting wood) to build a ship.,,,,https://doi.org/10.24397/pangloss-0003270#S2,SN000208 ; SN002223
 XV000274,tkw,ekuo pe li-avo luro,,,a stick used to husk coconuts,,,,,SN000209 ; SN000532
 XV000275,tkw,Awa ene i-meli.,,,I have a sore throat.,,,,,SN000212
-XV000276,tkw,Awa ene i-su.,,,"[my throat is blocked, ~su3] I am sorry.",,,,,SN000213
-XV000277,tkw,Awa ene i-aka.,,,"[my throat blows, ~aka1] I am angry.",,,,,SN000213
+XV000276,tkw,Awa ene i-su.,,,"[my throat is blocked, ‹~su3›] I am sorry.",,,,,SN000213
+XV000277,tkw,Awa ene i-aka.,,,"[my throat blows, ‹~aka1›] I am angry.",,,,,SN000213
 XV000278,tkw,Awa ene motoro ñe piene pe a-viñ' ene.,,,[my throat/mind is heavy…] I give a lot of consideration to your words.,,,,,SN000213
 XV000279,tkw,Awa ene ni-ko ne-sava teve teliki.,,,I want to buy it from the chief.,,,,,SN000214 ; SN002263
 XV000280,tkw,"Awa eo i-viane? – Tae, ni-mene!",,,"Do you want it? – No, I don't.",,,,,SN000214 ; SN001340
@@ -328,7 +328,7 @@ XV000326,tkw,"Teliki Makumoso Banie i-waivo idi mwaliko ñe telepakau, ñe maluo
 XV000327,tkw,"Banie, pon Teliki iaidi pe li-maluo, iaidi pe li-bu.",,,"Banie was the god of the Living, but also the god of the Dead.",,,,,SN000245 ; SN000656 ; SN002188
 XV000328,tkw,A-samame dapa iakia ne kulumoe iakapa Banie ka Teanu.,,,"You’ve been helpful to our people, in our islands of Banie and Teanu. (i.e. in Vanikoro).",,,,,SN000247
 XV000329,tkw,Ni-ko me n-ajau kopi abia me le-waga i-dai kulumoe iakapa Banie.,,,"I want to print many copies, so I can distribute them across our whole Vanikoro territory.",,,,,SN000248 ; SN002655
-XV000330,tkw,bwoe baro,,,[coconut-petiole shark] hammerhead shark,,,,,SN000250
+XV000330,tkw,‹bwoe baro›,,,[coconut-petiole shark] hammerhead shark,,,,,SN000250
 XV000331,tkw,Basa ene i-meli.,,,My head aches.,,,,,SN000252 ; SN001334
 XV000332,tkw,"Taluaito ini basa beme, kape i-padi basa ini.",,,"The (heathen) priest had a bald head, which he would paint.",,,,,SN000252 ; SN000305
 XV000333,tkw,Basa eo i-epele.,,,[your head is smart] You're smart.,,,,,SN000253 ; SN000587
@@ -355,7 +355,7 @@ XV000353,tkw,"Basavono pe mwaliko i-bu, le-iu ebele ini i-wene ne kie ini.",,,"W
 XV000354,tkw,"Basavono po kape awoiu, dapa li-ovei.",,,"And when that was finished, people began to understand.",,,,,SN000268 ; SN001753
 XV000355,tkw,"Meviro awoiu, ka li-te ne basavono wako.",,,"When the wars ended, they finally lived in peace. [lit. in good times]",,,,,SN000269
 XV000356,tkw,"Li-vo aero i-dai, li-ngago bauluko i-dai, me kape le-mako ne to.",,,"They set up a fence all around [the area], and tied coconut palms around it, for people to dance inside.",,,,https://doi.org/10.24397/pangloss-0003351#S127,SN000271
-XV000357,tkw,~vesu bavede,,,hoist the sail; hence sail,,,,,SN000274
+XV000357,tkw,‹~vesu bavede›,,,hoist the sail; hence sail,,,,,SN000274
 XV000358,tkw,Li-bu bavede,,,furl the sail,,,,,SN000274
 XV000359,tkw,Li-re bavede,,,release the sail,,,,,SN000274
 XV000360,tkw,"Dapa noma, li-ovei pe li-loko uie woubo pe le-vei bavede peini.",,,People before used to weave sails out of pandanus leaves.,,,,,SN000274 ; SN001757 ; SN002455 ; SN002772
@@ -369,19 +369,19 @@ XV000367,tkw,bea ave,,,a cobweb,,,,,SN000282
 XV000368,tkw,Li-bei ñe uie vilo kula.,,,We cover (the food) with a few leaves.,,,,,SN000284
 XV000369,tkw,"Li-loko viñe basa dapa li-bei ñe voko, li-ko nga uo.",,,"They collected their skulls, and buried them under stones, like a cairn.",,,,,SN000284
 XV000370,tkw,U-bei i-metelu i-wene ne mataiko ponu!,,,Squash (this ship) and let it sink in this very gulf!,,,invocation to a god,,SN000286 ; SN001369
-XV000371,tkw,Ka i-bei nuduro.,,,[trample on a taboo] He has infringed the law.,,,,,SN000287
+XV000371,tkw,Ka i-bei ‹nuduro›.,,,[trample on a taboo] He has infringed the law.,,,,,SN000287
 XV000372,tkw,Nanana kape le-bei bete vele?,,,Where shall we sleep [lit. squash mats] tonight?,,,,,SN000288
 XV000373,tkw,"Kaipa pe-te, ene mou ne-bei bete ko.",,,"You guys stay here, I'll just go for a nap.",,,,,SN000288 ; SN000791 ; SN000918
 XV000374,tkw,ebieve tilu beiuko,,,"two whole years, two solid years",,,,,SN000292
 XV000375,tkw,U-vio beiuko na u-tabau!,,,"Stand firmly, don't fall down!",,,,,SN000293 ; SN001548 ; SN002035 ; SN002563
-XV000376,tkw,bele voro,,,skin of stingray; grater,,,,,SN000294
+XV000376,tkw,‹bele voro›,,,skin of stingray; grater,,,,,SN000294
 XV000377,tkw,bele udo,,,banana skin,,,,,SN000295
 XV000378,tkw,Li-la uo li-ta bele mina.,,,They're peeling off the skin of yams.,,,,,SN000295 ; SN001393
 XV000379,tkw,Li-kai bele dero.,,,tear off the bark of the kaori tree,,,,,SN000296 ; SN000454 ; SN000789
 XV000380,tkw,Bele ini koro.,,,It has a white cover.,,,,,SN000297
 XV000381,tkw,Bele mwa eo enaka!,,,I want your lips!,,,,,SN000298 ; SN000554
 XV000382,tkw,"Ni-la bele vilo, ni-ngago ñe waluko ene.",,,"I take a piece of bark, and tie it around my hips.",,,,,SN000300
-XV000383,tkw,voro bele voro,,,"[sander stingray] k.o. stingray, whose skin is particularly suitable for sanding",,,,,SN000301
+XV000383,tkw,‹voro bele voro›,,,"[sander stingray] k.o. stingray, whose skin is particularly suitable for sanding",,,,,SN000301
 XV000384,tkw,"Li-bi vongoro li-kamai, li-loko i-vene ne belemele li-sabisi li-maliawo boso. Pon ra kokoro.",,,"They picked almonds and brought them home, poured them all up on the almond shelf; then they lit a fire underneath, to dry them up.",,,,https://doi.org/10.24397/pangloss-0003351#S107,SN000303
 XV000385,tkw,Mwalik' iape i-ven' i-la vongoro ne belemele i-abu i-vo.,,,"Her husband climbed to take some almonds down from the shelf, and began crushing them.",,,,https://doi.org/10.24397/pangloss-0003351#S5,SN000303
 XV000386,tkw,"Noma, mata pon, bemata pon! Tilu.",,,"In the olden days, their eyes were actually on two antennae.",,,mythical times,https://doi.org/10.24397/pangloss-0003351#S162,SN000304
@@ -451,7 +451,7 @@ XV000449,tkw,Ini i-bubu viabasa.,,,She braids her hair.,,,,,SN000368 ; SN002509
 XV000450,tkw,Li-la buia pwoi.,,,castrate a pig,,,,,SN000369
 XV000451,tkw,buia loubaido,,,abdomen of a coconut crab,,,,,SN000370
 XV000452,tkw,Viabasa ini i-buibu.,,,She has curly hair.,,,,,SN000372
-XV000453,tkw,tapaia buioe,,,wooden platform made of Areca planks,,,,,SN000373
+XV000453,tkw,‹tapaia buioe›,,,wooden platform made of Areca planks,,,,,SN000373
 XV000454,tkw,li-ali buioe,,,pick areca nuts (by climbing),,,,,SN000374
 XV000455,tkw,La-la buioe ada me puluko ada.,,,"They took their areca nuts, together with their betel leaves.",,,,,SN000374
 XV000456,tkw,I-si buka iote ñe uña iepiene peini kulumoe iakapa.,,,He wrote a book with several stories from our country.,,,,,SN000375 ; SN000661 ; SN000679 ; SN000704 ; SN002401
@@ -468,7 +468,7 @@ XV000466,tkw,Buluko ie ngele ponu?,,,Whose flashlight is that?,,,,,SN000382 ; SN
 XV000467,tkw,Lekele i-nge wa buro.,,,Flying-foxes chew tamanu fruits.,,,,,SN000389
 XV000468,tkw,utele buro,,,beginning of a song,,,,,SN000390
 XV000469,tkw,Buro i-viane dapa ka li-le.,,,"As they walked, they were suddenly moved by a (beautiful) song.",,,,,SN000390
-XV000470,tkw,buro bula tamate,,,song for the Spirit Masks,,,,,SN000391
+XV000470,tkw,buro bula ‹tamate›,,,song for the Spirit Masks,,,,,SN000391
 XV000471,tkw,sekele bute,,,taro garden,,,,,SN000394
 XV000472,tkw,Li-au bute.,,,harvest taro (by pulling on it),,,,,SN000394
 XV000473,tkw,Ne english bwara li-vete nga ne.,,,I guess it's called that way in English.,,,,,SN000395
@@ -476,7 +476,7 @@ XV000474,tkw,"Ka li-mui dapa kula na bwara ka li-bu ne revo, dapa kula bwara li-
 XV000475,tkw,"Li-apilo toñaki awoiu, bara i-vagas’ metele tuo nga ponu.",,,The building of the ship must have taken about six months.,,,,https://doi.org/10.24397/pangloss-0003270#S3,SN000396 ; SN001367 ; SN002345
 XV000476,tkw,"La-te ra ra, bwara kata kape ebieve iune bwara metele tuo.",,,"They stayed there, perhaps almost a whole year, or at least six months.",,,,https://doi.org/10.24397/pangloss-0003351#S15,SN000396 ; SN000836
 XV000477,tkw,Pe-bwatui pi-oburo buro iote!,,,"Try and sing a song, y'all!",,,,,SN000397
-XV000478,tkw,Matiki Bwogo,,,the Evening Star,,,,,SN000399
+XV000478,tkw,‹Matiki Bwogo›,,,the Evening Star,,,,,SN000399
 XV000479,tkw,Ne tomoro nga na tae: bwogo!,,,It was not during the day like this: it was night!,,,,,SN000399 ; SN001540 ; SN001662 ; SN002060
 XV000480,tkw,Ngapiene ka i-sali pon ta – bwogo tili.,,,"So the festival started, [and lasted] five days.",,,,,SN000400
 XV000481,tkw,Ka bwogo.,,,It’s already night.,,,,,SN000401
@@ -504,9 +504,9 @@ XV000502,tkw,da pi’ iape,,,[lit. both his grandfather] the grandfather and his
 XV000503,tkw,da uk’ iape,,,[lit. both his in-law] two in-laws,,,,,SN000414
 XV000504,tkw,mwaliko iote da emel’ iape,,,a man and his wife,,,,https://doi.org/10.24397/pangloss-0003351#S1,SN000415 ; SN000541 ; SN001522
 XV000505,tkw,"Emele iune, ini da men’ iape, la-te ne kulumoe.",,,"One woman, [she] with her child, were living in the village.",,,,,SN000415
-XV000506,tkw,mwaliko → da=penuo,,,man → men,,,,,SN000416
-XV000507,tkw,emele → da=viñevi,,,woman → women,,,,,SN000416
-XV000508,tkw,menu → da=meliko,,,child → children,,,,,SN000416
+XV000506,tkw,mwaliko → ‹da=›‹penuo›,,,man → men,,,,,SN000416
+XV000507,tkw,emele → ‹da=›‹viñevi›,,,woman → women,,,,,SN000416
+XV000508,tkw,menu → ‹da=›‹meliko›,,,child → children,,,,,SN000416
 XV000509,tkw,Li-da dapa ne anoko.,,,They crossed [lit. went past] each other on the road.,,,,,SN000417
 XV000510,tkw,Li-da noma re i-ka.,,,They came here rounding the cape over there.,,,,,SN000417
 XV000511,tkw,"Ai' one ka i-bu, ebieve tua ka i-da.",,,"My father died eight years ago. [lit. he has died, eight years have passed]",,,,,SN000418 ; SN000771
@@ -543,10 +543,10 @@ XV000541,tkw,dapa et’ iape,,,his mothers,,,,,SN000433
 XV000542,tkw,dapa kula,,,some people,,,+quantifier,,SN000434
 XV000543,tkw,dapa abia,,,"many people, many",,,,,SN000434
 XV000544,tkw,dapa bworo,,,Black people,,,+adjective,,SN000434
-XV000545,tkw,dapa wopine,,,[the great/old ones] grown men; authorities; ancestors,,,,,SN000434
+XV000545,tkw,‹dapa wopine›,,,[the great/old ones] grown men; authorities; ancestors,,,,,SN000434
 XV000546,tkw,dapa Teanu,,,the people of Teanu,,,+locative,,SN000434
 XV000547,tkw,dapa Iura,,,Vanuatu people,,,,,SN000434
-XV000548,tkw,dapa noma,,,"people of the past, ancestors",,,+adverb,,SN000434
+XV000548,tkw,‹dapa noma›,,,"people of the past, ancestors",,,+adverb,,SN000434
 XV000549,tkw,dapa peini toñaki pon,,,the people on that ship,,,+linker,,SN000434
 XV000550,tkw,dapa po li-kila emele,,,those who are married,,,"+relative clause, subject",https://doi.org/10.24397/pangloss-0003351#S90,SN000434
 XV000551,tkw,dapa pe uña teliki li-lamini tanoe se dapa,,,those who were given land by the authorities,,,+relative clause with resumptive,,SN000434
@@ -592,7 +592,7 @@ XV000590,tkw,"Li-toe iuro, ae, digo, we uña ngatene nga pon, peini kape le-vo."
 XV000591,tkw,Ne-ko ne-la awis pine iakapa ne-mini tili’ akapa pe i-si diksoneri akapa ñe piene akapa Teanu.,,,"I’d like to extend our deep gratitude to our brother, who wrote our dictionary in our language of Teanu.",,,,,SN000470
 XV000592,tkw,"Diro, li-le ne ngogoro li-avi otovo; awoiu li-la iadiro peini, li-bo diro.",,,"You go to the bush, collect sago leaves; take out their midribs, and sharpen them into darts.",,,,,SN000473
 XV000593,tkw,"Pe li-wete telupe, u-avi visone ka u-iui diro i-le i-wete ini.",,,"When you hunt pigeons, you bend your bow, and let the arrow fly and hit it.",,,,,SN000473 ; SN000717 ; SN002192
-XV000594,tkw,vebe mata-diro,,,[lit. arrow-tip vebe1] kind of Barringtonia fruit,,,analogy of shape,,SN000474
+XV000594,tkw,‹vebe mata-diro›,,,[lit. arrow-tip ‹vebe1›] kind of Barringtonia fruit,,,analogy of shape,,SN000474
 XV000595,tkw,Li-do bale,,,plant a breadfruit,,,,,SN000475
 XV000596,tkw,Li-do balawe,,,plant a pineapple,,,,,SN000475
 XV000597,tkw,Li-do mana vilo,,,plant flowers,,,,,SN000475
@@ -615,7 +615,7 @@ XV000613,tkw,"Leka, kape u-labu ebele ini metae.",,,"With your (opp.-sex) cross-
 XV000614,tkw,"Nga mwaliko i-bu, le-iu ebele ini i-wene ne kie ini.",,,"When somebody dies, their body is buried in a grave.",,,,,SN000490 ; SN000712 ; SN000896 ; SN001123 ; SN001521 ; SN001659
 XV000615,tkw,Li-romo po dapa ebele dapa tae.,,,[We can't see their bodies] These creatures are invisible.,,,,,SN000490
 XV000616,tkw,Buro pe li-pongo ebele idi ñei.,,,It's a song meant to wake up the dancers' bodies.,,,,,SN000490 ; SN001859
-XV000617,tkw,ebele ngapiene,,,the end of the festival,,,,,SN000492
+XV000617,tkw,‹ebele ngapiene›,,,the end of the festival,,,,,SN000492
 XV000618,tkw,Ebele kuo i-karem demene.,,,Genuine canoes have an outrigger.,,,,,SN000493 ; SN000823
 XV000619,tkw,Ebele enga ini tae.,,,There's no specific name for it.,,,,,SN000493
 XV000620,tkw,"Ini i-te Franis, ia ebele kulumoe iape Japan.",,,"She lives in France, but she is actually from [lit. her genuine country is] Japan.",,,,,SN000493 ; SN001015 ; SN002137
@@ -678,7 +678,7 @@ XV000676,tkw,"Emele, we mwalkote?",,,"Is it a girl, or a boy?",,,baby,,SN000540 
 XV000677,tkw,emele damala,,,a Western woman,,,,,SN000540
 XV000678,tkw,U-le u-wasu emele re u-min' ene!,,,Please go and connect me with that girl!,,,,,SN000540
 XV000679,tkw,emel’ enone,,,my wife,,,,,SN000541 ; SN000569
-XV000680,tkw,~kila emele,,,[lit. follow a woman] get married,,,,,SN000541
+XV000680,tkw,‹~kila emele›,,,[lit. follow a woman] get married,,,,,SN000541
 XV000681,tkw,dapa po li-kila emele,,,those (men) who are married,,,,,SN000541
 XV000682,tkw,Ni-kila emele pe Tetevo.,,,I married a woman from Utupua.,,,,,SN000541 ; SN000902 ; SN001782
 XV000683,tkw,pwoi emele,,,a sow [a female swine],,,,,SN000542
@@ -698,7 +698,7 @@ XV000696,tkw,Pi-avo ponu pi-abui ‘tool’ upa pi-ko me p-ajau toñaki na.,,,"W
 XV000697,tkw,telepakau akapa,,,"our customs, our tradition, our culture",,,,,SN000551
 XV000698,tkw,uro ape,,,his magic powers,,,,,SN000551
 XV000699,tkw,Li-puie li-kilasi tadoe adapa.,,,They were addressing their god(s).,,,,,SN000551 ; SN001867 ; SN002053
-XV000700,tkw,piene akapa,,,"our language, Teanu",,,,,SN000552
+XV000700,tkw,‹piene akapa›,,,"our language, Teanu",,,,,SN000552
 XV000701,tkw,piene adapa Vonovono,,,"the language of the Reefs, Äiwoo",,,,,SN000552
 XV000702,tkw,buka ono,,,your book,,,,,SN000553
 XV000703,tkw,diksoneri akapa,,,our dictionary,,,,,SN000553
@@ -748,7 +748,7 @@ XV000746,tkw,"Ia eo, eo a-ka vele?",,,"And you, where are you coming from?",,,,,
 XV000747,tkw,Eo u-te. U-ka u-te u-romo.,,,"You, sit down. Come have a look.",,,,,SN000582
 XV000748,tkw,Eo wako?,,,Are you alright?,,,,,SN000583
 XV000749,tkw,Ne-viñ’ eo?,,,Shall I tell you?,,,,https://doi.org/10.24397/pangloss-0003352#S95,SN000584 ; SN002559
-XV000750,tkw,Ni-ovei ni-ko ngatene abia teve eo.,,,I know you have a lot of work. [lit. many things are with you],,,preposition [teve](teve_1),,SN000584 ; SN001694
+XV000750,tkw,Ni-ovei ni-ko ngatene abia teve eo.,,,I know you have a lot of work. [lit. many things are with you],,,preposition ‹[teve](teve_1)›,,SN000584 ; SN001694
 XV000751,tkw,enga eo,,,your name,,,,,SN000585
 XV000752,tkw,bete eo,,,your bed,,,,,SN000585
 XV000753,tkw,lusa eo,,,your shirt,,,,,SN000585
@@ -766,7 +766,7 @@ XV000764,tkw,"Pi-teli awoiu, pi-loko ero mina.",,,"Once we've planted it, we add
 XV000765,tkw,Le-lebie ne ero.,,,Let's bathe in the river.,,,,,SN000592
 XV000766,tkw,I-le i-kotu i-katau ero iote.,,,He was running alongside a stream.,,,,https://doi.org/10.24397/pangloss-0003352#S83,SN000592
 XV000767,tkw,"Ero ponu, enga ini ‘Ero Meie’.",,,That river was called ‘River Meie’.,,,,https://doi.org/10.24397/pangloss-0003352#S84,SN000592
-XV000768,tkw,ero korone,,,[powerful liquid] alcohol,,,,,SN000593
+XV000768,tkw,‹ero korone›,,,[powerful liquid] alcohol,,,,,SN000593
 XV000769,tkw,Li-anu ero pana ka li-kanu.,,,"We drink tea, and chew betelnut.",,,,,SN000594
 XV000770,tkw,"Li-le li-te teta-vene pon, ne waluko ero.",,,"They went to stay uphill over there, along the river.",,,,,SN000595 ; SN002238 ; SN002681
 XV000771,tkw,I-katei ero ne et' iape.,,,He's sucking on the milk of his mother.,,,,,SN000596 ; SN000854 ; SN001575
@@ -828,12 +828,12 @@ XV000826,tkw,toñaki iadapa Franisi,,,the ship of the Frenchmen,,,,,SN000648
 XV000827,tkw,makone iadapa tadoe,,,dance of the spirits,,,,,SN000648 ; SN002052
 XV000828,tkw,"Pon teliki iadapa pe li-maluo, ka Teliki Makumoso iadapa po li-bu.",,,There are chiefs for those who live; but the Supreme Lord for those who are dead.,,,+relative clause,,SN000648
 XV000829,tkw,iadiro peini luro,,,midrib of a coconut palm,,,,,SN000649
-XV000830,tkw,Li-ejau iadiro peini otovo me iebe.,,,You can turn (a bunch of) sago midribs into a broom.,,,,,SN000650
+XV000830,tkw,Li-ejau iadiro peini otovo me ‹iebe›.,,,You can turn (a bunch of) sago midribs into a broom.,,,,,SN000650
 XV000831,tkw,"Tae, ponu ajekele, iae!",,,"Leave that, that's the rubbish! Yuck!",,,,,SN000651
 XV000832,tkw,iaero Paiu,,,the river Paiou,,,,,SN000652
 XV000833,tkw,Ni-lebie ne iaero.,,,I bathed in the river.,,,,,SN000652
-XV000834,tkw,ne pwama iaero,,,on the river bank,,,,,SN000652
-XV000835,tkw,al’ ero ne iaero,,,the river mouth [lit. foot],,,,,SN000652
+XV000834,tkw,ne ‹pwama iaero›,,,on the river bank,,,,,SN000652
+XV000835,tkw,‹al’ ero› ne iaero,,,the river mouth [lit. foot],,,,,SN000652
 XV000836,tkw,Li-iaibi samame ero.,,,You mix (it) with water.,,,,,SN000654 ; SN001958
 XV000837,tkw,"Ka telepakau pe na, lek’ iaidi, idi pe li-romo idi tae. Kape le-wamu idi ñe idi.",,,"In our culture, cross-cousins [lit. people's cross-cousins] must not look at each other. They must hide from each other.",,,,https://doi.org/10.24397/pangloss-0003352#S51,SN000655
 XV000838,tkw,Moe iaidi i-lemoli.,,,This is just a house for ordinary people.,,,,,SN000656 ; SN001145
@@ -852,7 +852,7 @@ XV000850,tkw,Ni-p' ene tamwase ñe men' iamela.,,,[lit. I'm delighted about…] 
 XV000851,tkw,Awa ene i-viaene imaluo iape.,,,I like her character.,,,,,SN000664 ; SN000689 ; SN002519
 XV000852,tkw,Mwaliko iape i-romo emel' iape i-wene teve iawo.,,,The man saw his wife lying by the fire.,,,,https://doi.org/10.24397/pangloss-0003353#S14,SN000664 ; SN002260
 XV000853,tkw,Ngele nga i-le i-toe kuo iape ne ngogoro.,,,Anyone can go cut his canoe in the bush.,,,,https://doi.org/10.24397/pangloss-0003350#S5,SN000664 ; SN001703
-XV000854,tkw,et’ iape,,,his/her mother,,,pronunc. [eˈʧape],,SN000666
+XV000854,tkw,‹et’ iape›,,,his/her mother,,,pronunc. [eˈʧape],,SN000666
 XV000855,tkw,ai' iape,,,his/her father,,,,,SN000666
 XV000856,tkw,Li-le li-wamabu teve ai’ iape me ete iape.,,,They went to ask (permission) from her parents.,,,,,SN000666 ; SN002263 ; SN002685
 XV000857,tkw,Moe enone i-vongo ne iawo.,,,My house perished in the fire.,,,,,SN000667 ; SN002616
@@ -892,7 +892,7 @@ XV000890,tkw,Ai’ one i-ovei piene Tetevo ka ni-ko u-vagasi ini pon ta.,,,"My f
 XV000891,tkw,enga ini,,,his/her name,,,,,SN000695
 XV000892,tkw,Awa ini i-viane.,,,[his neck/mind hits it] He wants it.,,,,,SN000695
 XV000893,tkw,Die ini i-meli.,,,[Her back hurts.] She's having labour contractions.,,,,,SN000695 ; SN001334
-XV000894,tkw,Ini ta!,,,That's it!,,,with focus [ta](ta_1),,SN000696 ; SN002029
+XV000894,tkw,Ini ta!,,,That's it!,,,with focus ‹[ta](ta_1)›,,SN000696 ; SN002029
 XV000895,tkw,“A-ko ae? A-ko u-ka u-la iawo?” Ini i-ko “Io! Ne-la iawo mijaka me ne-le ne-tau namuko 'naka.”,,,“Do you want some fire?” – “Yes!” she replied. “I just need a bit of fire so I can cook my fish.”,,,,,SN000697
 XV000896,tkw,Io. Iepiene po ne-ko ni-atevo na…,,,"Alright, so… The story I want to tell today…",,,,,SN000698
 XV000897,tkw,Io ponu mijaka ponu me u-ovei…,,,"Alright, that was just a short message to let you know…",,,in writing,,SN000698
@@ -921,7 +921,7 @@ XV000919,tkw,"Moe iaba pwo; iote iu, ie mwaliko iote.",,,"Our flat is located be
 XV000920,tkw,basa re po i-wen' iu re,,,that mountain up over there,,,,,SN000711 ; SN001903
 XV000921,tkw,Li-romo i-katau vangana kanmoro iu ne meteliko.,,,We watch the light of the stars up in the sky.,,,,,SN000711 ; SN001368
 XV000922,tkw,Viko iadapa li-iu.,,,They buried their shellmoney in the ground.,,,,,SN000712
-XV000923,tkw,"Li-iu tepapa i-le awoiu, li-vesu bulateno i-vio.",,,"First they buried the dancing boards, then they erected the ritual pole.",,,,https://doi.org/10.24397/pangloss-0003352#S13,SN000712
+XV000923,tkw,"Li-iu ‹tepapa› i-le awoiu, li-vesu bulateno i-vio.",,,"First they buried the dancing boards, then they erected the ritual pole.",,,,https://doi.org/10.24397/pangloss-0003352#S13,SN000712
 XV000924,tkw,Miko noma ka i-iu kulumoe Tetawo ne Banie.,,,"A long time ago, the village of Tetawo on Banie island was buried by an earthquake.",,,,,SN000713
 XV000925,tkw,Dapa Iura li-la vesevelae li-iu me viko.,,,People in Vanuatu thread cone shells into shellmoney.,,,,,SN000714 ; SN001312 ; SN002481
 XV000926,tkw,U-iui i-le!,,,Push it forward!,,,,,SN000715 ; SN001117
@@ -945,7 +945,7 @@ XV000943,tkw,"Emele iune, ini da men’ iape, la-te ne kulumoe.",,,"[There was o
 XV000944,tkw,Li-bu awoiu. Iune i-te tae.,,,Everybody died: nobody survived. [lit. a single one wasn't there],,,,https://doi.org/10.24397/pangloss-0003352#S117,SN000729
 XV000945,tkw,"Vesepiene iune, i-vete ngatene tilu.",,,"It is the same word, but with two distinct meanings.",,,,,SN000730 ; SN002297 ; SN002480
 XV000946,tkw,Dapa Lovoko na li-ovei pe li-la ngatene iune.,,,The Lovoko people are used to cooperating with each other [lit. working as-one],,,,,SN000731
-XV000947,tkw,~le iune,,,"(be, do) the same; (go) together",,,,,SN000731
+XV000947,tkw,‹~le iune›,,,"(be, do) the same; (go) together",,,,,SN000731
 XV000948,tkw,Ia enon' iot' tae! Pe enone na iune na.,,,But I don't have another (knife). This is my only one.,,,,,SN000732
 XV000949,tkw,Mwaliko iune na ka i-te.,,,There's only one man left (who can speak the language).,,,,,SN000732 ; SN002135
 XV000950,tkw,"Kape li-au, li-ngago iunubo iune iune ñe veve.",,,"They will wrap [the food], and fasten every parcel using rope.",,,,,SN000733 ; SN000738 ; SN002497
@@ -957,8 +957,8 @@ XV000955,tkw,uña iunubo tomona,,,portions of pudding,,,,,SN000738 ; SN002335
 XV000956,tkw,dapa iupa noma,,,our ancestors,,,,,SN000739
 XV000957,tkw,Li-le ne iura.,,,They went to the heights [of the island].,,,,,SN000740
 XV000958,tkw,"Vana uña toñaki i-ka i-loko dapa ne kulumoe na, dapa li-lui li-langatene ne Iura, Santo.",,,"Ships used to come to this island to collect people, and then take them away to make them work somewhere in the south, on (Espiritu) Santo.",,,,,SN000741
-XV000959,tkw,"Kulumoe Iura, kulumoe i-wene tev’ iu.",,,The islands of (north) Vanuatu are located southeast.,,,,,SN000742
-XV000960,tkw,Li-ovei pe li-pwalau li-le Iura ne tepuke.,,,They used to travel to (north) Vanuatu on their canoes.,,,,,SN000742
+XV000959,tkw,"Kulumoe Iura, kulumoe i-wene ‹tev’ iu›.",,,The islands of (north) Vanuatu are located southeast.,,,,,SN000742
+XV000960,tkw,Li-ovei pe li-pwalau li-le Iura ne ‹tepuke›.,,,They used to travel to (north) Vanuatu on their canoes.,,,,,SN000742
 XV000961,tkw,"Li-nabe na ini wako, li-vesu iuro.",,,"They first measured the ground, and then erected the pillars.",,,building a house,,SN000743
 XV000962,tkw,"Li-katei bavede i-vene ne iuro, peini me le-vesu i-ke i-le.",,,"They hoisted the sail up the mast, so they could sail away.",,,,,SN000744 ; SN000853 ; SN001116 ; SN001806 ; SN002470
 XV000963,tkw,iutego kuledi peini tokoli,,,shorter stilts for the floor structure,,,,,SN000746
@@ -973,7 +973,7 @@ XV000971,tkw,Eo a-mokoiu ai-ovili pe ive?,,,Why are you sleeping so late?,,,,,SN
 XV000972,tkw,li-au jebute,,,harvest taro (by pulling on it),,,,,SN000755
 XV000973,tkw,Jebute ka moso.,,,The taros are ripe.,,,,,SN000755 ; SN000771
 XV000974,tkw,"Kape jebute i-karau na metae, pe ero tae.",,,"Taro can't grow here, because there's no water.",,,,,SN000755 ; SN000820 ; SN001785
-XV000975,tkw,jie bute → jebute,,,taro sucker → taro,,,,,SN000758
+XV000975,tkw,jie bute → ‹jebute›,,,taro sucker → taro,,,,,SN000758
 XV000976,tkw,Bele voro ini jiejie.,,,The skin of stingrays is rough.,,,,,SN000759
 XV000977,tkw,Ni-nabe jokoro lea iune ka kula.,,,I measured the bamboo rod to be one fathom and a half.,,,,,SN000761 ; SN000768
 XV000978,tkw,Kape le-la teuko ne jokoro me le-katei ñe namuko.,,,We'll take a fishing rod and go angling.,,,,,SN000762 ; SN000857
@@ -1030,24 +1030,24 @@ XV001028,tkw,"Li-nge to, li-kanu buioe me puluko.",,,"They would suck on sugarca
 XV001029,tkw,kangele luro,,,coconut meat,,,,,SN000804
 XV001030,tkw,kangele vongoro pe li-vo,,,fruit of Canarium almonds,,,,,SN000804
 XV001031,tkw,kangele kome,,,the mollusc part of a giant clam,,,,,SN000804
-XV001032,tkw,kangele iawo,,,flames (of fire),,,,,SN000805
-XV001033,tkw,kangele teuko,,,fishing hook,,,,,SN000805
-XV001034,tkw,Dapa noma li-vo kangele kome li-ia kome.,,,People in the past used to break giant clams and grind them into axes.,,,,,SN000807
+XV001032,tkw,‹kangele iawo›,,,flames (of fire),,,,,SN000805
+XV001033,tkw,‹kangele teuko›,,,fishing hook,,,,,SN000805
+XV001034,tkw,Dapa noma li-vo kangele kome li-ia ‹kome›.,,,People in the past used to break giant clams and grind them into axes.,,,,,SN000807
 XV001035,tkw,Namuko i-ka i-e temounu mina kangele teuko enaka!,,,The fish came and ate away the bait from my fish hook!,,,,,SN000808 ; SN002206
 XV001036,tkw,"Dapa li-la laviko, namolo, kangele teuko, li-la li-mini kupa.",,,"They would take pearls, clothes, fish hooks, and give them to us.",,,,,SN000808 ; SN001102 ; SN001396
 XV001037,tkw,Kape ne-tabo ne-le metele iote pe kape i-ka na.,,,I'll go again next month [the other month that will come].,,,,,SN000810
 XV001038,tkw,Kata kape le-tetele kape le-pinoe pon ta.,,,They were about to start dancing.,,,,https://doi.org/10.24397/pangloss-0003351#S129,SN000811 ; SN000836 ; SN002246
 XV001039,tkw,Vitoko teve me kape le-bo.,,,They were about to start making (their canoe).,,,,,SN000811 ; SN002586
 XV001040,tkw,Toñaki pine pe kape le-ke le-lui ne ngamuli tae.,,,It was not the kind of large ships that can go out into the ocean.,,,,,SN000813 ; SN000873 ; SN001123 ; SN001677
-XV001041,tkw,U-le pon etapu! Ña leka kape i-rom' eo!,,,Don't go there! Your cousin might see you!,,,with apprehensive [ña](LX000312),https://doi.org/10.24397/pangloss-0003352#S58,SN000813 ; SN001136
-XV001042,tkw,Mat’ eo nara kape u-wasi ñe idi ’tapu.,,,Be careful not to give (the secret) away.,,,with apprehensive [nara](nara_2),https://doi.org/10.24397/pangloss-0003269#S10,SN000813 ; SN001279 ; SN001568 ; SN002698
+XV001041,tkw,U-le pon etapu! Ña leka kape i-rom' eo!,,,Don't go there! Your cousin might see you!,,,with apprehensive ‹[ña](LX000312)›,https://doi.org/10.24397/pangloss-0003352#S58,SN000813 ; SN001136
+XV001042,tkw,Mat’ eo nara kape u-wasi ñe idi ’tapu.,,,Be careful not to give (the secret) away.,,,with apprehensive ‹[nara](nara_2)›,https://doi.org/10.24397/pangloss-0003269#S10,SN000813 ; SN001279 ; SN001568 ; SN002698
 XV001043,tkw,Nganae pe kape le-la tae.,,,They don't need to work. [lit. there isn't anything they have to ‘take’],,,,,SN000813 ; SN001040 ; SN001051
 XV001044,tkw,"Nga u-le, ata tadoe kap’ i-ejau bas' eo mumule.",,,"If you go there, the soul of spirits can make your head go crazy.",,,,,SN000814 ; SN002050
 XV001045,tkw,"Ruene ponu, kape nga ngele nga i-bu, kape le-lengi aña ruene pe li-ko.",,,"It's a special door: whenever someone dies, you'll hear the sound of a door being opened.",,,,,SN000815 ; SN000934
 XV001046,tkw,"Nga i-abu mata, kape bwara mata ini kilo ñei.",,,"If he had hit her eyes, she could have turned blind.",,,counterfactual,,SN000815 ; SN001660
 XV001047,tkw,"Taluaito ini basa beme, kape i-padi basa ini: ne to ne, koro; ne lava tilu, kape bworo. Awoiu kape i-tabo koro pwo mijaka.",,,"The (heathen) priest had a bald head, which he would paint: white in the middle; black on each side; and then, white a bit again underneath.",,,,,SN000816 ; SN001769
 XV001048,tkw,basavono pe da-tilu kape la-kila da,,,when there is a wedding [lit. when two people follow/marry each other],,,,,SN000817 ; SN000903
-XV001049,tkw,"Kape le-toe langasuo peini, ka nengele wamitaka.",,,"You cut out the big (canoe) rail, and then the smaller pieces.",,,generic present with generic subject [le-](le-_1),,SN000817
+XV001049,tkw,"Kape le-toe langasuo peini, ka nengele wamitaka.",,,"You cut out the big (canoe) rail, and then the smaller pieces.",,,generic present with generic subject ‹[le-](le-_1)›,,SN000817
 XV001050,tkw,"Ewe, kape nga ponu.",,,"Yes, that must be it.",,,"predicative, future marked",,SN000818
 XV001051,tkw,kara kava,,,kava root,,,,,SN000819
 XV001052,tkw,kara boke,,,banyan root,,,,,SN000819
@@ -1088,13 +1088,13 @@ XV001086,tkw,"Daviñevi kula li-ta bele mina, dapa kula li-katei.",,,"Some women
 XV001087,tkw,kara kava,,,a kava root,,,,,SN000858
 XV001088,tkw,"Dapenuo li-le ne toplau, li-anu kava. Li-anu kava awoiu, ka li-vongo viri.",,,"Men would go in the men's clubhouse, and drink kava. Once they had drunk kava, they would eat.",,,,https://doi.org/10.24397/pangloss-0003351#S94,SN000859
 XV001089,tkw,Daviñevi wopine li-ovei pe li-anu kava.,,,Adult women are allowed to drink kava.,,,,,SN000859 ; SN001755 ; SN002770
-XV001090,tkw,"Tano ponu, li-ae mijaka me kava i-pu i-katau.",,,"This kava bowl (tano1) has been hollowed out a little, to allow kava to flow along.",,,,,SN000859
+XV001090,tkw,"Tano ponu, li-ae mijaka me kava i-pu i-katau.",,,"This kava bowl (‹tano1›) has been hollowed out a little, to allow kava to flow along.",,,,,SN000859
 XV001091,tkw,Ngaten’ na pe i-ka kavele?,,,How did that thing end up here?,,,,,SN000863
 XV001092,tkw,Kavele?,,,How's things?,,,,,SN000864
 XV001093,tkw,Ka kavele?,,,How are things now?,,,,https://doi.org/10.24397/pangloss-0003353#S17,SN000864
 XV001094,tkw,Ini i-la namolo i-kawi ñe men' iape.,,,She took her cloth and put it on her child.,,,,,SN000865
 XV001095,tkw,Nara bwoe i-ke eo!,,,Make sure sharks don't bite you.,,,,,SN000867
-XV001096,tkw,muko pe i-ke idi,,,[fly that bites people] mosquito,,,,,SN000867 ; SN001788
+XV001096,tkw,‹muko pe i-ke idi›,,,[fly that bites people] mosquito,,,,,SN000867 ; SN001788
 XV001097,tkw,U-ke u-ka na!,,,Come out!,,,,,SN000868
 XV001098,tkw,"Li-koie ne moe, ka labiou tae, dapa ka tabo li-ke li-ka.",,,"They went inside, and just a moment later, again they came out.",,,,,SN000868 ; SN001062
 XV001099,tkw,"Ia emele iote, ini i-te, ka i-ke i-le tae.",,,"There was a woman who only stayed [at home], who never came out.",,,,https://doi.org/10.24397/pangloss-0003352#S47,SN000868
@@ -1149,10 +1149,10 @@ XV001147,tkw,"Idi mwaliko li-tamava se tadoe, li-kilasi li-ko kape le-le le-pino
 XV001148,tkw,Mata ini kilo.,,,He is blind.,,,,,SN000908
 XV001149,tkw,kiñe luro,,,leaflets of the coconut palm,,,,,SN000909
 XV001150,tkw,kiñe otovo,,,long and thin leaves forming the eaves of a sago thatch,,,,,SN000909
-XV001151,tkw,"Savene, uña kiñe po li-vei ñi wamtaka tamwase.",,,savene1’ mats have their fibers woven very delicately.,,,,,SN000909
+XV001151,tkw,"Savene, uña kiñe po li-vei ñi wamtaka tamwase.",,,‹savene1›’ mats have their fibers woven very delicately.,,,,,SN000909
 XV001152,tkw,kiñe udo,,,young and small bananas on a banana bunch,,,,,SN000910
 XV001153,tkw,kiñe tebo,,,long rain drops during a shower,,,,,SN000910
-XV001154,tkw,kiñe-biouro,,,[long tentacles] octopus,,,,,SN000910
+XV001154,tkw,‹kiñe-biouro›,,,[long tentacles] octopus,,,,,SN000910
 XV001155,tkw,kiñe viabasa,,,one hair,,,,,SN000914
 XV001156,tkw,motomoro ie kiñe-biouro,,,sucker of an octopus,,,,,SN000915
 XV001157,tkw,bamele kiñekiñe,,,pinnate philodendron,,,,,SN000916
@@ -1168,7 +1168,7 @@ XV001166,tkw,"Mwaliko kape i-woi ne teviri peini kuo ponu, awoiu kap’ i-ko “
 XV001167,tkw,"Na, piene adapa Teanu a-ko ae?",,,"[this, the language of Teanu, you say what?] How do you say this in Teanu?",,,,,SN000922
 XV001168,tkw,toñaki pe kiapa li-ko ‘tepakare tilu’,,,that sort of ship is called ‘catamaran’,,,,,SN000922
 XV001169,tkw,"Tadoe iadapa pon, enga ini – dapa Lovono li-ko ‘Visipure’; ka dapa Teanu li-ko ‘Vilisao’.",,,"The god in question was called – in the Lovono language, (they say) ‘Fisipure’; in Teanu, ‘Filisao’.",,,,,SN000922 ; SN001182
-XV001170,tkw,Pe li-ko u-ke u-te maro etapu!,,,But they forbade you from going out!,,,with Prohibitive [etapu](etapu_3),https://doi.org/10.24397/pangloss-0003352#S76,SN000923 ; SN001264
+XV001170,tkw,Pe li-ko u-ke u-te maro etapu!,,,But they forbade you from going out!,,,with Prohibitive ‹[etapu](etapu_3)›,https://doi.org/10.24397/pangloss-0003352#S76,SN000923 ; SN001264
 XV001171,tkw,"Li-ko kulumoe iadapa pine na, li-iumu li-romo temaka na.",,,"This large island, they believed they were the first ones to discover it.",,,the French navigators,,SN000924
 XV001172,tkw,"Ka pi-ko aplaka, iula toñaki wopine.",,,You think it was a small one? (No!) that anchor was gigantic.,,,,,SN000924
 XV001173,tkw,Ni-ko li-abu dapa ne toñaki tae.,,,I don't think they were killed on the ship.,,,,,SN000924
@@ -1190,10 +1190,10 @@ XV001188,tkw,I-ko i-romo abo ne kaipa i-ko pi-tavie we tae.,,,He wants to examin
 XV001189,tkw,I-romo i-ko menu tae.,,,She saw (that) there was no baby.,,,,https://doi.org/10.24397/pangloss-0003353#S12,SN000929
 XV001190,tkw,Basavono ponu li-ovei li-ko toñaki kape i-ka i-la dapa ponu.,,,"At that moment, they knew that the ship was going to come and rescue them.",,,,,SN000929
 XV001191,tkw,Ene ni-mui ni-ko kape n-ajau nganae kape wako.,,,I don't know what to do.,,,,,SN000929 ; SN001492 ; SN001678
-XV001192,tkw,"Kupa, awa kupa i-viane pi-ko u-ro toñaki ponu.",,,We really want you to look at that ship over there.,,,serialized to [awa ~viane](LX000057) ‘we want’,,SN000929
+XV001192,tkw,"Kupa, awa kupa i-viane pi-ko u-ro toñaki ponu.",,,We really want you to look at that ship over there.,,,serialized to ‹[awa ~viane](LX000057)› ‘we want’,,SN000929
 XV001193,tkw,Li-iu dapa li-bei dapa ñe voko li-ko nga uo.,,,"They would bury them and cover them with stones, [they meant it] like a cairn.",,,,,SN000930 ; SN002404
 XV001194,tkw,Ni-tab’ menu ba-ko ba-wo mina moe iakapa na.,,,I lifted my child so we could run away from our house.,,,serial pattern,,SN000930
-XV001195,tkw,Ka i-loko voko i-bei ñi i-ko nara idi kape le-l’ le-la.,,,He laid some stones above it so nobody could come and steal it.,,,Apprehensional [nara](nara_2),https://doi.org/10.24397/pangloss-0003270#S9,SN000930
+XV001195,tkw,Ka i-loko voko i-bei ñi i-ko nara idi kape le-l’ le-la.,,,He laid some stones above it so nobody could come and steal it.,,,Apprehensional ‹[nara](nara_2)›,https://doi.org/10.24397/pangloss-0003270#S9,SN000930
 XV001196,tkw,Li-labu ene li-ko tili' adapa.,,,They have adopted me as their brother.,,,,,SN000931
 XV001197,tkw,"Li-ko noma, uña toñaki van li-ka…",,,"It is said that in the olden times, ships used to come here!",,,,,SN000932
 XV001198,tkw,"Li-ko Banie nao, ini i-waivo ñe idi.",,,And so the god Banie – or so they say – provided his teachings to humans.,,,,,SN000932
@@ -1213,7 +1213,7 @@ XV001211,tkw,"Ini i-ko kape i-etengi, ka dapa li-viñi li-ko…",,,She was about
 XV001212,tkw,"Li-te li-te ra, ka la-ko kape la-le ne basakulumoe iote re, Tetevo.",,,"After waiting for a while, they decided to travel to another island called Utupua.",,,,https://doi.org/10.24397/pangloss-0003351#S2,SN000940
 XV001213,tkw,Ni-ko me n-ajau kopi abia.,,,I want to print many copies.,,,,,SN000942
 XV001214,tkw,Ne-ko ne-viñi eo ni-ko me u-odo ne buka pon.,,,I'd like to ask you to search for that book.,,,,,SN000944
-XV001215,tkw,Ni-mo korone se ni-ko me i-tabo i-ejau etapu.,,,I firmly warned him not to do it again.,,,with prohibitive [etapu](etapu_3),,SN000944 ; SN001406 ; SN001977
+XV001215,tkw,Ni-mo korone se ni-ko me i-tabo i-ejau etapu.,,,I firmly warned him not to do it again.,,,with prohibitive ‹[etapu](etapu_3)›,,SN000944 ; SN001406 ; SN001977
 XV001216,tkw,Li-te ne pwama iaero re ka li-ko me kape li-apilo toñaki.,,,"They stayed by the river, with the plan to build a ship.",,,,https://doi.org/10.24397/pangloss-0003270#S1,SN000945 ; SN001316
 XV001217,tkw,Laperus ini i-te ka mata ini i-ke ne revo i-ko me kape i-odo se toñaki kape i-tabo i-ka.,,,"Lapérouse was staring out to the ocean, [lit. in order to search] searching whether the ship was coming back.",,,,https://doi.org/10.24397/pangloss-0003270#S6,SN000945
 XV001218,tkw,Ene awa ene ni-ko me kape l-apilo sekele.,,,I want them to work at their gardens.,,,,https://doi.org/10.24397/pangloss-0003351#S97,SN000946 ; SN001317
@@ -1226,7 +1226,7 @@ XV001224,tkw,mwaliko pe ka i-koene Tamate ponu,,,the man who's wearing the Tamat
 XV001225,tkw,Ka i-ka i-koie ne moe ka i-romo emel’ iape i-wene teve iawo.,,,"As he walked into his house, he saw his wife lying by the fire.",,,,https://doi.org/10.24397/pangloss-0003353#S14,SN000951 ; SN001927
 XV001226,tkw,"Li-koie ne lema kuo awoiu pon, ka li-le.",,,"They stepped into the canoe, and took off.",,,,,SN000951
 XV001227,tkw,Li-koie ne moe mata dapa i-ke.,,,"They were inside their houses, looking out.",,,,https://doi.org/10.24397/pangloss-0003351#S168,SN000952
-XV001228,tkw,Ka savene i-koie.,,,There was also a valuable mat inside.,,,in a box,https://doi.org/10.24397/pangloss-0003352#S130,SN000953
+XV001228,tkw,Ka ‹savene› i-koie.,,,There was also a valuable mat inside.,,,in a box,https://doi.org/10.24397/pangloss-0003352#S130,SN000953
 XV001229,tkw,Makone na i-koie ne ebele ene!,,,This dance really gets under my skin! [lit. it gets in my body],,,,,SN000954 ; SN001228
 XV001230,tkw,Kape le-le le-koie ne ngogoro ponu.,,,They all walk inland towards the forest.,,,,https://doi.org/10.24397/pangloss-0003350#S11,SN000955
 XV001231,tkw,"U-koie tetakoie, Pakare: u-bi avie.",,,"Why don't you go inland (on Banie the main island), on Pakare; go pick some apples.",,,from a small peninsula off Vanikoro,https://doi.org/10.24397/pangloss-0003352#S42,SN000955
@@ -1267,7 +1267,7 @@ XV001265,tkw,"Tero ponu, korone we i-teblebe?",,,"Is that rope tight, or slack?"
 XV001266,tkw,Vilisao ini ngiro korone.,,,A tornado is a powerful wind.,,,,,SN000986 ; SN001705
 XV001267,tkw,Le-la i-avo korone nara i-sabu.,,,We must hook (the bait) firmly for fear it might fall off.,,,,,SN000988 ; SN001054 ; SN001567 ; SN001941
 XV001268,tkw,Kape li-odo tenuro me le-vo ñe nengele kuo korone.,,,We'll look for a rope so we can attach firmly the elements of the canoe.,,,,,SN000988 ; SN002213 ; SN002594
-XV001269,tkw,~mo korone,,,"[talk strong] scold, tell s.o. off",,,,,SN000989
+XV001269,tkw,‹~mo korone›,,,"[talk strong] scold, tell s.o. off",,,,,SN000989
 XV001270,tkw,"Nga dapa li-ko li-abu kia, ene kap’ ne-korone n-abu iune we tilu.",,,"If they want to kill us, I'll strive to kill one or two.",,,,https://doi.org/10.24397/pangloss-0003351#S38,SN000990
 XV001271,tkw,ero korone akapa,,,our alcohol,,,,,SN000991
 XV001272,tkw,Ka i-te ra i-le i-madau ka i-kotu mina dapa i-le i-te ne gilita ponu.,,,"He got scared and ran away from them, all the way to the hill.",,,,https://doi.org/10.24397/pangloss-0003270#S7,SN000992 ; SN001392
@@ -1282,11 +1282,11 @@ XV001280,tkw,Program kula idi li-la moli.,,,Some software programs are free.,,,,
 XV001281,tkw,"Kula ka i-ka se vono Lale, Ngama, Vono.",,,"Some (people) had moved to the areas of Lale, Ngama and Vono.",,,used absolutely,,SN000999 ; SN001973
 XV001282,tkw,"I-ngago wako, i-la puro kula i-vio ne waluko.",,,"Once he'd strung [his bow], he tied a few arrows around his hip.",,,,https://doi.org/10.24397/pangloss-0003351#S33,SN000999 ; SN002682
 XV001283,tkw,Kula pe li-vio ne teviri li-ioi; ka kula i-vio i-katei ne teviumu.,,,"Those who are standing by the stern, they will push; the others stand at the prow, and pull.",,,dragging a canoe on land,,SN001000 ; SN002280 ; SN002561
-XV001284,tkw,"Dapa kula ka li-bu ne revo, dapa kula li-wowo li-koie ne kulumoe.",,,"Some of them died in the sea, some others swam till they reached the island.",,,following pronoun [dapa](dapa_2),,SN001000 ; SN002774
+XV001284,tkw,"Dapa kula ka li-bu ne revo, dapa kula li-wowo li-koie ne kulumoe.",,,"Some of them died in the sea, some others swam till they reached the island.",,,following pronoun ‹[dapa](dapa_2)›,,SN001000 ; SN002774
 XV001285,tkw,"Vilisao i-arevo toñaki pon, kula tilu na.",,,The tornado broke up the ship into two halves.,,,,,SN001001
 XV001286,tkw,kula none 'naka,,,a portion of my food; my leftovers,,,,,SN001002
 XV001287,tkw,"Enga ini susuko Stanley, ia kupa pi-kila enga ini kuledi piko Stan.",,,"His real name is Stanley, but we shorten it to Stan.",,,,,SN001005 ; SN002021
-XV001288,tkw,iutego kuledi peini tokoli,,,shorter stilts for the floor structure,,,,,SN001006 ; SN002327
+XV001288,tkw,‹iutego› kuledi peini tokoli,,,shorter stilts for the floor structure,,,,,SN001006 ; SN002327
 XV001289,tkw,"Basavono pon, ini mamote kuledi.",,,"At that time, she was still short (in size).",,,,,SN001006
 XV001290,tkw,"Ponu kava pon, piene peini kuledi nga pon.",,,"And so, the story of kava is just a short one like that.",,,conclusion of a story,,SN001007 ; SN001669 ; SN001822
 XV001291,tkw,kulevelu mwalikote,,,[male fowl] rooster,,,,,SN001008
@@ -1295,7 +1295,7 @@ XV001293,tkw,Kuli i-ou.,,,A dog is barking.,,,,,SN001010
 XV001294,tkw,"Poi pe li-womanga ne kulumoe, vao i-moloe ne ngogoro.",,,"Domesticated pigs are fed in the village, but wild pigs wander about in the forest.",,,,,SN001012 ; SN001444 ; SN001573 ; SN001706 ; SN001894 ; SN002444 ; SN002764
 XV001295,tkw,kulumoe peini sekele,,,an area for garden,,,,,SN001013
 XV001296,tkw,Waiero i-vene ne vono i-katau ngiro Palapu.,,,"The waves went up to the dry land, following the north wind Palapu.",,,,,SN001014 ; SN001774 ; SN002608
-XV001297,tkw,"Kulumoe Iura, kulumoe i-wene tev’ iu.",,,The islands of (north) Vanuatu are located southeast [of Vanikoro].,,,,,SN001014 ; SN002282
+XV001297,tkw,"Kulumoe ‹Iura›, kulumoe i-wene tev’ iu.",,,The islands of (north) Vanuatu are located southeast [of Vanikoro].,,,,,SN001014 ; SN002282
 XV001298,tkw,ne tevie kulumoe,,,the other side of the world,,,,,SN001016 ; SN002273
 XV001299,tkw,Ni-toe longe pe le-tau kumara.,,,I'm cutting firewood to cook the sweet potatoes.,,,,,SN001017
 XV001300,tkw,kunini peini basa idi i-meli,,,medicine against headaches,,,,,SN001019
@@ -1317,7 +1317,7 @@ XV001315,tkw,I-ko i-la abo ne kaipa i-ko i-romo abo i-ko pi-tavie we tae.,,,He w
 XV001316,tkw,Abu u-la kangele teuko u-kamai!,,,[take a fishhook and bring it] Please bring a fish-hook!,,,,,SN001034
 XV001317,tkw,Li-la ruene li-tabo li-bono.,,,[they ‘take’ the door and shut it] They shut the door again.,,,,,SN001034
 XV001318,tkw,Ai' iape kape i-la men' iape i-koioi ne Toplau.,,,The father would introduce his son into the Men's House [lit. would ‘take’ his son and introduce him].,,,,,SN001034
-XV001319,tkw,li-la i-avo → ~laiavo,,,[they take it hangs] they hang s.th.,,,,,SN001035
+XV001319,tkw,li-la i-avo → ‹~laiavo›,,,[they take it hangs] they hang s.th.,,,,,SN001035
 XV001320,tkw,li-la i-abu,,,[they take it goes down] they put s.th. down,,,,,SN001035
 XV001321,tkw,li-la i-koie,,,[they take it enters] they put s.th. in,,,,,SN001035
 XV001322,tkw,"Vilo pe i-bu, ni-la enga ene i-wene ñei.",,,I left my name on a dead tree. [lit. I ‘took’ my names it was left there],,,,,SN001035
@@ -1331,7 +1331,7 @@ XV001329,tkw,Ai-la ene?,,,[did you take me?] Did you get my point?,,,,,SN001038
 XV001330,tkw,Bwara ni-la eo susuko tae.,,,Maybe I didn't understand you properly.,,,,,SN001038
 XV001331,tkw,I-la wik iune!,,,It takes a whole week!,,,,,SN001039 ; SN002745
 XV001332,tkw,Li-bo kuo votobo pe i-la moro tete we teva.,,,Making a canoe can take up to three or four days.,,,,,SN001039 ; SN001455 ; SN002631
-XV001333,tkw,~la ngatene,,,‘take things’ = work,,,,,SN001040
+XV001333,tkw,‹~la ngatene›,,,‘take things’ = work,,,,,SN001040
 XV001334,tkw,Vono ka i-la.,,,It was already dusk.,,,,,SN001044
 XV001335,tkw,Taluaito i-la tongolukilo i-mini men' one.,,,The doctor gave some medicine to my child.,,,,,SN001048 ; SN002076 ; SN002352
 XV001336,tkw,"Leka, kape u-la ngatene u-mini susuko tae.",,,"As for your (opp.-sex) cross-cousin, you cannot give her anything directly.",,,,,SN001048
@@ -1356,7 +1356,7 @@ XV001354,tkw,I-vet' piene labiou.,,,He talked for ages.,,,,,SN001060
 XV001355,tkw,"Nga u-kila ini, kape u-labu u-lui ne moe iono.",,,"If you marry her, you will carry her all the way to your house.",,,,,SN001064 ; SN001192
 XV001356,tkw,"Leka, kape u-labu ebele ini metae. Nga u-romo ini we u-labu ini, kape u-kila.",,,"With your (opp.-sex) cross-cousin, you are not allowed any body contact. If you ever touched her, you'd have to marry her.",,,,,SN001065
 XV001357,tkw,Ne-labu ebel' ini pe nengele i-meli.,,,I'll massage her body because some spots (on her body) are painful.,,,,,SN001066 ; SN001591
-XV001358,tkw,~labu motoro,,,[lit. hold s.o. heavy] respect s.o.,,,,,SN001067
+XV001358,tkw,‹~labu motoro›,,,[lit. hold s.o. heavy] respect s.o.,,,,,SN001067
 XV001359,tkw,Mwaliko pon i-labu tongolukilo pe i-ejau ñe idi.,,,That man knows how to perform magic for people. [lit. he holds medicinal leaves…],,,,,SN001068 ; SN002351
 XV001360,tkw,"Sa eo moli, u-labu!",,,"If your belly's empty, grab (something)!",,,,,SN001069
 XV001361,tkw,Le-le le-labu ngatene?,,,Shall we go grab something? (=food),,,,,SN001070 ; SN001691
@@ -1443,7 +1443,7 @@ XV001441,tkw,Li-madau li-ko bwara kape le-ka le-loko dapa.,,,They were afraid th
 XV001442,tkw,jokoro pe li-vi,,,Pan pipe [lit. bamboos to be blown],,,,,SN001157
 XV001443,tkw,moro pe li-ve eo,,,the day when you were born [lit. when one begat you],,,,,SN001157
 XV001444,tkw,Sa ene i-lipu!,,,[My bell is full] I'm full.,,,,,SN001158 ; SN001935
-XV001445,tkw,Dapa pe li-mako li-loko loko i-vio ne webwe iadapa.,,,The dancers have stuck some loko leaves on their armbands.,,,,,SN001160
+XV001445,tkw,Dapa pe li-mako li-loko loko i-vio ne webwe iadapa.,,,The dancers have stuck some ‹loko› leaves on their armbands.,,,,,SN001160
 XV001446,tkw,Le-loko ajekele le-iui ne revo.,,,They collect the rubbish and throw it into the sea.,,,,,SN001161
 XV001447,tkw,Ka li-loko dapa li-koioi.,,,They led them inside.,,,,,SN001162
 XV001448,tkw,Toñaki iote ka i-tabo i-ka! Kape i-loko idi!,,,Here comes another ship again! They're going to kidnap people!,,,Blackbirding,,SN001162
@@ -1453,7 +1453,7 @@ XV001451,tkw,Li-vokoiu longe.,,,break firewood,,,,https://doi.org/10.24397/pangl
 XV001452,tkw,moe ma longe,,,firewood house (where wood is stocked),,,,,SN001166 ; SN001205
 XV001453,tkw,"I-le i-toe kuo iape ne ngogoro: kape i-toe i-abu i-wene, i-toe mengela mina awoiu, ka li-la longe mina.",,,He went to cut a canoe in the forest: first he chopped it down; then he cut off the top; then he dut out the wood.,,,,https://doi.org/10.24397/pangloss-0003350#S5,SN001167
 XV001454,tkw,"Uo moloe na, samame none ka longo.",,,"Here is some Red yam, together with Potato yam and Lesser yam.",,,,,SN001168 ; SN001620 ; SN001957
-XV001455,tkw,loro ie añawo,,,[lit. ‘whale vomit’] amber,,,,,SN001169
+XV001455,tkw,‹loro ie añawo›,,,[lit. ‘whale vomit’] amber,,,,,SN001169
 XV001456,tkw,"Basavono po mwaliko malaria i-vagasi, basa i-meli, mwaliko i-loro, panavono i-ke.",,,"When someone has malaria, their head aches, they vomit, they sweat…",,,,,SN001170
 XV001457,tkw,ba loubo,,,crab's claw,,,,,SN001172
 XV001458,tkw,utedie loubo,,,[backside of crab] crab's shell,,,,,SN001172 ; SN002418
@@ -1477,12 +1477,12 @@ XV001475,tkw,luene namuko,,,a catch of many fish,,,,,SN001189 ; SN001563
 XV001476,tkw,"Ini i-le i-la voko, i-lui i-la i-teli ne temaka iote.",,,"He [went to] grab the stone, took it away and put it down elsewhere.",,,,,SN001191
 XV001477,tkw,Toñaki iadapa i-ka i-ka i-sava webwe i-lui.,,,Their ships used to come here to buy troca shells and take them away.,,,,,SN001191
 XV001478,tkw,"Uña udo pe i-ako, li-lui i-avo ne tone.",,,The ripe bananas had been [taken] put to hang from the hook.,,,,,SN001191
-XV001479,tkw,li-lui nuduro,,,"carry the scareline, go fishing with the scareline",,,,,SN001191
+XV001479,tkw,li-lui ‹nuduro›,,,"carry the scareline, go fishing with the scareline",,,,,SN001191
 XV001480,tkw,Kupa pi-lui ini teve taluaito.,,,We took him to the doctor.,,,,,SN001192
 XV001481,tkw,"Vana uña toñaki i-ka i-loko dapa ne kulumoe na, dapa li-lui li-langatene ne Iura.",,,"Ships used to come to this island to collect people, and then take them away to make them work somewhere in the south.",,,,,SN001192
 XV001482,tkw,Ngiro i-aka i-lui dapa.,,,The wind blew and took them away.,,,,,SN001192
-XV001483,tkw,lukilo vekai,,,heliconia leaf,,,,,SN001193
-XV001484,tkw,tongolukilo,,,medicinal leaves,,,,,SN001193
+XV001483,tkw,‹lukilo vekai›,,,heliconia leaf,,,,,SN001193
+XV001484,tkw,‹tongolukilo›,,,medicinal leaves,,,,,SN001193
 XV001485,tkw,nga-lukilo,,,[lit. like-leaf] yellow,,,,,SN001193
 XV001486,tkw,Toñaki i-lukubi.,,,The ship was rocking.,,,,,SN001195
 XV001487,tkw,uie lupanade,,,tamanu leaves,,,,,SN001197
@@ -1490,9 +1490,9 @@ XV001488,tkw,Ni-lateli ne temamene peini lusa ene.,,,I put it away in my suitcas
 XV001489,tkw,Li-vet' piene ñe ma dapa.,,,They talk with their hands.,,,,,SN001202 ; SN002492
 XV001490,tkw,Webwe i-vene i-wen' ne ma dapa; loko i-vio ne ma dapa; vilitoe i-vio ne viabasa dapa.,,,"They had armbands on their arms, scented leaves on their armbands; and white flowers in their hair.",,,dancers,https://doi.org/10.24397/pangloss-0003352#S23,SN001202 ; SN002721
 XV001491,tkw,ma loubo,,,a crab's hole,,,,,SN001203
-XV001492,tkw,moe ma tadoe,,,Devils' lair (ancestral temple),,,,,SN001204
-XV001493,tkw,Toplau mwa gete,,,clubhouse for youngsters,,,,,SN001204
-XV001494,tkw,Voko ma Gete,,,Youngsters' Rock,,,,,SN001204
+XV001492,tkw,‹moe ma tadoe›,,,Devils' lair (ancestral temple),,,,,SN001204
+XV001493,tkw,‹Toplau mwa gete›,,,clubhouse for youngsters,,,,,SN001204
+XV001494,tkw,‹Voko ma Gete›,,,Youngsters' Rock,,,,,SN001204
 XV001495,tkw,None ponu ka i-mabie.,,,The food has gone stale.,,,,,SN001209
 XV001496,tkw,Abu u-vet' piene u-mabui!,,,Please talk slowly.,,,,,SN001211
 XV001497,tkw,I-u ñe mabukaia.,,,He wiped his anus.,,,,,SN001212
@@ -1512,7 +1512,7 @@ XV001510,tkw,Ni-romo makone iaipa wako po pi-pinoe.,,,I'm really enjoying those 
 XV001511,tkw,"Li-makui Ngabe pon, temaka po toñaki tamwaliko.",,,"They've been diving around Ngambe, at the site of the wreckage.",,,underwater archaeology,,SN001229 ; SN001672
 XV001512,tkw,makumoso iono,,,your first child,,,,,SN001231
 XV001513,tkw,Makumoso na? – Makumoso pon ta.,,,Is this your firstborn (child)? – That's my firstborn indeed.,,,,,SN001231
-XV001514,tkw,Teliki Makumoso,,,"supreme chief, Supreme God",,,,,SN001232
+XV001514,tkw,‹Teliki Makumoso›,,,"supreme chief, Supreme God",,,,,SN001232
 XV001515,tkw,dameliko Malangune,,,the Malangune pixies,,,,,SN001233
 XV001516,tkw,visone me puro ka malebu,,,a bow with darts and stunning arrows,,,,,SN001234 ; SN001308
 XV001517,tkw,Ka i-mamei ponu ka i-maliawo ka i-wene teve.,,,"As she was feeling cold, she lit a fire and lied down beside it.",,,,https://doi.org/10.24397/pangloss-0003353#S13,SN001235 ; SN001250 ; SN001854
@@ -1531,7 +1531,7 @@ XV001529,tkw,Iaero ne i-mamabe tete.,,,The river splits in three.,,,,,SN001246
 XV001530,tkw,"Okoro pon, via i-mamakoe.",,,That knife has a broken handle.,,,,,SN001247 ; SN002506
 XV001531,tkw,Mamdeuko po via moloe.,,,The honeyeater has red feathers.,,,,,SN001248 ; SN002505
 XV001532,tkw,Pon mamote i-te.,,,He is still alive.,,,,,SN001251 ; SN002138
-XV001533,tkw,Mamote ni-mui.,,,I still don't know / I don't know yet.,,,negative verb ([~mui](LX000292)),,SN001251
+XV001533,tkw,Mamote ni-mui.,,,I still don't know / I don't know yet.,,,negative verb (‹[~mui](LX000292)›),,SN001251
 XV001534,tkw,Ini mamote emele mwatebe.,,,She was still a young woman.,,,noun predicate,,SN001251
 XV001535,tkw,Temaka mamote nedemo we ka tomoro?,,,Is it still dark? or daylight already?,,,,,SN001251
 XV001536,tkw,"Basavono ponu, mamote kulumoe Tetawo mate idi abia li-te ene.",,,"At that time, the village of Tetawo was still inhabited.",,,,,SN001251 ; SN002242
@@ -1558,10 +1558,10 @@ XV001556,tkw,Mata da i-koie ne moe ponu la-romo.,,,[their eyes went into the hou
 XV001557,tkw,Mata i-katau tetawene na!,,,Observe carefully [lit. let your eyes follow] these drawings!,,,,,SN001268
 XV001558,tkw,Mata ene i-ledi.,,,I feel hungry!,,,,,SN001270
 XV001559,tkw,mata pele,,,net mesh,,,,,SN001271
-XV001560,tkw,mataruene,,,"opening of door, doorway",,,,,SN001271
-XV001561,tkw,mata luro,,,germinated coconut,,,,,SN001274
+XV001560,tkw,‹mataruene›,,,"opening of door, doorway",,,,,SN001271
+XV001561,tkw,‹mata luro›,,,germinated coconut,,,,,SN001274
 XV001562,tkw,mata bule,,,taro shoot,,,,,SN001274
-XV001563,tkw,mata diro,,,tip of arrow,,,,,SN001275
+XV001563,tkw,‹mata diro›,,,tip of arrow,,,,,SN001275
 XV001564,tkw,Mata eo na u-le ne tevie tawo.,,,Make sure you don't walk on that side.,,,,,SN001279
 XV001565,tkw,"A-lebie pon, mata eo na u-ajau ene ne-dobuo!",,,"As you're bathing, make sure you don't get me wet!",,,,,SN001279
 XV001566,tkw,ne mata moe 'none,,,in my forecourt,,,,,SN001281
@@ -1606,9 +1606,9 @@ XV001604,tkw,Menu ka i-re tengiro.,,,The baby was shedding tears.,,,,,SN001343 ;
 XV001605,tkw,Ne metele tilu-tae kape i-ve menu.,,,She will give birth in August.,,,,,SN001343 ; SN002449
 XV001606,tkw,Ni-p' ene tamwase ñe men' iamela.,,,Congratulations on your baby!,,,,,SN001344
 XV001607,tkw,menu emele ie teliki,,,[child female of chief] the chief's daughter,,,,,SN001344 ; SN002187
-XV001608,tkw,men’ ie anuele,,,baby turtle (name of a bird),,,,,SN001346
+XV001608,tkw,‹men’ ie anuele›,,,baby turtle (name of a bird),,,,,SN001346
 XV001609,tkw,"Vono i-sodo, ka menuko i-mo.",,,"The dawn came, and birds began singing.",,,,,SN001347 ; SN001404 ; SN001995
-XV001610,tkw,kasule we menuko,,,[lit. vine for birds] k.o. creeper,,,,,SN001347 ; SN002716
+XV001610,tkw,‹kasule we menuko›,,,[lit. vine for birds] k.o. creeper,,,,,SN001347 ; SN002716
 XV001611,tkw,Bavede i-vio ne menuko.,,,The sail stands on the prow.,,,,,SN001349 ; SN002562
 XV001612,tkw,menuko 'non' tilu,,,my two friends,,,,,SN001350
 XV001613,tkw,"Awisi pine, menuko!",,,"Thanks so much, my friend!",,,,,SN001350
@@ -1624,12 +1624,12 @@ XV001622,tkw,U-met' ene etapu!,,,Don't shy away from me!,,,,,SN001364
 XV001623,tkw,"Mwasu ponu, ini mwaliko pe i-metei dapa ne ini tae.",,,That Mwasu was a person who felt no shame with his relatives.,,,,https://doi.org/10.24397/pangloss-0003352#S43,SN001364 ; SN001852
 XV001624,tkw,Emel' enone i-mete ini pe i-rom dokta.,,,My wife is too shy to see the doctor.,,,,,SN001365 ; SN001790
 XV001625,tkw,"Stanley i-met' ini tamwase pe i-mako, ra pi-tedie ini.",,,"Stanley was too shy to dance, so we encouraged him.",,,,,SN001365
-XV001626,tkw,kulaña metele,,,half moon; semi-circle,,,,,SN001366
+XV001626,tkw,‹kulaña metele›,,,half moon; semi-circle,,,,,SN001366
 XV001627,tkw,"Noma li-katau ñe metele po li-romo metele i-ka ra ra ra i-tomoe, li-ko “Ka metele iune pon!”",,,"In the olden days, people would follow the changes of the moon; and when it finally disappeared, they would say “Alright, it's been one moon!”",,,,https://doi.org/10.24397/pangloss-0003351#S148,SN001366
 XV001628,tkw,noma metele,,,[face of the month] end of the month,,,,,SN001367
 XV001629,tkw,ne metele iote ka i-le awoiu,,,last month,,,,,SN001367
 XV001630,tkw,ne metele tilu-tae,,,[in eighth month] in August,,,,,SN001367
-XV001631,tkw,~kovi metele,,,[lit. miss months] be pregnant,,,,,SN001367
+XV001631,tkw,‹~kovi metele›,,,[lit. miss months] be pregnant,,,,,SN001367
 XV001632,tkw,Temotu tilu ponu i-metelu.,,,The two islets were engulfed (in the disaster).,,,,https://doi.org/10.24397/pangloss-0003352#S114,SN001369
 XV001633,tkw,"Kape i-le i-le i-le– nga mevia dapa tae, ka le-re mevia dapa.",,,"They would go on like that; and when they were out of breath, they would take a rest.",,,pushing the canoe,https://doi.org/10.24397/pangloss-0003350#S30,SN001372
 XV001634,tkw,U-re mevia eo mijaka!,,,Take some rest!,,,,,SN001373
@@ -1678,12 +1678,12 @@ XV001676,tkw,ne pwa moe,,,underneath the house,,,,,SN001420
 XV001677,tkw,ne mata moe,,,in the frontyard,,,,,SN001420
 XV001678,tkw,Pi-wete otovo pi-ko pe-songai moe.,,,We are making the roofing to repair our house.,,,,,SN001420 ; SN001793 ; SN002001
 XV001679,tkw,moe pe li-apinu ene,,,"[the house they cook in] cooking house, separate kitchen",,,,,SN001420
-XV001680,tkw,moe etapu,,,[holy house] church,,,,,SN001421
-XV001681,tkw,moe ma tadoe,,,the lair of Spirits,,,,,SN001421
+XV001680,tkw,‹moe etapu›,,,[holy house] church,,,,,SN001421
+XV001681,tkw,‹moe ma tadoe›,,,the lair of Spirits,,,,,SN001421
 XV001682,tkw,Ene ni-le ni-tamava ne mwoe 'tapu.,,,I went to pray in the church.,,,,,SN001422 ; SN002081
 XV001683,tkw,jebute moioe,,,cooked taro,,,,,SN001424
 XV001684,tkw,"U-tau awoiu po moioe, u-ovei pe u-e.",,,"Once you've cooked it and it's done, you can eat it.",,,,,SN001424 ; SN001841
-XV001685,tkw,"Tadoe ponu, li-mokavase.",,,That god (Tangteala1) was the one they worshipped.,,,,,SN001425
+XV001685,tkw,"Tadoe ponu, li-mokavase.",,,That god (‹Tangteala1›) was the one they worshipped.,,,,,SN001425
 XV001686,tkw,Tepungo pon voko wopine li-karau ne mwoko ka uña viko me komudo li-vio ene.,,,"Coral rocks are large boulders that grow on the reef bed, and that's where shells and clamshells grow.",,,,,SN001426 ; SN002228
 XV001687,tkw,Moko ka i-ma.,,,[The reef is dried up] It's low tide.,,,,,SN001427
 XV001688,tkw,Kape ne-le ne-mokoiu. – Susuko!,,,I'm going to sleep. – Alright!,,,,,SN001429 ; SN002028
@@ -1695,7 +1695,7 @@ XV001693,tkw,Li-bu awoiu. Iune i-te tae. Kulumoe Pakare moli.,,,Everybody died: 
 XV001694,tkw,"Kava, pe li-anu moro moli tae.",,,Kava is not something you drink randomly [lit. just any day].,,,,,SN001432
 XV001695,tkw,emele moli,,,a foreign woman,,,,,SN001433
 XV001696,tkw,momobo moli,,,early tomorrow morning,,,,,SN001434
-XV001697,tkw,~wene moli,,,[lie unconstrained] be easy,,,,,SN001435
+XV001697,tkw,‹~wene moli›,,,[lie unconstrained] be easy,,,,,SN001435
 XV001698,tkw,Li-vo moe moli.,,,They built a house in vain. (it's useless),,,,,SN001436
 XV001699,tkw,Ni-sava none moli.,,,I bought food for nothing. (it was wasted),,,,,SN001436
 XV001700,tkw,Ini i-langatene moli.,,,He works for free.,,,,,SN001437
@@ -1703,7 +1703,7 @@ XV001701,tkw,Ni-anu moli.,,,I'm drinking it pure (=without adding sugar etc.).,,
 XV001702,tkw,Ni-vongo moli.,,,"I'm eating ‘minimally’ (=only vegetables, but no meat).",,,,,SN001438
 XV001703,tkw,A-te moli?,,,Are you free?,,,,,SN001441 ; SN002139
 XV001704,tkw,uo moloe,,,red yam,,,,,SN001443 ; SN002403
-XV001705,tkw,jeboro moloe,,,red Coleus,,,,,SN001443
+XV001705,tkw,‹jeboro moloe›,,,red Coleus,,,,,SN001443
 XV001706,tkw,nidilo moloe,,,red ant,,,,,SN001443 ; SN001599
 XV001707,tkw,Laperusi vana i-moloe ne nom' ole take ne.,,,Lapérouse used to stroll around along that sand beach over there.,,,,,SN001444 ; SN001619 ; SN002067
 XV001708,tkw,Toñaki iadapa ebele nga molongo.,,,Their ship had its hull split in two.,,,,https://doi.org/10.24397/pangloss-0003270#S4,SN001446
@@ -1712,9 +1712,9 @@ XV001710,tkw,Momoso!,,,Madam!,,,respectful address,,SN001449
 XV001711,tkw,Mona ini pine.,,,[its width is great] It is very wide.,,,,,SN001452
 XV001712,tkw,Mona tae.,,,[it has no width] It is narrow.,,,,,SN001452
 XV001713,tkw,"I-tau jebute moioe ponu, i-loko i-ka i-le ne monone ka i-wete. I-wete awoiu ka i-ejau mama ada.",,,"Once the taro was cooked, she put it in a mortar and began to pound it. When she finished pounding it, she made the pudding.",,,,https://doi.org/10.24397/pangloss-0003351#S7,SN001453 ; SN002739
-XV001714,tkw,moro abia,,,every day,,,,,SN001455
+XV001714,tkw,‹moro abia›,,,every day,,,,,SN001455
 XV001715,tkw,moro pe li-ve eo,,,the day when you were born,,,,,SN001455
-XV001716,tkw,to moro → tomoro,,,middle of day → midday → day,,,,,SN001455
+XV001716,tkw,to moro → ‹tomoro›,,,middle of day → midday → day,,,,,SN001455
 XV001717,tkw,"Ra ra, moro iote iawo i-bu.",,,"They were living like that, but one day, the fire died out.",,,,,SN001458 ; SN001897
 XV001718,tkw,"Moro waini, mwaliko pe Vono.",,,"Once upon a time, [there was] a man from Lovono.",,,,https://doi.org/10.24397/pangloss-0003353#S1,SN001461
 XV001719,tkw,Jebute ka moso.,,,The taros are ready to harvest.,,,,,SN001462
@@ -1760,7 +1760,7 @@ XV001758,tkw,U-u mwa eo!,,,Wipe your mouth!,,,,,SN001511 ; SN002374
 XV001759,tkw,mwa tanoe,,,hole in the ground,,,,,SN001512
 XV001760,tkw,Bele mwa idi abiaini.,,,Your lips feel thick.,,,when drinking kave,,SN001513
 XV001761,tkw,miakaia mwaele,,,the smell of ginger,,,,,SN001516
-XV001762,tkw,mata mwaele,,,[yellow-eyes] Red-eyed crab,,,,,SN001517
+XV001762,tkw,‹mata mwaele›,,,[yellow-eyes] Red-eyed crab,,,,,SN001517
 XV001763,tkw,"Ka li-loko voko mwaele; awoiu, otovo. Li-tau. Awoiu ponu, ka li-si tetawene.",,,"They took some yellow stone; as well as sago leaves, which they cooked [into black color]. Then they began painting ritual designs [on the wall].",,,,,SN001518
 XV001764,tkw,Ni-mwagali ne none ponu.,,,That food is disgusting!,,,,,SN001519
 XV001765,tkw,Dapa ne kulumoe ponu li-e ngatene pe ene ni-mwagali ene.,,,People in that country eat stuff that I just find disgusting.,,,,,SN001519
@@ -1779,7 +1779,7 @@ XV001777,tkw,tenubopu mwalikote,,,sterile variety of pawpaw,,,,,SN001529
 XV001778,tkw,Mwatagete iote ka i-teli mama ini se.,,,She's already been promised to a boy.,,,,,SN001531
 XV001779,tkw,"None na, aña tamwaleko.",,,This food tastes bad.,,,,,SN001536 ; SN001621
 XV001780,tkw,"Uña ngaten' na, kape i-vio tev' eo.",,,All those things will be yours.,,,,,SN001536 ; SN001689 ; SN002569
-XV001781,tkw,"Noma, ni-ajau nabene; basavono na ka tae.",,,I used to smoke in the past; but now [at this moment] it's over.,,,,,SN001536
+XV001781,tkw,"Noma, ni-ajau nabene; ‹basavono na› ka tae.",,,I used to smoke in the past; but now [at this moment] it's over.,,,,,SN001536
 XV001782,tkw,Na nganae?!,,,What's this?,,,,,SN001537 ; SN001678
 XV001783,tkw,"En’ na dameliko tae, ene na ka mwaliko pine.",,,"I'm not a child, I'm a grown person!",,,with 1sg,,SN001538 ; SN001834
 XV001784,tkw,Eo na a-te vele?,,,Where do you live?,,,with 2sg,,SN001538
@@ -1799,7 +1799,7 @@ XV001797,tkw,"Ini i-le i-la voko. I-lui i-la i-teli ne temaka na ini po i-tuku i
 XV001798,tkw,Dapa ka li-sube nuduro pe uña teliki li-la li-mini dapa ka li-ke li-da tanoe pe li-nabe li-mini dapa.,,,"They have committed an infraction: while our chiefs had granted them some land, they crossed the limits of that territory which had been defined for them.",,,,,SN001552
 XV001799,tkw,Ka li-nabe keba ia mamote ba-kila keba tae.,,,We're engaged [lit. they've ‘marked’ us] but we aren't married yet.,,,,,SN001554
 XV001800,tkw,uie nabene,,,tobacco leaf,,,,,SN001555
-XV001801,tkw,abwa nabene,,,[tobacco colour] red-brown colour,,,,,SN001555
+XV001801,tkw,‹abwa nabene›,,,[tobacco colour] red-brown colour,,,,,SN001555
 XV001802,tkw,Ini i-koene namolo 'none.,,,He is wearing my clothes.,,,,,SN001562
 XV001803,tkw,"La-loko ngatene ada i-le: namolo iada, buioe ada me puluko, none ada.",,,"They took all their things with them: their clothes, their betel nut and lime, their food.",,,,https://doi.org/10.24397/pangloss-0003351#S10,SN001562
 XV001804,tkw,"Namolo, noma, li-ejau ñe bele vilo.",,,"In the olden days, clothes used to be made with tree bark.",,,,,SN001562
@@ -1818,14 +1818,14 @@ XV001816,tkw,Ini ka i-nat' ene.,,,He's been insulting me.,,,,,SN001570
 XV001817,tkw,U-nate idi etapu!,,,Stop swearing around!,,,,,SN001571
 XV001818,tkw,Ini nava eo?,,,What is she to you? (e.g. your sister? cousin?),,,,,SN001572
 XV001819,tkw,ne sekele,,,in the garden,,,,,SN001573
-XV001820,tkw,ne lema,,,inside,,,,,SN001573
-XV001821,tkw,ne to,,,in the middle,,,,,SN001573
+XV001820,tkw,‹ne lema›,,,inside,,,,,SN001573
+XV001821,tkw,‹ne to›,,,in the middle,,,,,SN001573
 XV001822,tkw,Kape i-ka ne kulumoe na.,,,She'll come to this village.,,,,,SN001573
 XV001823,tkw,"Noma, li-apinu ne mwoe.",,,"In olden times, people used to cook in the house.",,,,,SN001573
 XV001824,tkw,Ene li-waivo ene ne “National University” ne Solomon islands.,,,I did my studies at the National University in the Solomon islands.,,,,,SN001573
 XV001825,tkw,ne bwogo,,,during the night,,,,,SN001574
 XV001826,tkw,Et' iape i-ka ne vonila.,,,Her mother came in the evening.,,,,https://doi.org/10.24397/pangloss-0003269#S12,SN001574
-XV001827,tkw,n’ adie,,,"afterwards, then",,,,,SN001574
+XV001827,tkw,‹n’ adie›,,,"afterwards, then",,,,,SN001574
 XV001828,tkw,abo ne ene,,,my blood,,,,,SN001575
 XV001829,tkw,panavono ne ene,,,my sweat,,,,,SN001575
 XV001830,tkw,dapa ne ene,,,my relatives [lit. those of me],,,,https://doi.org/10.24397/pangloss-0003352#S80,SN001576
@@ -1834,23 +1834,23 @@ XV001832,tkw,nga ne,,,like this,,,,,SN001577
 XV001833,tkw,Okoro pon i-wene vele? – Ene! Ene ni-labu ne.,,,And where is that knife? – Here! I'm holding it here.,,,,,SN001577
 XV001834,tkw,Ne-le ne-re pele.,,,I’m going net-fishing.,,,,,SN001578 ; SN001906
 XV001835,tkw,Ne-ko ne-la awis pine tev' eo.,,,I’d like to thank you.,,,,,SN001578
-XV001836,tkw,"~puie → puiene, piene",,,"talk → speech, language",,,,,SN001579
-XV001837,tkw,~si_1 → sivene,,,"draw, write → drawing",,,,,SN001579
-XV001838,tkw,~sava → savene,,,buy → money,,,,,SN001579
-XV001839,tkw,~to_3 → tone,,,pole → a pole,,,,,SN001579
-XV001840,tkw,~mako → makone,,,dance → a dance,,,,,SN001579
+XV001836,tkw,"‹~puie› → puiene, ‹piene›",,,"talk → speech, language",,,,,SN001579
+XV001837,tkw,‹~si_1› → ‹sivene›,,,"draw, write → drawing",,,,,SN001579
+XV001838,tkw,‹~sava› → ‹savene›,,,buy → money,,,,,SN001579
+XV001839,tkw,‹~to_3› → ‹tone›,,,pole → a pole,,,,,SN001579
+XV001840,tkw,‹~mako› → ‹makone›,,,dance → a dance,,,,,SN001579
 XV001841,tkw,(Temaka) ka nedemo.,,,It's already dark.,,,,,SN001583
 XV001842,tkw,(Temaka) mamote nedemo we ka tomoro?,,,Is it still dark? or is it daylight already?,,,,,SN001583 ; SN002199 ; SN002337
 XV001843,tkw,"Li-mako li-mako, nedemo, tomoro, nedemo, tomoro…",,,"They danced on and on, during the night, during the day, the night, the day…",,,,https://doi.org/10.24397/pangloss-0003351#S47,SN001584 ; SN002337
 XV001844,tkw,neido kuli,,,a puppy,,,,,SN001585
 XV001845,tkw,neido poi,,,a piglet,,,,,SN001585
-XV001846,tkw,neido kulevelu,,,[baby fowl] chick,,,,,SN001585
+XV001846,tkw,‹neido kulevelu›,,,[baby fowl] chick,,,,,SN001585
 XV001847,tkw,neido konge,,,small shrimps,,,,,SN001586
 XV001848,tkw,neido unuo,,,[stealing kid] a thief,,,,,SN001587 ; SN002400
 XV001849,tkw,neido uñebe,,,[seducing kid] a womanizer,,,,,SN001587
 XV001850,tkw,Viko i-nene.,,,The treasure was shining.,,,,,SN001588 ; SN002532
 XV001851,tkw,U-ka u-nene ise ene!,,,Come suck my dick!,,,jocular provocation,,SN001589
-XV001852,tkw,nengele moe,,,"elements of a house, carpentry",,,,,SN001590
+XV001852,tkw,‹nengele moe›,,,"elements of a house, carpentry",,,,,SN001590
 XV001853,tkw,nengele makone,,,"[accessories of dance] the accessories necessary to carry out traditional dances (instruments, jumping boards+)",,,,,SN001592
 XV001854,tkw,Vivilo li-teli ne netebe.,,,Swamp taros are planted in swamps.,,,,,SN001595 ; SN002181 ; SN002589
 XV001855,tkw,Ni-ovei.,,,I know.,,,,,SN001598
@@ -1877,8 +1877,8 @@ XV001875,tkw,Nom’ Nagulu,,,Nomnangulu Point,,,,,SN001618
 XV001876,tkw,nuduko 'naka,,,my glasses,,,,,SN001625
 XV001877,tkw,nuduko peini mata idi tamwaleko,,,[glasses for bad eyes] prescription glasses,,,,,SN001625
 XV001878,tkw,Li-romo ñe duduko we damala pe Franis.,,,They were watching using the spyglass of the foreigners from France.,,,in times of Lapérouse,,SN001626
-XV001879,tkw,Li-ngago woworo awoiu ka li-kila li-ko nuduro.,,,"We tie together rattan stems, and call it a nuduro (scareline).",,,,,SN001631 ; SN001673
-XV001880,tkw,~vi nuduro,,,set a taboo leaf; reserve s.th. for o.s.,,,,,SN001632
+XV001879,tkw,Li-ngago woworo awoiu ka li-kila li-ko nuduro.,,,"We tie together rattan stems, and call it a ‹nuduro› (scareline).",,,,,SN001631 ; SN001673
+XV001880,tkw,‹~vi nuduro›,,,set a taboo leaf; reserve s.th. for o.s.,,,,,SN001632
 XV001881,tkw,Gi' one i-la nuduro i-vio ne sekele / moe / moko… (ñe uie luro).,,,My uncle put up a taboo in his garden / in his house / on the reef… (using a coconut palm).,,,,,SN001632
 XV001882,tkw,Mwalik' iote i-ka i-vokoiu nuduro.,,,Someone came and tore out the taboo (leaf).,,,,,SN001632 ; SN002603
 XV001883,tkw,i-bei nuduro,,,[trample on a taboo] deliberately infringe a proscription,,,,,SN001633
@@ -1910,7 +1910,7 @@ XV001908,tkw,Tamwaliko pe i-vio ne kulumoe iono ñoko.,,,It would be a shame if 
 XV001909,tkw,"Pon vilo pe li-e ñoko, ne temotu pon.",,,There were only edible plants on this islet.,,,,https://doi.org/10.24397/pangloss-0003351#S49,SN001654
 XV001910,tkw,Kape i-vo moe iape ini ñoko i-te ñei.,,,[His father] will build him a house for him to live alone.,,,,,SN001655
 XV001911,tkw,"Ponu kulumoe iadapa ñoko, temotu pon.",,,"[lit. (it was) the land of them only] They were the only inhabitants on that land, that islet.",,,,https://doi.org/10.24397/pangloss-0003351#S30,SN001655
-XV001912,tkw,abwa nga toloto,,,[colour like the lagoon] turquoise colour,,,,,SN001656
+XV001912,tkw,‹abwa nga toloto›,,,[colour like the lagoon] turquoise colour,,,,,SN001656
 XV001913,tkw,Nga tadoe i-ovei pe i-tomwoe.,,,"Just like spirits, they knew how to become invisible.",,,,https://doi.org/10.24397/pangloss-0003351#S71,SN001656
 XV001914,tkw,Li-toe kara nebe li-bo nga kulaña metele.,,,"You cut a root of rosewood tree, and carve it in the shape of [lit. like] a semi-circle.",,,,,SN001656
 XV001915,tkw,"Basavono na ka tae, ka li-vesu bavede ñe kuo nga noma tae.",,,Nowadays it's over: people don't sail any more like they used to [lit. like before].,,,,,SN001656
@@ -1936,7 +1936,7 @@ XV001934,tkw,"Telepakau pe noma, basavono po li-ve dameliko, nga emele kape li-a
 XV001935,tkw,Ka ne basakulumoe pine nga ponu.,,,"And in the bigger island, it was the same.",,,,https://doi.org/10.24397/pangloss-0003353#S33,SN001670
 XV001936,tkw,"Ewe, kape nga ponu.",,,"Yes, that must be it. [lit. it will (be) like that]",,,"predicative, future marked",,SN001671
 XV001937,tkw,Kape le-ngago moboro se tiaume peini kuo.,,,We fasten a rope to the hooks of the canoe.,,,,https://doi.org/10.24397/pangloss-0003350#S16,SN001673 ; SN002285
-XV001938,tkw,"Ni-la bele vilo, ni-ngago ñe waluko ene.",,,I took a bark cloth and wrapped it around my thighs.,,,,,SN001674
+XV001938,tkw,"Ni-la ‹bele vilo›, ni-ngago ñe waluko ene.",,,I took a bark cloth and wrapped it around my thighs.,,,,,SN001674
 XV001939,tkw,"Pon i-la visone iape i-ka i-ngago. I-ngago wako, i-la puro kula i-vio ne waluko.",,,"He took his bow, and strung it. Once he'd bent it, he tied a few arrows around his hip.",,,,https://doi.org/10.24397/pangloss-0003351#S32,SN001675
 XV001940,tkw,N' adie Laperus dapa li-ka Ngama susuko.,,,Then Lapérouse and his men arrived precisely where Ngama is.,,,,,SN001676 ; SN002025
 XV001941,tkw,Ai-etengi ñe nganae?,,,Why are you crying? [about what?],,,,,SN001678
@@ -1967,7 +1967,7 @@ XV001965,tkw,"Kape nga ngele nga i-bu, kape le-lengi aña ruene pe li-ko.",,,"Ev
 XV001966,tkw,Ka iolulu! tebo! ngiro!,,,There was thunder! rain! wind!,,,,https://doi.org/10.24397/pangloss-0003352#S106,SN001705 ; SN002152
 XV001967,tkw,Ngiro i-aka.,,,The wind is blowing.,,,,https://doi.org/10.24397/pangloss-0003351#S16,SN001705
 XV001968,tkw,Li-le li-toe longe ne ngogoro ka li-tabe li-kamai li-wapio i-vio ne moe.,,,"They went to chop firewood in the bush, then brought it back and piled it up in the house.",,,,,SN001706 ; SN002693
-XV001969,tkw,Ka ngogoro tamwase.,,,This place is totally overgrown.,,,with perfect [ka](ka_2),,SN001707
+XV001969,tkw,Ka ngogoro tamwase.,,,This place is totally overgrown.,,,with perfect ‹[ka](ka_2)›,,SN001707
 XV001970,tkw,Ini i-ngongo tamwase.,,,He's snoring a lot.,,,,,SN001708
 XV001971,tkw,"Kape ba-woi okoro, bai-oburo, dapa na kape le-mako i-ka.",,,"The two of us will play bamboos and sing, while they will come dancing.",,,,https://doi.org/10.24397/pangloss-0003351#S142,SN001710
 XV001972,tkw,Li-le li-odo ka li-sune tae.,,,"People have searched for it, but never found it.",,,treasure,https://doi.org/10.24397/pangloss-0003270#S10,SN001712
@@ -1978,7 +1978,7 @@ XV001976,tkw,Oie ini aplaka.,,,[her stoutness is small] She is slim.,,,,,SN00171
 XV001977,tkw,Oie ini tae.,,,[she has no stoutness] She is skinny.,,,,,SN001715
 XV001978,tkw,Oie ini ka wako.,,,[her size is good now] She has put on weight now.,,,,,SN001715
 XV001979,tkw,Li-panade okoro awoiu li-si telemwoe peini mwoe.,,,"You split the bamboos, and then you make the wallings of your house.",,,,,SN001721 ; SN001778 ; SN002176
-XV001980,tkw,buro bula okoro,,,Songs for Bamboos,,,song genre,,SN001722
+XV001980,tkw,‹buro bula okoro›,,,Songs for Bamboos,,,song genre,,SN001722
 XV001981,tkw,Le-woi okoro awoiu l-oburo i-katau.,,,"They pound bamboos, and then they sing along.",,,,,SN001722
 XV001982,tkw,I-ta balawe ñe okoro aplaka.,,,He's peeling a pineapple with a small knife.,,,,,SN001726 ; SN002031
 XV001983,tkw,Nara ole i-somoli!,,,Make sure it's not damaged by the sand.,,,,,SN001729
@@ -1990,10 +1990,10 @@ XV001988,tkw,Viabasa ini ome.,,,She has frizzy hair.,,,,,SN001732
 XV001989,tkw,uk’ one,,,my uncle,,,,,SN001736
 XV001990,tkw,lek’ one,,,my cross-cousin,,,,,SN001736
 XV001991,tkw,Ni-la piene ono.,,,I’m recording your language.,,,,,SN001737 ; SN001821
-XV001992,tkw,waluko ote,,,[sago bole] k.o. drum,,,,,SN001743 ; SN002680
+XV001992,tkw,‹waluko ote›,,,[sago bole] k.o. drum,,,,,SN001743 ; SN002680
 XV001993,tkw,uie otovo,,,sago leaves,,,,,SN001745
-XV001994,tkw,~wete otovo,,,"[lit. pin sago] put together a set of sago leaves, in preparing the roofing",,,,,SN001746
-XV001995,tkw,sodo otovo,,,thatch of sago leaves,,,,,SN001746
+XV001994,tkw,‹~wete otovo›,,,"[lit. pin sago] put together a set of sago leaves, in preparing the roofing",,,,,SN001746
+XV001995,tkw,‹sodo otovo›,,,thatch of sago leaves,,,,,SN001746
 XV001996,tkw,Okoro 'naka i-vio ne otovo iu tae?,,,"Can you see my knife, hanging from the roof?",,,,,SN001747
 XV001997,tkw,"Otovo kotekote, utele pine.",,,Spiny sago trees have large bases.,,,,,SN001749 ; SN001830 ; SN002420
 XV001998,tkw,Kuli i-ou pe bogo.,,,The dog is barking because it's night.,,,,,SN001750
@@ -2008,16 +2008,16 @@ XV002006,tkw,Ni-romo noma ini ni-ovei.,,,[I saw her face I knew] I recognized he
 XV002007,tkw,Eo a-mokoiu ai-ovili pe ive?,,,Why are you sleeping late? (i.e. sleeping in),,,,,SN001763
 XV002008,tkw,La-vet' piene lai-ovili.,,,They've been talking for too long.,,,,,SN001763 ; SN002495
 XV002009,tkw,Owopana li-e i-pono.,,,Wild kava has a sour taste.,,,,,SN001767 ; SN001847
-XV002010,tkw,kiapa,,,"1 inclusive plural, ‘we’",,,,,SN001768
-XV002011,tkw,kupa,,,"1 exclusive plural, ‘we’",,,,,SN001768
-XV002012,tkw,kaipa,,,"2nd plural, ‘you’",,,,,SN001768
-XV002013,tkw,dapa,,,"3rd plural, ‘they’",,,,,SN001768
+XV002010,tkw,‹kiapa›,,,"1 inclusive plural, ‘we’",,,,,SN001768
+XV002011,tkw,‹kupa›,,,"1 exclusive plural, ‘we’",,,,,SN001768
+XV002012,tkw,‹kaipa›,,,"2nd plural, ‘you’",,,,,SN001768
+XV002013,tkw,‹dapa›,,,"3rd plural, ‘they’",,,,,SN001768
 XV002014,tkw,"Blateno, oie vilo pe li-padi me kape le-woi ne to mane.",,,The “blateno” is a wooden pole that is painted and erected in the middle of the village area.,,,,,SN001769
 XV002015,tkw,La-ka votobo vono Paiu.,,,They arrived precisely in front of Paiu.,,,,,SN001771 ; SN002633
 XV002016,tkw,"Pakare ponu kulumoe nanana, mamote li-te ene.",,,"Pakare is a village today, it's still inhabited.",,,,,SN001773
 XV002017,tkw,Ngiro ka i-kamai tevie ne Palapu.,,,The northerly wind Palapu finally began to blow.,,,,https://doi.org/10.24397/pangloss-0003351#S17,SN001774
 XV002018,tkw,Pana iawo i-abu mijaka.,,,The heat of the fire goes down a little.,,,,,SN001777
-XV002019,tkw,panavono,,,[heat of weather] sweat,,,,,SN001777
+XV002019,tkw,‹panavono›,,,[heat of weather] sweat,,,,,SN001777
 XV002020,tkw,li-panade longe,,,split firewood,,,,,SN001778
 XV002021,tkw,"Vilisao tilu lai-abu wa-ini ponu, toñaki ponu, la-bei la-panade tilu ne.",,,"The two tornados stroke the ship in one blow, splitting it in two halves.",,,,,SN001778
 XV002022,tkw,"Po mwaliko malaria i-vagasi, basa i-meli, ebele i-ekilikili, panavono i-ke.",,,"When somebody has malaria, they have a headache, they tremble, they sweat. [lit. sweat comes out]",,,,,SN001779
@@ -2025,19 +2025,19 @@ XV002023,tkw,Ini i-papa men' iap' pon la-ke.,,,She took her baby on her back and
 XV002024,tkw,damala pe Franis,,,the foreigners from France,,,,,SN001782
 XV002025,tkw,Da-tilu pe Teanu.,,,They were from Teanu island.,,,predicate,https://doi.org/10.24397/pangloss-0003351#S1,SN001782
 XV002026,tkw,Uña ngatene pon na pe vele?,,,Where do those things come from?,,,,,SN001782 ; SN002459
-XV002027,tkw,iepiene pe noma,,,[story from the past] traditional story,,,,,SN001783
+XV002027,tkw,iepiene ‹pe noma›,,,[story from the past] traditional story,,,,,SN001783
 XV002028,tkw,Tokoli i-dobuo pe tebo.,,,The bridge is wet due to the rain.,,,,,SN001784
 XV002029,tkw,"A-rom' ini ai-ovei a-ko ini pe Japan, pe mata ini.",,,"You can see straight away that she's Japanese, due to her eyes.",,,,,SN001784
 XV002030,tkw,"Dapa kula li-wablei piene, ia li-tobo ñe, pe dapa ie mwaliko po awa dapa i-su.",,,"Some people may make jokes, as long as they restrain themselves, with respect to the family who are in mourning.",,,funeral ceremonies,,SN001784 ; SN002317
-XV002031,tkw,A-kai lusa ene na pe i-kae?,,,"Why did you tear my shirt? [lit. because why?, ~kae]",,,,https://www.facebook.com/groups/1253287941406185/?post_id=1253291688072477&comment_id=1277714545630191,SN001785
+XV002031,tkw,A-kai lusa ene na pe i-kae?,,,"Why did you tear my shirt? [lit. because why?, ‹~kae›]",,,,https://www.facebook.com/groups/1253287941406185/?post_id=1253291688072477&comment_id=1277714545630191,SN001785
 XV002032,tkw,"Ebel' ini me, pe a-venei network na.",,,It's a great thing that [lit. because] you set up this network.,,,,,SN001785
-XV002033,tkw,Pe ive?,,,Why?,,,,,SN001785
+XV002033,tkw,Pe ‹ive›?,,,Why?,,,,,SN001785
 XV002034,tkw,Ne-tau namuko enaka ne-kae? Pe iawo i-bu.,,,How will I be able to cook my fish? [indeed] our fire died out!,,,,,SN001786
 XV002035,tkw,Ia enon' iot' tae! Pe enone na iune na.,,,But I don't have another (knife). [indeed] this is my only one.,,,,,SN001786
 XV002036,tkw,Awis pine peini ngatene pe a-la ponu.,,,Thank you for your efforts. [lit. for those things you did],,,,,SN001787 ; SN001850
-XV002037,tkw,basavono pe li-anu kava,,,during kava-drinking moments [lit. (at the) moment that we drink kava],,,,,SN001787
+XV002037,tkw,‹basavono pe› li-anu kava,,,during kava-drinking moments [lit. (at the) moment that we drink kava],,,,,SN001787
 XV002038,tkw,ne bogo pe la-kila da,,,on their wedding day [lit. the day that they married],,,,,SN001787
-XV002039,tkw,udo pe i-ako,,,[banana that is ripe] ripe banana,,,,,SN001788
+XV002039,tkw,‹udo pe i-ako›,,,[banana that is ripe] ripe banana,,,,,SN001788
 XV002040,tkw,jokoro pe li-vi,,,[bamboo that people blow] Pan pipe,,,,,SN001788
 XV002041,tkw,moe pe li-apinu ene,,,[house we cook inside] kitchen,,,,,SN001788
 XV002042,tkw,die mwaliko pe i-bu,,,the bones of a dead body [of a person that died],,,,,SN001788
@@ -2074,16 +2074,16 @@ XV002072,tkw,U-pidi ini etapu!,,,Don't whip him!,,,,,SN001816
 XV002073,tkw,pi' iape,,,his/her grandfather,,,,,SN001817
 XV002074,tkw,Pie.,,,He's your grandfather.,,,,,SN001817
 XV002075,tkw,Pie ! A-ko u-ka vele ?,,,"Hey, my namesake! Where are you going?",,,,,SN001819
-XV002076,tkw,vese piene → vesepiene,,,bits of speech → words,,,,,SN001820
-XV002077,tkw,ebele piene,,,true words → truth,,,,,SN001820
-XV002078,tkw,~vete piene,,,"say words → talk, speak",,,,,SN001820
-XV002079,tkw,~wablei piene,,,tease words → joke,,,,,SN001820
+XV002076,tkw,vese piene → ‹vesepiene›,,,bits of speech → words,,,,,SN001820
+XV002077,tkw,‹ebele piene›,,,true words → truth,,,,,SN001820
+XV002078,tkw,‹~vete piene›,,,"say words → talk, speak",,,,,SN001820
+XV002079,tkw,‹~wablei piene›,,,tease words → joke,,,,,SN001820
 XV002080,tkw,U-wasu piene 'none.,,,[fix my words] Please correct my mistakes.,,,,,SN001820 ; SN002701
 XV002081,tkw,piene adapa Teanu,,,the Teanu language,,,,,SN001821
-XV002082,tkw,piene adapa Tetawo,,,the Tanema language,,,,,SN001821
+XV002082,tkw,‹piene adapa Tetawo›,,,the Tanema language,,,,,SN001821
 XV002083,tkw,piene akapa,,,our language (usually meaning that of Teanu),,,,,SN001821
 XV002084,tkw,piene damala,,,[Westerners' language] Pijin,,,,,SN001821
-XV002085,tkw,piene adapa wopine,,,"[language of elders] formal register, poetic style",,,,,SN001821
+XV002085,tkw,‹piene adapa wopine›,,,"[language of elders] formal register, poetic style",,,,,SN001821
 XV002086,tkw,Ni-lengi pieni peini dapa.,,,I've heard the news about them.,,,,,SN001823
 XV002087,tkw,Ponu piene tamwaliko pe noma; ka awoiu.,,,That's a bad thing of the past; it's over now.,,,sorcery,,SN001824
 XV002088,tkw,"Basavono kula, uña teliki li-vete piene ñei piene adapa wopine.",,,"Sometimes, dignitaries tend to speak in formal style [lit. in the language of elders].",,,,,SN001825
@@ -2094,7 +2094,7 @@ XV002092,tkw,"Nganae pine tae ponu, ne-ko n-ovei eo a-te vele?",,,Just a small q
 XV002093,tkw,Awis pine!,,,[big thanks] Thank you very much!,,,,,SN001832
 XV002094,tkw,"Sande, moro pine, pe li-langatene tae, pe li-tamava.",,,"Sunday is an important day – one when we don't work, and pray.",,,,,SN001833
 XV002095,tkw,Iepiene pine.,,,It's an important myth.,,,,,SN001833
-XV002096,tkw,mwaliko pine,,,"great man, chief, leader",,,,,SN001833
+XV002096,tkw,‹mwaliko pine›,,,"great man, chief, leader",,,,,SN001833
 XV002097,tkw,emele pine tamwase,,,a very old woman,,,,,SN001834
 XV002098,tkw,La-womanga men' iada ra ra pine.,,,They fed their child until he grew up.,,,,,SN001835
 XV002099,tkw,"Li-ve ini Vonovono, ia ini pine Honiara.",,,"She was born in the Reef Islands, but she grew up in Honiara.",,,,,SN001835
@@ -2104,10 +2104,10 @@ XV002102,tkw,Ni-e kulevelu tilu piote.,,,I ate two whole chickens.,,,,,SN001837
 XV002103,tkw,pi’ one,,,my grandfather,,,,,SN001838
 XV002104,tkw,"Buka ono po, tone peini tivi?",,,"That notebook of yours, how much did it cost?",,,,,SN001839
 XV002105,tkw,Ka mwaliko po i-ko “Wako.”,,,The man said “Alright.”,,,recognitional use,https://doi.org/10.24397/pangloss-0003351#S87,SN001839
-XV002106,tkw,"Tepapa i-dai ka ne mane po, li-vo aero i-dai.",,,The stomping boards were laid out all around the dancing area; then they erected a fence around them.,,,clause topicalizer ([ponu](ponu_1)),https://doi.org/10.24397/pangloss-0003351#S126,SN001839
+XV002106,tkw,"Tepapa i-dai ka ne mane po, li-vo aero i-dai.",,,The stomping boards were laid out all around the dancing area; then they erected a fence around them.,,,clause topicalizer (‹[ponu](ponu_1)›),https://doi.org/10.24397/pangloss-0003351#S126,SN001839
 XV002107,tkw,mwaliko po i-bu,,,the man who died,,,,,SN001840
 XV002108,tkw,Basa iupa re po i-wen’ iu re,,,that mountain of ours that is up over there,,,,,SN001840
-XV002109,tkw,"Basavono po li-ve dameliko, nga emele kape li-abu dapa.",,,"When female children were born, they would be killed.",,,relative with noun [basavono](basavono_1),,SN001842
+XV002109,tkw,"Basavono po li-ve dameliko, nga emele kape li-abu dapa.",,,"When female children were born, they would be killed.",,,relative with noun ‹[basavono](basavono_1)›,,SN001842
 XV002110,tkw,Makumoso na? – Makumoso pon ta.,,,Is this your firstborn (child)? – Correct! That's my firstborn.,,,,,SN001845
 XV002111,tkw,Pon ta! Susuko pon.,,,That’s it! That's correct.,,,,,SN001845
 XV002112,tkw,Awa eo i-viaene ñe ponda.,,,Now that’s the reason why you love her.,,,,,SN001845
@@ -2117,7 +2117,7 @@ XV002115,tkw,Katae ka ni-e pon ta!,,,That was my first time ever eating this!,,,
 XV002116,tkw,"Nga namuko i-pono eo, kape sa eo i-meli.",,,"If a fish poisons you, your stomach will ache.",,,,,SN001849 ; SN001935
 XV002117,tkw,ne utele vewo pine ponu,,,by that big chestnut tree over there,,,,,SN001850
 XV002118,tkw,U-le pon etapu!,,,Don't go there! (where you're about to go),,,,https://doi.org/10.24397/pangloss-0003352#S58,SN001850
-XV002119,tkw,nga pon,,,"like that, like you're doing",,,,,SN001850
+XV002119,tkw,‹nga pon›,,,"like that, like you're doing",,,,,SN001850
 XV002120,tkw,Basavono pon ene mamote apali.,,,"At that time [you're talking about], I was still a child.",,,,,SN001851
 XV002121,tkw,Okoro 'naka pon i-wene vele?,,,So where's that knife of mine (we're talking about)?,,,,,SN001851
 XV002122,tkw,Ponu nganae pine ponu? Pon tadoe? Pon tepakola?,,,What's that giant creature? Is that a god? Is that a giant?,,,,https://doi.org/10.24397/pangloss-0003351#S161,SN001851
@@ -2132,7 +2132,7 @@ XV002130,tkw,"Li-ae kie tepapa i-dadai awoiu pon, li-iu tepapa ene.",,,"They dug
 XV002131,tkw,"Li-vesu iuro; awoiu pon li-avi otovo. Li-kamai li-wete; li-wete awoiu pon li-ejau telemoe. I-su awoiu ponu ponu, i-vete “Wako”.",,,"They erected the post; after that, they went to pick sago leaves. Brought them, began sewing them; once they had sewn them, they made the roof. Once it was over, he said “Alright!”",,,tail-head linkage,,SN001857
 XV002132,tkw,"Tepuke ponu, moe aplaka pon, ne pongo kuo pon.",,,"The ‘tepuke’ ship has a small cabin, on top of the ship.",,,,,SN001858
 XV002133,tkw,U-pongo etapu!,,,Don't wake him up!,,,,,SN001859
-XV002134,tkw,"Ka Popokia ponu, li-ko kulumoe tilu. Ka toplau pe i-wene ene toplau tilu.",,,They say that Mt Popokia has two villages. And that there are two ritual houses there.,,,myth of Mt Popokia,,SN001860
+XV002134,tkw,"Ka Popokia ponu, li-ko kulumoe tilu. Ka ‹toplau› pe i-wene ene toplau tilu.",,,They say that Mt Popokia has two villages. And that there are two ritual houses there.,,,myth of Mt Popokia,,SN001860
 XV002135,tkw,Ata ini kape i-le ne Popokia.,,,His soul will travel to Popokia / to Paradise.,,,abode of the Dead,,SN001861
 XV002136,tkw,Tengiro i-pu i-abu.,,,His tears were running down.,,,,,SN001863 ; SN002215
 XV002137,tkw,I-leng' i-ko mobo ngapiene kape ka i-pu i-sali.,,,"She heard that the next morning, the festival would finish.",,,,,SN001864
@@ -2140,15 +2140,15 @@ XV002138,tkw,"Idi pe li-te ne toplau pe i-wene i-wene, ebieve kape i-pu i-sali."
 XV002139,tkw,Bomb i-pu ne kulumoe.,,,A bomb exploded in the city.,,,,,SN001865
 XV002140,tkw,Revo i-pu viabasa ene.,,,The sea has spattered my hair.,,,,,SN001866
 XV002141,tkw,Na ngele ba i-puie na?,,,Who's that talking to me?,,,,,SN001867
-XV002142,tkw,uie puluko,,,[betel leaves] k.o. fish,,,,,SN001868
+XV002142,tkw,‹uie puluko›,,,[betel leaves] k.o. fish,,,,,SN001868
 XV002143,tkw,U-te puna eo tae!,,,You keep quiet!,,,,,SN001874
 XV002144,tkw,Pe-te puna kaipa tae!,,,"You (all), keep quiet!",,,,,SN001874
 XV002145,tkw,Eo a-punuo ñe okor' 'naka?,,,Did you steal my knife?,,,,,SN001875
 XV002146,tkw,Noma vana uña toñaki van li-ka li-punuo ñe idi li-lui.,,,"In the olden days, ships used to come and kidnap people to carry them away.",,,,,SN001876 ; SN002438
 XV002147,tkw,Dapa Tukupie li-ka li-punuo.,,,The Tikopians have come (and colonised) here illegally.,,,,,SN001877
 XV002148,tkw,"Tabuluburi, tonge iote pine pe li-loko puro i-koie ene.",,,A quiver is a long basket were you can insert your arrows.,,,,https://doi.org/10.24397/pangloss-0003352#S129,SN001878
-XV002149,tkw,pwa tokoli,,,empty space under a house,,,,,SN001880 ; SN002327
-XV002150,tkw,pwa motono,,,deeper ocean,,,,,SN001880
+XV002149,tkw,‹pwa tokoli›,,,empty space under a house,,,,,SN001880 ; SN002327
+XV002150,tkw,‹pwa motono›,,,deeper ocean,,,,,SN001880
 XV002151,tkw,Li-le li-wamu dapa ne pwa moe.,,,They went to hide under a house.,,,,,SN001881
 XV002152,tkw,U-ko ruene me ne-ke ne-te ne pwa ruene ponu!,,,Open that (trap) door so I can hide underneath!,,,,https://doi.org/10.24397/pangloss-0003352#S57,SN001881 ; SN001934
 XV002153,tkw,pwama ene,,,by my side,,,,,SN001886
@@ -2183,8 +2183,8 @@ XV002181,tkw,Ni-wene rema eo.,,,"I was lying in bed, waiting for you.",,,,,SN001
 XV002182,tkw,Le-rema Bakap i-ka.,,,Let's wait till Bakap comes.,,,,,SN001916
 XV002183,tkw,Ni-te rema revo.,,,I'm waiting for the tide.,,,,,SN001917
 XV002184,tkw,Buioe pon kata ka reviñe.,,,Those areca nuts are ready to harvest.,,,,,SN001918
-XV002185,tkw,abilo peini revo,,,seasnake,,,,,SN001919
-XV002186,tkw,"Ne basavono na, bwara temaka pe li-te ene bwara ka revo.",,,It's quite possible that the place where [Lapérouse] stayed has nowadays turned to sea.,,,noun predicate with Perfect [ka](ka_2),,SN001919
+XV002185,tkw,‹abilo peini revo›,,,seasnake,,,,,SN001919
+XV002186,tkw,"Ne basavono na, bwara temaka pe li-te ene bwara ka revo.",,,It's quite possible that the place where [Lapérouse] stayed has nowadays turned to sea.,,,noun predicate with Perfect ‹[ka](ka_2)›,,SN001919
 XV002187,tkw,Revo i-koie.,,,[the sea is coming in] The tide is rising.,,,,,SN001920
 XV002188,tkw,Revo i-ma.,,,[the sea is dry] It's low tide.,,,,,SN001920
 XV002189,tkw,"I-wene pwo v'to teve awene tae? – Tae, n-ro tae!",,,"Isn't it on the ground, close to the fire? – No, I can't see it!",,,,,SN001923 ; SN002585
@@ -2215,7 +2215,7 @@ XV002213,tkw,U-le u-vene u-sali luro i-abu.,,,Go up and release a few coconuts d
 XV002214,tkw,Tanoe i-sali i-abu.,,,The ground collapsed down.,,,landslide,,SN001954
 XV002215,tkw,Ni-sali ne ma loubo.,,,I sank into a crab's hole.,,,,,SN001954
 XV002216,tkw,Makone ka i-sali.,,,The dances are over.,,,,,SN001955
-XV002217,tkw,Ngapiene ka i-sali pon ta – bwogo tili.,,,"Then the festival (ngapiene1) comes to an end, after five days.",,,,,SN001955
+XV002217,tkw,Ngapiene ka i-sali pon ta – bwogo tili.,,,"Then the festival (‹ngapiene1›) comes to an end, after five days.",,,,,SN001955
 XV002218,tkw,U-ovei pe u-wablei piene semame ini.,,,You may joke with her.,,,,,SN001956
 XV002219,tkw,"teliki, samame dap' wopine, dapa gete",,,"the chief, together with elders and young boys",,,,https://doi.org/10.24397/pangloss-0003351#S127,SN001957
 XV002220,tkw,"Kava li-totoe, kara i-koie samame.",,,"You chop kava to small pieces, including the root [lit. the root goes in together]",,,,,SN001959
@@ -2251,7 +2251,7 @@ XV002249,tkw,U-le u-soso eo ne moe re!,,,Go find shelter in that house over ther
 XV002250,tkw,Li-le li-wamu dapa li-te li-te li-soso dapa ponu ne Vilimoe.,,,"They went to hide themselves, and finally found refuge on the islet of Filimoe.",,,,,SN002003
 XV002251,tkw,"Ajekele pon, kape le-su.",,,"This is rubbish, we're about to burn it.",,,,,SN002004
 XV002252,tkw,Li-su moe enone.,,,They burnt my house.,,,,,SN002004
-XV002253,tkw,Li-su nasu idi,,,cremate the belongings of a dead person,,,funeral ritual,,SN002004
+XV002253,tkw,Li-su ‹nasu› idi,,,cremate the belongings of a dead person,,,funeral ritual,,SN002004
 XV002254,tkw,Li-su buluko ka li-koioi dapa li-vagasi takoie.,,,(The islanders) lit torchlights and led them inland.,,,,,SN002005
 XV002255,tkw,Nanana kape le-su sekele.,,,Today we're burning the land.,,,,,SN002006
 XV002256,tkw,"Li-le ne mane pon, dapa kula li-vio li-dadai tepapa. Li-dai li-su mane pon.",,,"They came to the dancing area, and erected a wooden fence around it – till it made a full circle.",,,,https://doi.org/10.24397/pangloss-0003352#S28,SN002007
@@ -2260,13 +2260,13 @@ XV002258,tkw,Taña ini i-su.,,,[his ears are blocked] He's deaf.,,,,,SN002009
 XV002259,tkw,Awa ene i-su.,,,[my neck/mind is blocked] I am sorry.,,,,,SN002010
 XV002260,tkw,Idi abia li-sube.,,,Many people get it wrong. (mixing up two words),,,,,SN002011
 XV002261,tkw,A-sube ñe nuduro.,,,You have infringed the rules.,,,,,SN002012
-XV002262,tkw,Ka a-romo leka! Ka a-sube ñe telepakau!,,,You caught sight of your cousin: you've infringed the customary rules.,,,,,SN002012 ; SN002178
+XV002262,tkw,Ka a-romo ‹leka›! Ka a-sube ñe ‹telepakau›!,,,You caught sight of your cousin: you've infringed the customary rules.,,,,,SN002012 ; SN002178
 XV002263,tkw,Ni-sube ñe maluo.,,,[I've gone wrong in life] I've sinned.,,,,,SN002013
 XV002264,tkw,Vilisao tilu pon lai-abu susuko ñe toñaki pon.,,,The two tornados went straight down to the ships.,,,,,SN002024
 XV002265,tkw,Ini i-mo susuko.,,,He spoke properly (with no mistake).,,,,,SN002026
 XV002266,tkw,Ini i-mo susuko.,,,He gave a fair speech.,,,,,SN002027
-XV002267,tkw,Dapa gete 'none na ta ene!,,,"My boys, here they are!",,,,,SN002029
-XV002268,tkw,Katae ka ni-e na ta!,,,Today is my first day eating this!,,,,,SN002030
+XV002267,tkw,Dapa gete 'none ‹na ta› ene!,,,"My boys, here they are!",,,,,SN002029
+XV002268,tkw,Katae ka ni-e ‹na ta›!,,,Today is my first day eating this!,,,,,SN002030
 XV002269,tkw,Daviñevi li-ta bele mina.,,,The women are peeling out the skin (of yams).,,,,,SN002031
 XV002270,tkw,li-ta vebe,,,split a ‘cutnut’,,,,,SN002032 ; SN002452
 XV002271,tkw,"Basavono po kulumoe i-ta ñei, Teliki Makumoso li-ko Banie.",,,"When our country emerged, our Supreme God was called Banie.",,,myth of origin,,SN002034
@@ -2297,7 +2297,7 @@ XV002295,tkw,"Tadoe adapa pon, enga ini Vilisao.",,,That god of theirs was calle
 XV002296,tkw,Aña wako tadoe!,,,This is incredibly delicious!,,,,,SN002055 ; SN002665
 XV002297,tkw,Pi’ one i-vete tae.,,,My grandfather never told me.,,,,,SN002059 ; SN002487
 XV002298,tkw,Ero tae.,,,It's not water.,,,+noun,,SN002060
-XV002299,tkw,labiou tae,,,not long after that…,,,,,SN002060
+XV002299,tkw,‹labiou tae›,,,not long after that…,,,,,SN002060
 XV002300,tkw,"Tae, ini tae. Iote teve.",,,"No, it's not her. It's someone else.",,,+free pronoun,,SN002060
 XV002301,tkw,Ero tae.,,,There's no water.,,,,,SN002061
 XV002302,tkw,"Ka nganae kape li-lengi melia dapa ñe tae, nganae pe kape li-ajau ñe ma dapa tae, nganae pe kape le-la tae.",,,There's nothing that can bring them pain; nothing that they must do with their hands; no work they have to do.,,,in Paradise,,SN002061
@@ -2338,15 +2338,15 @@ XV002336,tkw,Kasule i-tataele ne ole.,,,The vines have crept on the beach.,,,,,S
 XV002337,tkw,Apali i-tataele ne bete ini.,,,The baby is crawling on his bed.,,,,,SN002111
 XV002338,tkw,A-tataele nga pon pe i-ve?!,,,Why are you stooping down like that?!,,,,,SN002112
 XV002339,tkw,"Menu na, ka i-lubi ini i-wene ne sa me i-tatale.",,,"This child is able to flip and lie on his belly, (soon) ready to walk.",,,,,SN002113
-XV002340,tkw,Kape i-la mawene i-kamai i-tate.,,,She can take a (coconut-leaf) mat and lay it on the ground.,,,,https://doi.org/10.24397/pangloss-0003350#S39,SN002115
+XV002340,tkw,Kape i-la ‹mawene› i-kamai i-tate.,,,She can take a (coconut-leaf) mat and lay it on the ground.,,,,https://doi.org/10.24397/pangloss-0003350#S39,SN002115
 XV002341,tkw,Ne-tau namuko enaka ne-kae?,,,How will I cook my fish?,,,,,SN002118
 XV002342,tkw,"Nidilo, kula i-ke idi, kula i-tau idi.",,,"Ants sometimes bite you, sometimes they burn you.",,,,,SN002119
 XV002343,tkw,"Awoiu, awoiu pon, i-le nga pon, aeve ka i-tavali ponu, dapa ka li-le li-vongo ne toplau.",,,When everything was ready – about when the sun was going down – the men went to have dinner in their men's club.,,,,https://doi.org/10.24397/pangloss-0003351#S135,SN002123
 XV002344,tkw,U-laioi bete ne mwotono me i-tavea i-le.,,,"You throw the mat into the ocean, so it drifts away.",,,,,SN002124
 XV002345,tkw,Dapa ne da ka li-bu awoiu. Vana ka li-tavea li-koie li-sai i-katau temaka ponu.,,,"All their relatives died instantly. Their [bodies] were floating, washing ashore along the beach.",,,,https://doi.org/10.24397/pangloss-0003352#S125,SN002124
 XV002346,tkw,I-tavie mijaka.,,,She's a bit sick.,,,,,SN002125
-XV002347,tkw,tawora,,,below,,,,,SN002126
-XV002348,tkw,tev’ tawo,,,"down, on the lower side",,,,,SN002126
+XV002347,tkw,‹tawora›,,,below,,,,,SN002126
+XV002348,tkw,‹tev’ tawo›,,,"down, on the lower side",,,,,SN002126
 XV002349,tkw,mana tawo,,,flower of hibiscus,,,,,SN002127
 XV002350,tkw,"Ni-vene ne botu, tekau ene i-tawoe.",,,"As I climbed on the boat, my trousers got torn.",,,,,SN002128 ; SN002163
 XV002351,tkw,"Monone po ene ni-vete, ene tawora ne, ne utele vewo pine pe i-vio ne, pwama ole ponu.",,,"That chest I was talking about was located down there (northwest), by the large chestnut tree standing over there, on the beach.",,,,https://doi.org/10.24397/pangloss-0003269#S1,SN002130
@@ -2366,9 +2366,9 @@ XV002364,tkw,kwa-te,,,[ten-three] thirty,,,,,SN002141
 XV002365,tkw,"Ka i-te te' mwaliko, we mamote?",,,"[Is she living with a man] Has she got a man in her life, or not yet?",,,,,SN002143
 XV002366,tkw,piene adapa Teanu,,,the language of Teanu,,,,,SN002147
 XV002367,tkw,I-ka i-ka i-avo ne tebelia.,,,[the ship] came drifting on its side.,,,,,SN002149
-XV002368,tkw,kie tebene,,,variety of Pandanus with yellow leaves,,,,,SN002150
-XV002369,tkw,kava tebene,,,variety of kava of a pale colour,,,,,SN002150
-XV002370,tkw,bwoe tebene,,,"type of shark, pale-coloured",,,,,SN002150
+XV002368,tkw,‹kie tebene›,,,variety of Pandanus with yellow leaves,,,,,SN002150
+XV002369,tkw,‹kava tebene›,,,variety of kava of a pale colour,,,,,SN002150
+XV002370,tkw,‹bwoe tebene›,,,"type of shark, pale-coloured",,,,,SN002150
 XV002371,tkw,tedele kulevelu,,,chicken shit,,,,,SN002154
 XV002372,tkw,muk’ tedele,,,k.o. fly,,,,,SN002154
 XV002373,tkw,Tedele! Awa ene i-aka ne apali aplaka na!,,,Shit! I'm angry at that small child!,,,,,SN002155
@@ -2382,7 +2382,7 @@ XV002380,tkw,Ini tekepu.,,,He's albino.,,,,,SN002164
 XV002381,tkw,"Dapa li-le Tukupie, tev' iu re.",,,"They went to Tikopia, eastward.",,,,,SN002170
 XV002382,tkw,tele peini luro,,,coconut oil,,,,,SN002175
 XV002383,tkw,tele peini vongoro,,,oil of Canarium almonds,,,,,SN002175
-XV002384,tkw,bali peini telemoe,,,"pole lying at the base of a house walling, plinth",,,,,SN002176
+XV002384,tkw,‹bali peini telemoe›,,,"pole lying at the base of a house walling, plinth",,,,,SN002176
 XV002385,tkw,telepakau akapa,,,our culture,,,,,SN002177
 XV002386,tkw,Ponu telepakau tamwaliko pe noma; ka awoiu.,,,That's a bad tradition of times past; it's over now.,,,sorcery,,SN002177
 XV002387,tkw,"Telepakau pe na, lek' iape etapu.",,,"In our custom, one's (female) cousin is to be highly respected.",,,,https://doi.org/10.24397/pangloss-0003352#S68,SN002178
@@ -2405,7 +2405,7 @@ XV002403,tkw,Li-te li-wamu dapa li-te ne temotu ne Vilimoe ponu.,,,They went to 
 XV002404,tkw,"Awoiu, menu ka i-re tengiro, ka i-ekeke.",,,"The child stopped crying [he released his crying], and laughed.",,,,,SN002215
 XV002405,tkw,Da ne tepakare.,,,They are twins.,,,,,SN002218
 XV002406,tkw,"Li-ae kie tepapa i-dadai awoiu ponu, li-iu. Li-iu tepapa i-dai awoiu, blateno ka li-toe li-kamai.",,,"First they dug up the holes for the boards in a circle, then they buried the stomping boards. Finally, they cut a wooden pole and brought it.",,,,https://doi.org/10.24397/pangloss-0003351#S114,SN002224
-XV002407,tkw,Li-ovei pe li-pwalau li-le Iura ne tepuke.,,,They used to travel to (north) Vanuatu on their large canoes.,,,,,SN002226
+XV002407,tkw,Li-ovei pe li-pwalau li-le Iura ne ‹tepuke›.,,,They used to travel to (north) Vanuatu on their large canoes.,,,,,SN002226
 XV002408,tkw,Ei! Dapa! Na toñaki ae na? Na toñaki we tepuke?,,,"Hey, people! What sort of ship is that? Is it a European ship, or a Polynesian sailing canoe?",,,,,SN002226
 XV002409,tkw,vongoro pe tepworo,,,a flat almond,,,,,SN002230
 XV002410,tkw,li-katei tero,,,pull a vine (in the bush),,,,,SN002231
@@ -2417,8 +2417,8 @@ XV002415,tkw,Li-koioi li-su buluko ka li-koie li-vagasi takoie.,,,"They lit torc
 XV002416,tkw,tetawene ie daviñevi,,,women's tattoos,,,,,SN002239
 XV002417,tkw,Mata i-katau Toplau na ! Mata i-katau tetawene !,,,Look at the sacred house! Look at the (drawn) patterns!,,,,,SN002240
 XV002418,tkw,Tetawene kape le-si nga ne –,,,The patterns were drawn like this –,,,demonstration,,SN002240
-XV002419,tkw,"Tetawene peini Toplau mwa gete, iote enga ini “ava saba”.",,,"Among the customary patterns found on the Men's House, one is called “wings of the frigatebird”.",,,,,SN002240
-XV002420,tkw,"Noma, dapa Lovono li-ovei pe li-via samame dapa Tawo.",,,The Lovono1 tribe used to wage war against the Tetawo1 tribe.,,,,,SN002242 ; SN002508
+XV002419,tkw,"Tetawene peini ‹Toplau mwa gete›, iote enga ini “‹ava saba›”.",,,"Among the customary patterns found on the Men's House, one is called “wings of the frigatebird”.",,,,,SN002240
+XV002420,tkw,"Noma, dapa Lovono li-ovei pe li-via samame dapa Tawo.",,,The ‹Lovono1› tribe used to wage war against the ‹Tetawo1› tribe.,,,,,SN002242 ; SN002508
 XV002421,tkw,"Viñe teupu tete we teva, bwara kape votobo eo.",,,"Three of four cups, that may be enough for you.",,,,,SN002244
 XV002422,tkw,"E, dap' tete! Pi-ka vele?",,,"Hey, you three! Where are you coming from?",,,,,SN002244
 XV002423,tkw,"Wako, u-tetele!",,,"Alright, start!",,,,,SN002246
@@ -2479,7 +2479,7 @@ XV002477,tkw,Kape le-tobo ñe kangele teuko ono me le-mede ñe namuko.,,,"We'll 
 XV002478,tkw,Ni-tobo ñe mataruene.,,,[lit. I'm poking at the door] I'm measuring the door (using my fingers).,,,,,SN002315
 XV002479,tkw,"Le-go dapa: pon li-tobo ñi, li-ko pon basavono peini pe li-pei idi.",,,"They gird themselves: that way, they signal it's a day of rejoicing.",,,,https://doi.org/10.24397/pangloss-0003350#S14,SN002316
 XV002480,tkw,Dapa kula ka li-le li-toe longe ne ngogoro.,,,Some men went to cut firewood in the bush.,,,,,SN002319
-XV002481,tkw,"Tepapa, li-toe kara nebe li-bo nga kulaña metele.",,,"To make a stomping board, you cut a root of rosewood tree, and carve it (~bo) in the shape of a semi-circle.",,,,,SN002319
+XV002481,tkw,"Tepapa, li-toe kara nebe li-bo nga kulaña metele.",,,"To make a stomping board, you cut a root of rosewood tree, and carve it (‹~bo›) in the shape of a semi-circle.",,,,,SN002319
 XV002482,tkw,li-toe sela,,,cut the umbilical chord,,,,,SN002319
 XV002483,tkw,Li-toe udo,,,cut some bananas,,,,,SN002320
 XV002484,tkw,I-toe kuo iape.,,,He cut himself a canoe.,,,,,SN002321
@@ -2493,8 +2493,8 @@ XV002491,tkw,Tomoro wako!,,,Good day! (around midday),,,greeting,,SN002336
 XV002492,tkw,Nanana ne tomoro wako ni-romo apali iote i-labu.,,,"Today at midday, I saw a child holding it.",,,,,SN002338
 XV002493,tkw,"tone, pe li-to ñe kuo",,,a pole for poling the boat,,,,,SN002340
 XV002494,tkw,"Uña udo pe i-ako, li-lui i-avo ne tone.",,,The ripe bananas had been put to hang from the hook.,,,,,SN002341 ; SN002378 ; SN002401
-XV002495,tkw,Tone peini emele po tivi? – Savene tilu.,,,How much should I pay for this woman? – Two money mats (savene1).,,,,,SN002342
-XV002496,tkw,Ei! Dapa! Na toñaki ae na? Na toñaki we tepuke?,,,"Hey, people! What sort of ship is that? Is it a European ship, or a Polynesian sailing canoe?",,,,,SN002345
+XV002495,tkw,Tone peini emele po tivi? – Savene tilu.,,,How much should I pay for this woman? – Two money mats (‹savene1›).,,,,,SN002342
+XV002496,tkw,Ei! Dapa! Na toñaki ae na? Na toñaki we ‹tepuke›?,,,"Hey, people! What sort of ship is that? Is it a European ship, or a Polynesian sailing canoe?",,,,,SN002345
 XV002497,tkw,piene peini toñaki ie Laperus,,,the story of Lapérouse's ship,,,,,SN002345
 XV002498,tkw,"Tonge iote pine pon, savene i-koie.",,,Inside that long basket was a bride doily.,,,,https://doi.org/10.24397/pangloss-0003352#S130,SN002347
 XV002499,tkw,"U-la tongo jebute na, me u-kamai me la-lui me la-iu.",,,"Take this taro shoot, and go bury it in the ground.",,,,,SN002348
@@ -2509,9 +2509,9 @@ XV002507,tkw,Ni-wo topola 'none ne die 'ne.,,,I'm carrying my bag on my back (ha
 XV002508,tkw,I-totoe jebute iape.,,,He cut his taro in small pieces.,,,,,SN002359
 XV002509,tkw,I-la totokale ai’ iape.,,,[he's taken the likeness of his father] He looks like his father!,,,,,SN002361
 XV002510,tkw,Ene ni-rom ne totokale.,,,I saw it on a photo / on TV.,,,,,SN002362
-XV002511,tkw,"Ka i-wene peini u-totoñe via kome, via wele, tekumete, nga pon.",,,"The stingray sander (bele voro1) can be used for sanding axe handles, paddles, wooden dishes, and so on.",,,,,SN002363 ; SN002506
+XV002511,tkw,"Ka i-wene peini u-totoñe via kome, via wele, tekumete, nga pon.",,,"The stingray sander (‹bele voro1›) can be used for sanding axe handles, paddles, wooden dishes, and so on.",,,,,SN002363 ; SN002506
 XV002512,tkw,"Li-toulo i-avo, li-toulo ne toñaki apilaka.",,,They hooked it up upon a small boat.,,,anchor,,SN002364
-XV002513,tkw,Dapa li-woi nuduro ne touro.,,,They put up taboo signs on the shore.,,,,,SN002365
+XV002513,tkw,Dapa li-woi ‹nuduro› ne touro.,,,They put up taboo signs on the shore.,,,,,SN002365
 XV002514,tkw,Metele ka i-tovi.,,,The moon has come out.,,,,,SN002367
 XV002515,tkw,Li-tuku temamene i-abu.,,,They lowered the basket down (with a rope).,,,,,SN002370
 XV002516,tkw,"U-la kuli re pe i-bu, u-tuku ne motono.",,,"Take that dead dog, and get rid of it in the ocean.",,,,,SN002371
@@ -2532,7 +2532,7 @@ XV002530,tkw,Udo kata kape ka moso.,,,The bananas are almost ripe.,,,,,SN002377
 XV002531,tkw,"Udo, enga tilu: udo vaiene, ka udo vakaero.",,,"They had two types of bananas: vaiene, and vakaero.",,,,https://doi.org/10.24397/pangloss-0003351#S103,SN002381
 XV002532,tkw,Tengiro i-udu.,,,Her tears were dripping.,,,,,SN002383
 XV002533,tkw,uie vilo,,,a (plant) leaf,,,,,SN002384
-XV002534,tkw,ule uie wopine,,,k.o. vine with large leaves,,,,,SN002384 ; SN002769
+XV002534,tkw,‹ule uie wopine›,,,k.o. vine with large leaves,,,,,SN002384 ; SN002769
 XV002535,tkw,"Mawene, ini bete peini uie luro.",,,A ‘mawene’ is a mat made of coconut leaves.,,,,,SN002387
 XV002536,tkw,Viavia ini ukiliro.,,,Its plumage is quite colourful.,,,,,SN002389 ; SN002525
 XV002537,tkw,uk’ one mwalkote,,,my father-in-law,,,,,SN002393
@@ -2551,10 +2551,10 @@ XV002549,tkw,vese uro,,,piece of charcoal,,,,,SN002410 ; SN002476
 XV002550,tkw,Dapa noma li-labu uro abia tamwaliko me li-abu ñe idi.,,,People in the past used to use black magic to kill people.,,,,,SN002413
 XV002551,tkw,Li-woi okoro ñe utedie ini.,,,They stuck a knife in his back.,,,,,SN002417 ; SN002752
 XV002552,tkw,ne utele vewo pine ponu,,,at the base of that big chestnut tree over there,,,,,SN002420 ; SN002498
-XV002553,tkw,Utele i-vian' eo?,,,Are you so prosperous? [lit. do roots trip you up? – cf. ~viane1],,,proverbial,,SN002420
+XV002553,tkw,Utele i-vian' eo?,,,Are you so prosperous? [lit. do roots trip you up? – cf. ‹~viane1›],,,proverbial,,SN002420
 XV002554,tkw,I-toe ñe utele temotu tilu pon!,,,He destroyed the two islets. [lit. the base of the islets],,,,https://doi.org/10.24397/pangloss-0003352#S112,SN002421
 XV002555,tkw,utele buro,,,the beginning of the song,,,,,SN002422
-XV002556,tkw,~teli utele,,,[lit. lay base] start s.th.,,,,,SN002422
+XV002556,tkw,‹~teli utele›,,,[lit. lay base] start s.th.,,,,,SN002422
 XV002557,tkw,Uvilo i-e vilo.,,,Rats eat wood.,,,,,SN002423
 XV002558,tkw,Keba kape ba-vagas' eo Ostrelia.,,,We will come to (visit) you in Australia.,,,,,SN002426
 XV002559,tkw,Mamote ni-vagasi Ezzy tae.,,,I haven't met Ezzy yet.,,,,,SN002426
@@ -2567,7 +2567,7 @@ XV002565,tkw,vangana aeve,,,sun light,,,,,SN002441
 XV002566,tkw,vangana kanimoro,,,light of the stars,,,,,SN002441
 XV002567,tkw,"Vao, we pe li-womanga?",,,"Is it wild, or tame?",,,,,SN002442 ; SN002714
 XV002568,tkw,vongoro vao,,,wild almonds,,,,,SN002443 ; SN002619
-XV002569,tkw,matamulue vao,,,wild variety of matamulue1 plant,,,,,SN002443
+XV002569,tkw,‹matamulue vao›,,,wild variety of ‹matamulue1› plant,,,,,SN002443
 XV002570,tkw,Ka i-ve?,,,Has she given birth already?,,,birth expected,,SN002448
 XV002571,tkw,Kulevelu ponu i-ovei pe i-ve waluluo ini moro abia na.,,,This hen is able to lay eggs every day.,,,,,SN002449
 XV002572,tkw,"Emele i-te ne kulumoe, pe men’ iape mamote i-ve.",,,"The woman was staying in the village, as she had just given birth [lit. she was still giving birth to her child]",,,,https://doi.org/10.24397/pangloss-0003352#S48,SN002449
@@ -2613,7 +2613,7 @@ XV002611,tkw,via ini,,,his hair,,,,,SN002504
 XV002612,tkw,Via ukaia ini biouro.,,,It has long tail feathers.,,,,,SN002505
 XV002613,tkw,Dapa noma li-via.,,,Our ancestors used to engage in wars.,,,,,SN002508
 XV002614,tkw,"Temabete me mawene, li-garei pe daviñevi li-viane.",,,Women are forbidden from stepping on mats or semi-mats.,,,,,SN002511
-XV002615,tkw,Li-viane tepapa me aña ini.,,,They jump on the (dancing) boards for the sound it makes.,,,,,SN002512
+XV002615,tkw,Li-viane ‹tepapa› me aña ini.,,,They jump on the (dancing) boards for the sound it makes.,,,,,SN002512
 XV002616,tkw,Vilo i-viane ale ene.,,,[a plant hit my foot] I banged my foot on a tree.,,,,,SN002514
 XV002617,tkw,Utele i-vian' eo?,,,Are you so prosperous? [lit. do roots trip you up?],,,proverbial,,SN002515
 XV002618,tkw,A-viñi dapa a-ko le-ka pe i-vian' eo?,,,You invited them (for a meal): is it because you are rich? [lit. because it trips you up],,,elliptical,,SN002515
@@ -2622,17 +2622,17 @@ XV002620,tkw,Buro i-viane dapa ka li-le.,,,"[a song hit them as they went] As th
 XV002621,tkw,Awa kupa i-viane pi-ko u-le u-romo tadoe akapa.,,,[our neck/will hits that you go see…] We'd like you to go and meet our god.,,,,,SN002520
 XV002622,tkw,mwaliko pe i-viane da-viñevi tamwase,,,a man who loves women too much,,,,,SN002521
 XV002623,tkw,Viavia ebele i-paka.,,,He is very hairy.,,,,,SN002524
-XV002624,tkw,Dapa Niteni li-ejau viko ñe viavia mamdeuko.,,,The people of Santa Cruz make money using feathers of the Myzomela bird.,,,,,SN002525
+XV002624,tkw,Dapa Niteni li-ejau viko ñe ‹viavia mamdeuko›.,,,The people of Santa Cruz make money using feathers of the Myzomela bird.,,,,,SN002525
 XV002625,tkw,U-wabe vijele enone ñe kerosin.,,,Fill up my jerrycan with kerosene.,,,,,SN002529 ; SN002645
 XV002626,tkw,"Kava ponu, ña kape le-vodo li-ko bwara pe li-la Viji, o Vanuatu.",,,"As for kava, you shouldn't believe that it came to us from Fiji or Vanuatu.",,,,,SN002530
-XV002627,tkw,Dapa noma Banie na li-ejau viko ñe mata aero – aero we anive.,,,"Our ancestors here in Vanikoro used to create money using shells, cone shells.",,,,,SN002531
+XV002627,tkw,Dapa noma Banie na li-ejau viko ñe mata aero – ‹aero we anive›.,,,"Our ancestors here in Vanikoro used to create money using shells, cone shells.",,,,,SN002531
 XV002628,tkw,Li-wete kava awoiu ka li-vili; kape le-wabe le-mini dapa po li-anu kava ne Toplau.,,,"After grinding the kava, they squeezed it; so they filled up [a bowl] and gave it to the kava drinkers in the men's house.",,,,,SN002537
 XV002629,tkw,vilisa ene,,,my clothes,,,,,SN002539
 XV002630,tkw,Li-loko vilisa dapa i-ven’ ne dapa.,,,They put on their dancing gear.,,,,https://doi.org/10.24397/pangloss-0003352#S20,SN002539
 XV002631,tkw,"Vilitoe, ini abo mana koro.",,,'Filitoe' is a kind of grass with white flowers.,,,,,SN002543
 XV002632,tkw,Webwe i-vene i-wen' ne ma dapa; loko i-vio ne ma dapa; vilitoe i-vio ne viabasa dapa.,,,"They had armbands on their arms, scented leaves on their armbands; and filitoe flowers in their hair.",,,dancers,https://doi.org/10.24397/pangloss-0003352#S23,SN002543
-XV002633,tkw,vilo peini melevele,,,‘famine food’,,,,,SN002544
-XV002634,tkw,bele vilo,,,tree bark → tapa,,,,,SN002545
+XV002633,tkw,‹vilo peini melevele›,,,‘famine food’,,,,,SN002544
+XV002634,tkw,‹bele vilo›,,,tree bark → tapa,,,,,SN002545
 XV002635,tkw,"Puro, li-bo vilo korone.",,,"To make an arrow, you sharpen a piece of strong wood.",,,,,SN002546
 XV002636,tkw,Ka i-vilu i-le.,,,He can walk already.,,,toddler,,SN002548
 XV002637,tkw,Kape ne-vilu ne-le ne basa re.,,,I'll be walking towards that mountain over there.,,,,,SN002548
@@ -2661,7 +2661,7 @@ XV002659,tkw,"Pe na vioe tae, jebute.",,,"This is not hill taro, this is ordinar
 XV002660,tkw,Men' one i-tabau i-woi visibaele ini ne touro.,,,My son fell down and hurt his knee on the reef.,,,,,SN002580 ; SN002755
 XV002661,tkw,Bingone i-ke ne visingele dapa.,,,[mucus comes out of their nose] They have runny noses.,,,,,SN002582
 XV002662,tkw,"Pon i-la visone iape i-ka i-ngago. I-ngago wako, i-la puro kula i-vio ne waluko.",,,"He took his bow, and strung it. Once he had strung it, he took hold of a few arrows, and attached them to his waist.",,,,https://doi.org/10.24397/pangloss-0003351#S32,SN002584 ; SN002677
-XV002663,tkw,Paiu vitoko i-ka.,,,Paiou village is very close from here.,,,directional verb [~ka](LX000131),,SN002585
+XV002663,tkw,Paiu vitoko i-ka.,,,Paiou village is very close from here.,,,directional verb ‹[~ka](LX000131)›,,SN002585
 XV002664,tkw,Dapa noma li-vo kangele kome li-ia kome.,,,People in the past used to smash giant clams and grind them into axes.,,,,,SN002590
 XV002665,tkw,li-vo vongoro,,,to crush canarium almonds,,,,https://doi.org/10.24397/pangloss-0003351#S130,SN002591 ; SN002619
 XV002666,tkw,Li-vo aero i-dai.,,,They have erected a fence around it.,,,,,SN002595
@@ -2670,50 +2670,50 @@ XV002668,tkw,udo pe li-vo,,,planted bananas,,,type of banana,,SN002597
 XV002669,tkw,A-vodo a-ko kape l-ovei pe le-watebo teve dapa?,,,Do you think we'll be able to ask them?,,,,,SN002598
 XV002670,tkw,Ni-vodo ni-ko nga u-samame ene.,,,I was hoping you would be able to help me.,,,,,SN002599
 XV002671,tkw,Mamote a-vodo?,,,Do you still remember?,,,,,SN002600
-XV002672,tkw,maga voko,,,pebbles,,,,,SN002601
+XV002672,tkw,‹maga voko›,,,pebbles,,,,,SN002601
 XV002673,tkw,"Kape i-vokoi’ iebe. Iebe kula kuledi pon, kape i-vokoi’ i-vio ne webwe ne ma ini.",,,"He can cut a fern palm. Some ferns are small, so he can stick one in his armband, on his arm.",,,ornamental use,https://doi.org/10.24397/pangloss-0003350#S12,SN002603
 XV002674,tkw,"Ka i-le i-le po ngiro i-aka ponu ra ka i-vokoiu. I-vokoiu wolowolo pon, i-vokoiu ka i-tabau.",,,"The hurricane blew so hard that it destroyed it. It destroyed the cross, and brought it down.",,,,,SN002604
 XV002675,tkw,Kape le-ka kape ne-labu iote ne dapa ne-vokoiu!,,,I'll come take one of them and I'll crush him!,,,,,SN002604
 XV002676,tkw,Vonila wako!,,,Good evening!,,,,,SN002605
 XV002677,tkw,"Ka vono i-sodo ponu, ne vonila ponu kata ka le-tetele pon.",,,"It was early morning, and they decided they would start [the festival] in the evening.",,,,https://doi.org/10.24397/pangloss-0003352#S16,SN002605
-XV002678,tkw,waiero peini vono,,,[wave of the coast] tidal wave,,,,,SN002608
+XV002678,tkw,‹waiero peini vono›,,,[wave of the coast] tidal wave,,,,,SN002608
 XV002679,tkw,La-kovi vono basakulumoe aplaka Teanu.,,,They sailed past the zone of the small island Teanu.,,,on the ocean,https://doi.org/10.24397/pangloss-0003351#S24,SN002609
-XV002680,tkw,ne lovia vono iote,,,in the Other World,,,,,SN002611
-XV002681,tkw,vono i-sodo,,,it is dawn,,,,https://doi.org/10.24397/pangloss-0003351#S9,SN002612
+XV002680,tkw,ne ‹lovia vono› iote,,,in the Other World,,,,,SN002611
+XV002681,tkw,vono i-‹sodo›,,,it is dawn,,,,https://doi.org/10.24397/pangloss-0003351#S9,SN002612
 XV002682,tkw,vono ka i-la,,,it is dusk,,,,,SN002612
 XV002683,tkw,piene adapa Vonovono,,,the Äiwoo language,,,,,SN002613
 XV002684,tkw,"Li-anu kava awoiu, ka li-vongo viri.",,,"They first drank kava, and then had their meal.",,,,https://doi.org/10.24397/pangloss-0003351#S94,SN002615
 XV002685,tkw,Kuo enone i-vongo.,,,My canoe was burnt!,,,,,SN002616
 XV002686,tkw,Ini i-vongo n' emel' iape.,,,He is jealous of his wife.,,,,,SN002617
 XV002687,tkw,Nanana kape le-vongo pine ne kulumoe.,,,We'll have a feast today in the village.,,,,,SN002618
-XV002688,tkw,"Li-wete jebute li-wete vongoro awoiu pon, li-ejau mama.",,,"We mash taros, we crush almonds, and make the mama pudding.",,,,https://doi.org/10.24397/pangloss-0003351#S133,SN002619
+XV002688,tkw,"Li-wete jebute li-wete vongoro awoiu pon, li-ejau mama.",,,"We mash taros, we crush almonds, and make the ‹mama› pudding.",,,,https://doi.org/10.24397/pangloss-0003351#S133,SN002619
 XV002689,tkw,mana voro,,,hibiscus flower,,,,,SN002620
-XV002690,tkw,bele voro,,,[skin of stingray] traditional sander,,,,,SN002623
+XV002690,tkw,‹bele voro›,,,[skin of stingray] traditional sander,,,,,SN002623
 XV002691,tkw,"Moe nga ne, moe pe li-votei piene.",,,This sort of house is used for meetings.,,,,,SN002628
 XV002692,tkw,I-romo i-ko ka votobo pe i-ioi i-abu.,,,He saw it was the right moment to push down (the canoe).,,,,https://doi.org/10.24397/pangloss-0003350#S7,SN002632
 XV002693,tkw,Ka votobo pe na kape u-viñi dapa u-ko pon susuko tae.,,,You really have to go tell them that this was untrue.,,,,,SN002632
 XV002694,tkw,"Telepakau abia idi li-mui, ka votobo pe l-ovei.",,,"Many traditions are now forgotten, people had better know them.",,,,,SN002632
 XV002695,tkw,wa wido,,,fruit of Barringtonia,,,,,SN002638
-XV002696,tkw,tili → wa-tili,,,five → five times,,,,,SN002640
-XV002697,tkw,basa → wabasa,,,head → head,,,,,SN002641
-XV002698,tkw,ero_1 → waiero,,,water → river,,,,,SN002641
-XV002699,tkw,ero_2 → waero,,,"breast, milk → breast",,,,,SN002641
-XV002700,tkw,awa → wasawa,,,throat → throat,,,,,SN002641
-XV002701,tkw,vilo → wavilo,,,"wood, stick → timber",,,,,SN002641
+XV002696,tkw,‹tili› → wa-tili,,,five → five times,,,,,SN002640
+XV002697,tkw,‹basa› → ‹wabasa›,,,head → head,,,,,SN002641
+XV002698,tkw,‹ero_1› → ‹waiero›,,,water → river,,,,,SN002641
+XV002699,tkw,‹ero_2› → ‹waero›,,,"breast, milk → breast",,,,,SN002641
+XV002700,tkw,‹awa› → ‹wasawa›,,,throat → throat,,,,,SN002641
+XV002701,tkw,‹vilo› → ‹wavilo›,,,"wood, stick → timber",,,,,SN002641
 XV002702,tkw,wabasa namuko,,,fish head,,,,,SN002644
 XV002703,tkw,Ni-wablei eo.,,,I was just teasing you.,,,,,SN002647
 XV002704,tkw,U-wablei piene 'tapu!,,,Stop making fun (of them)!,,,,,SN002648
 XV002705,tkw,"Li-la voko waboro li-ia aero ñei wablubu, ka li-ejau viko ñei.",,,We use black stone to polish cone shells into a round shape. That's how we made traditional money.,,,,,SN002650
-XV002706,tkw,dere wablubu,,,[round tuna] bonito fish,,,,,SN002651
-XV002707,tkw,kasule wa-wabulubu,,,[round-fruit creeper] calabash,,,,,SN002651
+XV002706,tkw,‹dere wablubu›,,,[round tuna] bonito fish,,,,,SN002651
+XV002707,tkw,‹kasule wa-wabulubu›,,,[round-fruit creeper] calabash,,,,,SN002651
 XV002708,tkw,Li-la voko waboro li-ia aero ñei wablubu.,,,We use black stone to polish cone shells into a round shape.,,,resultative construction,,SN002651
 XV002709,tkw,waburo ne aele,,,kneecap (of the leg),,,,,SN002652
 XV002710,tkw,Li-waga none pe kape le-te pe l-anu kava ne.,,,They handed out food for those who were having kava.,,,,,SN002655
 XV002711,tkw,Li-wai elela vongoro pon.,,,We shake the branch of the almond tree (to knock the nuts down).,,,,,SN002658
 XV002712,tkw,"Ne metele iune, toñaki i-ka waini.",,,The ship comes once every month.,,,,,SN002661
-XV002713,tkw,moro waini…,,,one day…,,,,,SN002661
+XV002713,tkw,‹moro waini›…,,,one day…,,,,,SN002661
 XV002714,tkw,Ene li-waivo ene ne “National University” ne Solomon islands.,,,I did my studies [lit. They instructed me…] at the National University in the Solomon islands.,,,,,SN002662
-XV002715,tkw,"Teliki Makumoso Banie i-waivo idi mwaliko ñe telepakau, ñe maluo.",,,The Elder God Banie instructed humans with culture and life.,,,,,SN002662
+XV002715,tkw,"‹Teliki Makumoso› Banie i-waivo idi mwaliko ñe telepakau, ñe maluo.",,,The Elder God Banie instructed humans with culture and life.,,,,,SN002662
 XV002716,tkw,Kap' u-le France kap' u-waivo piene upa ñe dapa.,,,"In France, you'll instruct people in our language.",,,,,SN002663
 XV002717,tkw,U-wakale bele etapu!,,,Don't scratch your skin!,,,,,SN002664
 XV002718,tkw,Li-romo ngiro wako.,,,They found the wind to be fine.,,,,,SN002665
@@ -2730,8 +2730,8 @@ XV002728,tkw,waluko aele,,,hip,,,,,SN002679
 XV002729,tkw,waluko luro,,,trunk of a coconut tree,,,,,SN002680
 XV002730,tkw,wamione ie pwoi,,,pig bladder,,,,,SN002687
 XV002731,tkw,uña dameliko wamtaka,,,small children,,,,,SN002688
-XV002732,tkw,"Kava li-totoe, li-wete me wamtaka.",,,"You dice up the kava, you grind it into small bits.",,,causative [me](me_2),,SN002688
-XV002733,tkw,"Savene, uña kiñe po li-vei ñi wamtaka tamwase.",,,Savene mats have their fibers woven very delicately.,,,‘[savene](savene_1)’ mats,,SN002688
+XV002732,tkw,"Kava li-totoe, li-wete me wamtaka.",,,"You dice up the kava, you grind it into small bits.",,,causative ‹[me](me_2)›,,SN002688
+XV002733,tkw,"Savene, uña kiñe po li-vei ñi wamtaka tamwase.",,,Savene mats have their fibers woven very delicately.,,,‘‹[savene](savene_1)›’ mats,,SN002688
 XV002734,tkw,Li-le li-wamu dapa ne pwa moe.,,,They went to hide [lit. hide themselves] under a house.,,,,,SN002690
 XV002735,tkw,U-wañaka ñ’ en’ ’tapu!,,,Don't be angry at me!,,,,,SN002692
 XV002736,tkw,"I-wañaka ñe tanoe, we ae?",,,"I think he's upset about land issues, or what?",,,,,SN002692
@@ -2740,7 +2740,7 @@ XV002738,tkw,Li-wapio viko li-lui kape le-puie li-kilasi tadoe adapa.,,,"They pi
 XV002739,tkw,Wasawa i-meli.,,,My throat aches.,,,,,SN002697
 XV002740,tkw,Kape u-wasi uña ngaten’ na po pi-wasi ñ’ eo na.,,,You will reveal all those ideas that we just revealed to you.,,,,,SN002698
 XV002741,tkw,"Kape ne-lui me ne-wasi ñe dapa enone, Teanu.",,,I will reveal (these dances) to my people on Teanu.,,,,https://doi.org/10.24397/pangloss-0003351#S63,SN002698
-XV002742,tkw,Ni-ko ne-wasi kaipa ñe Toplau mwa gete na.,,,I wanted to tell you guys about the Men's Initiation house.,,,,,SN002699
+XV002742,tkw,Ni-ko ne-wasi kaipa ñe ‹Toplau mwa gete› na.,,,I wanted to tell you guys about the Men's Initiation house.,,,,,SN002699
 XV002743,tkw,U-wasu kuo re u-min' ene.,,,Please could you arrange for me a trip on that boat?,,,,,SN002703
 XV002744,tkw,"Men' iape kape i-te ne toplau, ra basavono po kape ai' iape i-wasu emele i-min' ini.",,,The son will live in the Men's house until the day when his father arranges a wife for him.,,,,,SN002704
 XV002745,tkw,"Li-watebo ñei li-wamabu da, da ai’ iape me ete iape da la-ko: “O, wako!”",,,"They asked the question, put their request, and both parents said “It's alright.”",,,,,SN002709
@@ -2749,12 +2749,12 @@ XV002747,tkw,wavilo peini tokoli,,,tie-beams supporting a raised floor structure
 XV002748,tkw,Na toñaki we tepuke?,,,"Is it a European ship, or a Polynesian sailing canoe?",,,,,SN002714
 XV002749,tkw,viñe teipu tete we teva,,,three or four cups,,,,,SN002714
 XV002750,tkw,none we poi,,,food for the pig,,,,,SN002716
-XV002751,tkw,bavolo we Tangalo,,,[lit. snapper for the god Tangalo] k.o. snapper,,,,,SN002716
-XV002752,tkw,udo we tadoe,,,[lit. bananas for Spirits] k.o. unedible banana,,,,,SN002716
-XV002753,tkw,aero we anive,,,[lit. shell for dugongs] amber,,,,,SN002716
-XV002754,tkw,ilo we uvilo,,,[lit. Terminalia for rats] k.o. unedible fruit tree,,,,,SN002716
+XV002751,tkw,‹bavolo we Tangalo›,,,[lit. snapper for the god Tangalo] k.o. snapper,,,,,SN002716
+XV002752,tkw,‹udo we tadoe›,,,[lit. bananas for Spirits] k.o. unedible banana,,,,,SN002716
+XV002753,tkw,‹aero we anive›,,,[lit. shell for dugongs] amber,,,,,SN002716
+XV002754,tkw,‹ilo we uvilo›,,,[lit. Terminalia for rats] k.o. unedible fruit tree,,,,,SN002716
 XV002755,tkw,duduko we damala,,,the spyglass of the foreigners,,,,,SN002717
-XV002756,tkw,wa bale we Ginio,,,[lit. breadfruit used by Ginio] dancing rattles,,,,,SN002717
+XV002756,tkw,‹wa bale we Ginio›,,,[lit. breadfruit used by Ginio] dancing rattles,,,,,SN002717
 XV002757,tkw,uro we tongolukilo,,,sorcery held by the witch,,,,https://doi.org/10.24397/pangloss-0003350#S17,SN002718
 XV002758,tkw,"In’ na i-waivo idi pe li-bo vilo, kuo ngatene nga pon, wele, ngaten’ abia pon na…",,,"He's the one who taught us how to create things with wood, how to cut canoes, how to make paddles, all those things…",,,,,SN002722
 XV002759,tkw,Ka i-mamei ponu ka i-maliawo ka i-wene teve.,,,"As she was feeling cold, she lit a fire and lay down beside it.",,,,,SN002724
@@ -2784,8 +2784,8 @@ XV002782,tkw,Ka a-wo awoiu?,,,Have you read it?,,,,,SN002750
 XV002783,tkw,"Vewo, basavono na mamote i-wo tae.",,,The chestnuts haven't borne fruit yet.,,,,,SN002751
 XV002784,tkw,Li-woi elela manioka.,,,They planted a stock of manioc.,,,,,SN002753
 XV002785,tkw,Blateno ponu li-woi ne mane.,,,They have put up the ritual posts on the dancing area.,,,,,SN002754
-XV002786,tkw,Dapa li-woi nuduro ne touro.,,,They put up taboo signs (nuduro) on the seashore.,,,,,SN002754
-XV002787,tkw,~woi okoro,,,"pound bamboos on the ground, to make music",,,,,SN002756
+XV002786,tkw,Dapa li-woi nuduro ne touro.,,,They put up taboo signs (‹nuduro›) on the seashore.,,,,,SN002754
+XV002787,tkw,‹~woi okoro›,,,"pound bamboos on the ground, to make music",,,,,SN002756
 XV002788,tkw,"Teliki iadapa li-abu li-ka, li-wokobe da po la-sai kuo.",,,The chiefs came down and welcomed them as they landed their canoe (on the beach).,,,,https://doi.org/10.24397/pangloss-0003351#S42,SN002760
 XV002789,tkw,"Vao, we pe li-womanga?",,,"Is (this animal) wild, or tame?",,,,,SN002765
 XV002790,tkw,wonone pe li-e,,,the various types of food,,,,https://doi.org/10.24397/pangloss-0003351#S50,SN002767
