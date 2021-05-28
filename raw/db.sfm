@@ -1412,9 +1412,9 @@ insect repellent on wood
 \sd Fish
 \sc Hemirhamphus |ax{spp}
 
-\lx anesi
-\ph anesi
-\va anes
+\lx anes
+\ph anes
+\va anesi
 \lvn kele
 \ps nop
 \uv animal+
@@ -2344,7 +2344,7 @@ predicates referring to feelings
 \xn I thought to myself: “It's going to be alright.”
 \sn 2
 \hn freq
-\wn optionally foll. by |vl{me_2} and/or |vl{kape}
+\wn optionally foll. by |vl{me_2.A} and/or |vl{kape}
 \dn want (that)
 \xv Awa ene ni-ko kape le-l’ l-aneve Toplau.
 \xn I want them to go clean up the men's house.
@@ -2905,7 +2905,7 @@ food
 \cn peaceful time
 \se basavono na
 \ps adv
-\mr <compo>na_1</compo>
+\mr <compo>na_1.A</compo>
 \ll this moment
 \dn now; nowadays
 \xv Pon, i-wene ra basavono na.
@@ -5025,7 +5025,7 @@ themselves in the water, men would use a shark tooth to shave their beard or the
 \xv Ne topola 'none pe ni-wo ne die 'ne, uo kula kupa tete ka pi-ae.
 \xn In the basket I'm carrying on my back, these are a few yams we just dug out.
 \sy utedie
-\cf die moso
+\cf diemoso
 \cn spine
 
 \lx diemoso
@@ -9267,7 +9267,7 @@ nothing’
 \xv Kata ka ni-ovei na pe vilo pon, pe li-e.
 \xn I just discovered that this plant is edible.
 \un Synt.
-\en This inaugurative meaning (‘… for the first time’) requires the clause-finally presence of a focal deictic (|vl{na_1}, |vl{na
+\en This inaugurative meaning (‘… for the first time’) requires the clause-finally presence of a focal deictic (|vl{na_1.A}, |vl{na
 ta}, |vl{pon ta}) – equivalent to ‘now’ / ‘then’.
 
 \lx ~katau
@@ -10265,7 +10265,7 @@ rescue them.
 \cf ~ko me
 \cn in order to (+Irrealis)
 \sn 5
-\wn serialized; somet. followed by |vl{me_2} and/or |vl{kape} 
+\wn serialized; somet. followed by |vl{me_2.A} and/or |vl{kape} 
 \dn with the plan |fl{or} intention to; in order to, so that
 \xv Li-iu dapa li-bei dapa ñe voko li-ko nga uo.
 \xn They would bury them and cover them with stones,
@@ -10401,7 +10401,7 @@ called Utupua.
 \gp A
 \ps vt
 \wr A
-\mr <compo>~ko_2.A</compo> + <compo>me_2</compo>  ‘Subjunctive’
+\mr <compo>~ko_2.A</compo> + <compo>me_2.A</compo>  ‘Subjunctive’
 \wn + Irrealis
 \dn want to, intend to
 \xv Ni-ko me n-ajau kopi abia.
@@ -10432,7 +10432,7 @@ called Utupua.
 \lx ~ko me kape
 \ph (i·)ko.me.kape
 \ps cstr
-\mr <compo>~ko_2.A–5</compo> + <compo>me_2</compo> + <compo>kape</compo>  ‘Future’
+\mr <compo>~ko_2.A–5</compo> + <compo>me_2.A</compo> + <compo>kape</compo>  ‘Future’
 \sn 1
 \wn + Irrealis clause, same subject
 \dn want, intend to; be about to
@@ -10564,7 +10564,7 @@ out] with the taro.
 \zn on a canoe
 \xn If we land there, the islanders will kill us!
 \urlx https://doi.org/10.24397/pangloss-0003351#S31
-\sy ~sai_1
+\sy ~sai_1.B
 \sn 8
 \wn from far away
 \dn travel to an island; |fl{hence} settle in, immigrate
@@ -14395,7 +14395,7 @@ pandanus mat)
 \lx me kape
 \ph me kape
 \ps sub
-\mr <compo>me_2</compo> + <compo>kape</compo>
+\mr <compo>me_2.A</compo> + <compo>kape</compo>
 \sn 1
 \wn purposive
 \dn Purpose subordinator: in order to, so that
@@ -14795,7 +14795,7 @@ to a piece of wood.
 \gp A
 \wr A
 \ps ptc
-\mr <compo>me_2</compo> (?) + <compo>tae</compo>
+\mr <compo>me_2.A</compo> (?) + <compo>tae</compo>
 \sn 0
 \wn often combined with |vl{kape} ‘irrealis, future’
 \dn irrealis negation
@@ -16808,7 +16808,7 @@ Lale and Lovoko
 \va nata
 \ph nata
 \ps dx
-\mr <compo>na_1</compo> + <compo>ta_1</compo> 
+\mr <compo>na_1.A</compo> + <compo>ta_1</compo> 
 \sn 1
 \wn clause-final, following demonstrative
 \dn focal deictic, speaker-centred: this one
@@ -18099,7 +18099,7 @@ like before].
 \cn like that
 \se nga na
 \ps adv
-\mr <compo>nga</compo> + <compo>na_1</compo>
+\mr <compo>nga</compo> + <compo>na_1.A</compo>
 \ll like now
 \dn like now, like this, like today
 \xv Ne tomoro nga na tae: bwogo!
@@ -19589,7 +19589,7 @@ not translated
 \lvn pe
 \tnm pe
 \ps sub
-\mr Cf. (?) <compo>pe_1</compo>
+\mr Cf. (?) <compo>pe_1.B</compo>
 \sn 1
 \dn relativiser: that, which, who
 \xv Awis pine peini ngatene pe a-la ponu.
@@ -19771,7 +19771,7 @@ nouns
 \urlx https://doi.org/10.24397/pangloss-0003350#S43
 \se peini me
 \ps sub
-\mr <compo>me_2</compo>
+\mr <compo>me_2.A</compo>
 \ll of that
 \dn so that
 \xv Li-katei bavede i-vene ne iuro, peini me le-vesu i-ke i-le.
@@ -20303,7 +20303,7 @@ referent
 \hn hence
 \dn noun-phrase topicalizer
 \xv N-atevo iepiene amjaka peini Laperus. Iepiene pon na, ni-lengi tev' et' one.
-\zn foll. by demonstrative |vl{na_1}
+\zn foll. by demonstrative |vl{na_1.A}
 \xn I'll tell a short story about Lapérouse. This story, I heard it from my mother.
 \xv Uña ngatene pon na pe vele?
 \xn All those things, where do they come from?
