@@ -11,7 +11,7 @@ from pydictionaria.preprocess_lib import marker_fallback_sense, merge_markers
 from pydictionaria import sfm2cldf
 
 
-CROSSREF_BLACKLIST = {'xv'}
+CROSSREF_BLACKLIST = {'xv', 'lg'}
 CROSSREF_MARKERS = {'cf', 'mn', 'sy', 'an', 'cont', 'lv'}
 
 
