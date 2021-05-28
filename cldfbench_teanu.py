@@ -183,7 +183,12 @@ class EntrySplitter:
 def _fix_single_ref(ref, id_map):
     # Shave off sense numbers
     ref = re.sub(r'–\d+$', '', ref.strip())
-    return id_map.get(ref) or id_map.get('{}_1'.format(ref)) or ref
+    return (
+        id_map.get(ref)
+        or id_map.get('{}_1'.format(ref))
+        or id_map.get('{}.A'.format(ref))
+        or id_map.get('{}_1.A'.format(ref))
+        or ref)
 
 
 def _fix_crossref_field(value, id_map):
