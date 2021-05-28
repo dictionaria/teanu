@@ -357,9 +357,7 @@ def preprocess(entry):
 
 def _remove_inline_markers(val):
     if isinstance(val, str):
-        val = re.sub(r'\|(?:fv|vl)\{([^}]+)\}', r'‹\1›', val)
-        val = re.sub(r'\|\w+\{([^}]+)\}', r'\1', val)
-        return val
+        return re.sub(r'\|\w+\{([^}]+)\}', r'\1', val)
     else:
         return val
 
