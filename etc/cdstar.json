@@ -3540,5 +3540,16 @@
         "fname": "AlexF_komoudo.jpg",
         "sid": "teanu",
         "type": "image"
+    },
+    "cfb9bb0d0a4c6ca8764eb048eeb04141": {
+        "objid": "EAEA0-B537-7F9A-3722-0",
+        "mimetype": "image/jpeg",
+        "original": "Vanikoro_toponymy_map_Francois_2005_b.jpg",
+        "size": 1114950,
+        "thumbnail": "thumbnail.jpg",
+        "web": "web.jpg",
+        "fname": "Vanikoro_toponymy_map_Francois_2005_b.jpg",
+        "sid": "teanu",
+        "type": "image"
     }
 }

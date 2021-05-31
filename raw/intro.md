@@ -27,8 +27,8 @@ During my fieldwork trips in Vanikoro, I collected linguistic data on those thre
 
 <table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
-<td><a href="http://alex.francois.online.fr/img/Vanikoro_toponymy_map_Francois_2005_b.jpg" target="_blank">
-<img src="http://alex.francois.online.fr/img/Vanikoro_toponymy_map_Francois_2005_b.jpg" alt="Vanikoro language map" title="Pacific map" border="1"></a></td>
+<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/Vanikoro_toponymy_map_Francois_2005_b.jpg" target="_blank">
+<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/web.jpg" alt="Vanikoro language map" title="Pacific map" border="1"></a></td>
 </tr>
 <tr style="font-style:italic;">
 <td>Fig.&nbsp;2 - The three ancient tribes of Vanikoro.</td>
