@@ -1,10 +1,10 @@
-## The Teanu language
+## The Teanu language 
 
 Welcome to this **online Teanu – English dictionary**.
 
 **Teanu** <small>[iso code: tkw]</small> is the main language spoken on the island of **Vanikoro**, in Temotu, the easternmost province of the Solomon Islands. It has about 1000 speakers, among whom most are on Vanikoro, while others live in the country’s capital Honiara (on Guadalcanal island).
 
-The language receives its name from [_Teanu_](../units/teanu-Teanu_1), the island located northeast of the Vanikoro island group (the second island in size, after Banie). The same language has also been known in the literature as _Puma_ or _Buma_, after the main village of Teanu island.
+The language receives its name from [_Teanu_](../units/teanu-Teanu_1), the island located northeast of the Vanikoro island group (the second island in size, after Banie). The same language has also been known in the literature (e.g. Tryon 2002) as _Puma_ or _Buma_, after the main village of Teanu island.
 
 
 <table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
@@ -19,10 +19,21 @@ The language receives its name from [_Teanu_](../units/teanu-Teanu_1), the islan
 
 Vanikoro's traditional context is a society of fishermen and farmers – growing tubers, raising pigs and poultry. 
 
-### The languages of Vanikoro
+### The languages of Vanikoro 
 In earlier times, the island group of Vanikoro used to be divided into three tribal territories, each with its distinctive language: **Teanu** in the northeast, **Lovono** in the west, **Tanema** in the south. During the 20th century, the latter two languages became almost extinct, and replaced with Teanu. In 2012, Lovono was surviving with only 4&nbsp;speakers, and Tanema with only one.
 
 During my fieldwork trips in Vanikoro, I collected linguistic data on those three languages.
+
+
+<table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
+<tbody><tr>
+<td><a href="http://alex.francois.online.fr/img/Vanikoro_toponymy_map_Francois_2005_b.jpg" target="_blank">
+<img src="http://alex.francois.online.fr/img/Vanikoro_toponymy_map_Francois_2005_b.jpg" alt="Vanikoro language map" title="Pacific map" border="1"></a></td>
+</tr>
+<tr style="font-style:italic;">
+<td>Fig.&nbsp;2 - The three ancient tribes of Vanikoro.</td>
+</tr></tbody>
+</table>
 
 Teanu, Lovono and Tanema, the three indigenous languages of Vanikoro, are all **Oceanic**: they thus belong to the vast Austronesian family that covers most islands in the Pacific. Within the Oceanic family (≈500 languages), Vanikoro languages belong to “Temotu” – a smaller subgroup with about ten languages, located in the province of the same name (cf. Glottolog: [_tean1237_](https://glottolog.org/resource/languoid/id/tean1237)).
 
@@ -79,7 +90,7 @@ These forms can be quite instructive for the historical linguist wishing to comp
 
 The meaning of Lovono and Tanema words can safely be assumed to be identical to those of Teanu: this isomorphism is indeed very strong on the island (François 2009).
 
-### Teanu in its regional context
+### Teanu in its regional context 
 Besides its indigenous Melanesian population, the island of Vanikoro is also home to a Polynesian community that has been colonising the southern shore since at least the 16th century. Their homeland is Tikopia (the easternmost island of the Solomon archipelago), and their language is **Tikopia** or Fakatikopia, a Polynesian outlier language. 
 
 <table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
@@ -119,7 +130,7 @@ All in all, about 6% of the Teanu lexicon consists of identifiable **borrowings*
 
 &nbsp;
 
-## Methodology and data sources
+## Methodology and data sources 
 
 When I began studying it, Teanu was known mostly through wordlists (Tryon & Hackmann 1983), and from a grammatical sketch (Tryon 2002).
 
@@ -134,15 +145,15 @@ My methodology in the field combined language learning, targeted elicitation, an
 &nbsp;
 <div style="clear:both;"></div>
 
-## This dictionary
+## This dictionary 
 
 This bilingual Teanu dictionary is based on my corpus of texts, conversations, elicited data, and immersive fieldwork.
 
-It contains a total of 1860 entries, illustrated by about 3,200 example sentences.
+It contains a total of 1900 entries, illustrated by about 2800 example sentences.
 
 While the present _Dictionaria_ edition includes all my lexical data, interested readers can find the same data under a different presentation, on [_tiny.cc/Vanikoro-dict_](https://tiny.cc/Vanikoro-dict).
 
-### Special features
+### Special features 
 The present dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry  [**_ngiro_**](../units/teanu-ngiro_1) ‘wind’ has examples linking to original texts, such as [doi:Pangloss-0003352#S106](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:Pangloss-0003351#S16](https://doi.org/10.24397/pangloss-0003351#S16).
 
 The present work pays attention not just to language and grammar, but also to **culture and society**. Many entries come with photographs, as well as encyclopedic notes: see, for example, entries [_tolosai_](../units/teanu-tolosai_1) 'loincloth', [_savene_](../units/teanu-savene_1) 'valuable mat', [_nuduro_](../units/teanu-nuduro_2) 'scareline', [_mamdeuko_](../units/teanu-mamdeuko_1) 'Cardinal honeyeater'…
@@ -170,14 +181,13 @@ Entries usually feature a broad array of **cross-references** to other words: he
 &nbsp;
 
 
-### Semantic fields
+### Semantic fields 
 
 Many entries are assigned some semantic fields. The following table provides a key to the abbreviations:
 
 _Table 1 – Semantic fields used in this dictionary_
 
-
-<table class="table table-bordered"><tbody>
+<table class="table table-bordered" style="font-size: small;"><tbody>
     <tr>
         <th width="60">Abbr</th>
         <th width="300">Semantic field</th>
@@ -255,11 +265,11 @@ _Table 1 – Semantic fields used in this dictionary_
 
 &nbsp;
 
-## Basics of the grammar
+## Basics of the grammar 
 
 An overview of the grammar of Teanu can be found in Tryon (2002) and in François (2009); a more complete grammar is in preparation. The present summary will only highlight a few points that can help the reader make the most of this dictionary.
 
-### Orthography
+### Orthography 
 
 All forms in this dictionary are transcribed in the language's orthography, accompanied by their phonetic transcription. Teanu's alphabetical order is:
 <div style="text-align:center;">{ <strong>a &nbsp; b &nbsp; bw &nbsp; d &nbsp; e &nbsp; g &nbsp; i &nbsp; j &nbsp; k &nbsp; l &nbsp; m &nbsp; mw &nbsp; n &nbsp; ng &nbsp; ñ &nbsp; o &nbsp; p &nbsp; pw &nbsp; r &nbsp; s &nbsp; t &nbsp; u &nbsp; v &nbsp; w</strong> }.</div>
@@ -268,7 +278,7 @@ All forms in this dictionary are transcribed in the language's orthography, acco
 
 Each of these letters or digraphs corresponds to one phoneme in the language.
 
-### Phonology
+### Phonology 
 Teanu has 18 phonemic consonants. Table 2 lists the phonemes themselves (using IPA); and in brackets, the orthographic symbol. For example, letter ‹j› in the orthography encodes the prenasalized palatal stop /ᶮɟ/ .
 
 _Table 2 – The 18 phonemic consonants of Teanu_
@@ -379,7 +389,7 @@ _Table 3 – The 5 vowels of Teanu_
 Stress regularly hits the penultimate syllable of a phonological word: 
 - [_Teanu_](../units/teanu-Teanu_1) [teˈanu] 'Teanu'; [_abia_](../units/teanu-abia_1) [aˈᵐbia] 'many'; _le-le_ [ˈlele] 'let's go!'; [_webwe_](../units/teanu-webwe_1) [ˈweᵐbʷe] 'troca'; [_vesepiene_](../units/teanu-vesepiene_1) [ˌfesepiˈene] 'word'; [_basakulumoe_](../units/teanu-basakulumoe_1) [ˌᵐbasakuluˈmoe] 'island'.
 
-### Phonotactics
+### Phonotactics 
 
 Teanu shows a preference for open syllables CV, and all words end in a vowel. However, consonant clusters are sometimes found word-internally (resulting historically from the syncope of a high vowel /i/ or /u/): 
 
@@ -444,20 +454,28 @@ _Table 4 – A sample of Teanu words, with or without consonant clusters_
 &nbsp;
 
 
-### Word classes
+### Word classes 
 
 Every word can be assigned at least one class (or &quot;syntactic category&quot; or &quot;part of speech&quot;), based on its grammatical behaviour. Thus [_moe_](../units/teanu-moe_1) 'house' is a noun; [_aplaka_](../units/teanu-aplaka_1) 'crazy' is an adjective; [_~aiae_](../units/teanu-LX000012) '(be) difficult' is an intransitive verb; [_~ago_](../units/teanu-LX000010) 'shoot, spear' a transitive verb, etc.
 
 One of the characteristics of verbs is that they are bound forms, requiring a subject prefix: this is indicated with a tilde sign **~** before the radical. Thus [_~abu_](../units/teanu-LX000002) 'go down' cannot appear on its own, it needs a prefix such as 3sg [_i-_](../units/teanu-i-_1), yielding a citable form like _**i**-abu_ [iaᵐbu] ‘he's going down’. In this dictionary, the phonetic transcription of verbs will thus add a prefix in brackets, like [(**i·**)aᵐbu].
 
+When a given word governs a specific kind of complement, I indicate it behind small angled brackets. This concerns the (direct) **object** of transitive verbs:
+- e.g. [_kidi~_](../units/teanu-LX000153): “pick ‹betel leaves, [_puluko_](../units/teanu-puluko_1)› by pinching their stems”
+- [_~lu<sup>1</sup>_](../units/teanu-LX000232): “scrape ‹tuber› or grate ‹coconut flesh›, with a bivalve shell or grater”
+
+The same symbol can be used when specifying the typical possessor of an obligatorily-possessed noun:
+- e.g. [_iula<sup>2</sup>_](../units/teanu-iula_2): “rope of ‹s.th.› / chain of ‹ship›”
+- [_mengela_](../units/teanu-mengela_1): “top of ‹tree› / end of ‹s.th.› / piece of ‹wood›”
+
 &nbsp;
 
-### Inventory of word classes
+#### Inventory of word classes 
 
 Each word class is labelled using an abbreviation.
 
 _Table 5 – The word classes used in this dictionary of Teanu_
-<table class="table table-bordered">
+<table class="table table-bordered" style="font-size: small;">
 <tbody>
 <tr><th width="30">Abbr</th><th width="170">Word class</th><th width="30">Abbr</th><th width="170">Word class </th></tr>
   <tr>
@@ -609,15 +627,15 @@ _Table 5 – The word classes used in this dictionary of Teanu_
 
 &nbsp;
 
-#### Lexical flexibility
+### Lexical flexibility 
 
 In my syntactic analysis (explained in François 2017), a given word can show lexical flexibility, by being assigned several word classes – similar to English <span style="font-variant: small-caps;">[n.]</span> _snow_, <span style="font-variant: small-caps;">[v.]</span> _snow_. Rather than calling them &quot;homophones&quot;, I propose to analyze such examples (_snow_, _snow_) as &quot;heterosemes&quot; – i.e. identical forms linked by a relationship of &quot;heterosemy&quot; (conversion), and showing different grammatical behaviour: thus the Eng. noun _snow_ and the verb _snow_ would not be homophones in English, but “heterosemes”.
 
 While homophones are treated as separate entries, my [original dictionary](https://tiny.cc/Vanikoro-dict) treats all heterosemes under a single entry, which is split into separate lexical sections: e.g. [_biouro_](https://marama.huma-num.fr/Lex/Teanu/b.htm#%E2%93%94biouro) <span style="font-variant: small-caps;">‹a›</span> <span style="font-variant: small-caps;">[adj]</span> 'long' – <span style="font-variant: small-caps;">‹b›</span> <span style="font-variant: small-caps;">[n]</span> 'length' – <span style="font-variant: small-caps;">‹c›</span> <span style="font-variant: small-caps;">[adv]</span> 'at length', etc. Yet for technical reasons, the present _Dictionaria_ platform had to treat all heterosemes ({form / word class} pairing) as separate entries, as though they were homophones: e.g. [_biouro 1_](../units/teanu-biouro_1), [_biouro 2_](../units/teanu-biouro_2), [_biouro 3_](../units/teanu-biouro_3); they are mutually linked with a label &quot;heteroseme(s)&quot;.
 
-### Types of nouns
+### Types of nouns 
 
-#### Possession
+#### Possession 
 
 Nouns are divided along a grammatical split, regarding whether or not they require a possessor:
 
@@ -630,7 +648,7 @@ In terms of word class, relational nouns are labelled as <span style="font-varia
 
 &nbsp;
 
-### Pronominal indexing
+### Pronominal indexing 
 
 The personal pronouns of Teanu distinguish three numbers: singular, dual, plural. They also strictly encode the contrast between 'inclusive _we_' [=you &amp; me &amp; others] and 'exclusive _we_' [me &amp; others]. Thus the pronoun [_kia_](../units/teanu-kia_1) &quot;1inclusive: dual&quot; means 'you &amp; me', whereas [_keba_](../units/teanu-keba_1) &quot;1exclusive: dual&quot; will read as 'one person (other than you) + myself', i.e. 'me &amp; him/her'.
 
@@ -812,7 +830,7 @@ Teanu has a special pronoun, [_**idi**_](../units/teanu-idi_1), for “generic�
 
 &nbsp;
 
-### Possessive marking
+### Possessive marking 
 
 Teanu encodes possession in a pattern {Possessed + Possessor}. When that possessor is not a noun but a pronoun, it is encoded by a “personal possessive”. But the form taken by that personal possessive will depend on the exact meaning of the possessive relationship. Most of the time, this amounts to assigning the possessed noun to a certain possessive class:
 
@@ -927,13 +945,13 @@ _Table 7 – Personal possessives in Teanu_
 
 &nbsp;
 
-## Acknowledgments
+## Acknowledgments 
 
 It is not possible to list here the many Teanu speakers who have taught me words in their languages, and helped my progress along the years. To name but a few, my warmest thanks go to Ben Tua Apilaka, Stanley Wako Repwamu, Teka Repwamu, Janet Udeu, Ruben Ubi, Mosten Cook, David Tate, Mak Lakule, Tere Brad Alungo, Eddy Pae, Steve Koro, Ezekiel Prians Tamoa. 
 
 I am also highly indebted to the many men and women who told me their countless stories or sang me their songs in Teanu: Teliki Thomas (†2009), Faithful Bila (†2010), Daniel Bakap (†2014), Teliki James Cook Pae (†2014), Bartholomew Alungo (†2020), Teliki Ben Tua Pine (†2010), Willy Usao (†2017), Marion Laki (†), Mary Laulei (†), Mofet Bwana, Wolta Simevio.
 
-## References
+## References 
 
 The following selected publications – all available from [my homepage](http://alex.francois.online.fr/AFpub_articles_e.htm) – present various aspects of the Teanu language and culture:
 
