@@ -134,9 +134,6 @@
             "zn": "Example_Comment_English"
         },
         "media_caption_marker": "lg",
-        "metalanguages": {
-            "gxx": "French"
-        },
         "labels": {
             "1s": "1st Person Singular",
             "3s": "3rd Person Singular",
@@ -151,7 +148,7 @@
             "rd": "Reduplication Form(s)",
             "zn": "Example Comment"
         },
-        "custom_fields": ["French"],
+        "custom_fields": [],
         "second_tab": [],
         "link_regex": "(?<=\\|(fv|vl)\\{)[^}]+(?=\\})",
         "link_label_marker": "link_label",
