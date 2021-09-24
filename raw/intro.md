@@ -9,8 +9,8 @@ The language receives its name from [_Teanu_](../units/teanu-Teanu_1), the islan
 
 <table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
-<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" target="_blank">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" alt="Pacific map" title="Pacific map" border="1"></a></td>
+<td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" target="_blank">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" alt="Pacific map" title="Pacific map" border="1"></a></td>
 </tr>
 <tr style="font-style:italic;">
 <td>Fig.&nbsp;1 - Location of Vanikoro in eastern&nbsp;Solomons (South&nbsp;Pacific).</td>
@@ -27,8 +27,8 @@ During my fieldwork trips in Vanikoro, I collected linguistic data on those thre
 
 <table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
-<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/Vanikoro_toponymy_map_Francois_2005_b.jpg" target="_blank">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/web.jpg" alt="Vanikoro language map" title="Pacific map" border="1"></a></td>
+<td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/Vanikoro_toponymy_map_Francois_2005_b.jpg" target="_blank">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/web.jpg" alt="Vanikoro language map" title="Pacific map" border="1"></a></td>
 </tr>
 <tr style="font-style:italic;">
 <td>Fig.&nbsp;2 - The three ancient tribes of Vanikoro.</td>
@@ -95,8 +95,8 @@ Besides its indigenous Melanesian population, the island of Vanikoro is also hom
 
 <table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
-<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" target="_blank">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" alt="Temotu map" title="Temotu map" border="1"></a></td>
+<td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" target="_blank">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" alt="Temotu map" title="Temotu map" border="1"></a></td>
 </tr>
 <tr>
 <td><i>Fig.&nbsp;2 - The languages of Temotu province (eastern&nbsp;Solomons). The two languages Vaeakau-Taumako and Tikopia (east of the map) are Polynesian; all other languages, including those of Vanikoro, belong to the “Temotu” subgroup of Oceanic.</i><br/><small><i>Source</i>: NordNordWest and Stefano Coretta, <a href="https://commons.wikimedia.org/wiki/File:Temotu-languages.png" target="_blank">Map of Temotu languages</a> (2015), Wikimedia Commons. Based on publications by <i>Ethnologue</i>, Boerger (2007), and François (2009).</small></td>
@@ -115,8 +115,8 @@ That said, the myth of the “[_Tamate_](../units/teanu-tamate_1)” spirits tel
 
 <table class="unstyled" style="max-width: 500px; border:0; margin-left: 20px;">
 <tbody><tr>
-<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" target="_blank">
-<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" alt="Tamate dance" title="Tamate dance"></a></td>
+<td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" target="_blank">
+<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" alt="Tamate dance" title="Tamate dance"></a></td>
 </tr>
 <tr style="font-style:italic;">
 <td>Fig.&nbsp;3 - The dance of the <a href="../units/teanu-tamate_1" target="_blank"><i>Tamate</i> spirits</a>, a tradition ultimately borrowed from Vanuatu.</td>
