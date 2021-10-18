@@ -2,44 +2,44 @@
 
 Welcome to this **online Teanu – English dictionary**.
 
-**Teanu** <small>[iso code: tkw]</small> is the main language spoken on the island of **Vanikoro**, in Temotu, the easternmost province of the Solomon Islands. It has about 1000 speakers, among whom most are on Vanikoro, while others live in the country’s capital Honiara (on Guadalcanal island).
+**Teanu** is the main language spoken on **Vanikoro**, in Temotu, the easternmost province of the Solomon Islands. It has about 1000 speakers. Most of them live on Vanikoro, yet many also live in the country’s capital Honiara, on Guadalcanal island.
 
-The language receives its name from [_Teanu_](../units/teanu-Teanu_1), the island located northeast of the Vanikoro island group (the second island in size, after Banie). The same language has also been known in the literature (e.g. Tryon 2002) as _Puma_ or _Buma_, after the main village of Teanu island.
+While “Vanikoro” is commonly talked about as if it were a single island, it is technically a cluster of islands, surrounded by a single belt of coral reef. The largest island is [_Banie_](../units/teanu-Banie_1), followed by [_Teanu_](../units/teanu-Teanu_1); the latter gave its name to the language spoken in the northeast area of Vanikoro. The same language has also been known in the literature as _Puma_ or _Buma_ (e.g. Tryon 2002), after the main village on Teanu island.
 
 
 <table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
-<td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" target="_blank">
-<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" alt="Pacific map" title="Pacific map" border="1"></a></td>
+<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" target="_blank">
+<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" alt="Pacific map" title="Pacific map" border="1"></a></td>
 </tr>
 <tr style="font-style:italic;">
-<td>Fig.&nbsp;1 - Location of Vanikoro in eastern&nbsp;Solomons (South&nbsp;Pacific).</td>
+<td>Fig.&nbsp;1 - Location of Vanikoro, in the eastern&nbsp;Solomons.</td>
 </tr></tbody>
 </table>
 
 Vanikoro's traditional context is a society of fishermen and farmers – growing tubers, raising pigs and poultry. 
 
 ### The languages of Vanikoro 
-In earlier times, the island group of Vanikoro used to be divided into three tribal territories, each with its distinctive language: **Teanu** in the northeast, **Lovono** in the west, **Tanema** in the south. During the 20th century, the latter two languages became almost extinct, and replaced with Teanu. In 2012, Lovono was surviving with only 4&nbsp;speakers, and Tanema with only one.
+In earlier times, the island group of Vanikoro used to be divided into three tribal territories, whose historical boundaries are still well remembered today [_Fig.&nbsp;2_]. Each tribe had its distinctive language: **Teanu** in the northeast, **Lovono** in the west, **Tanema** in the south. During the 20th century, the latter two languages became almost extinct, replaced by Teanu. In 2012, Lovono was surviving with only 4&nbsp;speakers, and Tanema with only one. In 2021, all the Lovono speakers had passed away, resulting in the language becoming extinct.
 
-During my fieldwork trips in Vanikoro, I collected linguistic data on those three languages.
+During my fieldwork trips in Vanikoro (2005, 2012), I&nbsp;collected linguistic data on these three languages.
 
 
-<table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
+<table class="unstyled" style="width: 90%; max-width:800px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
-<td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/Vanikoro_toponymy_map_Francois_2005_b.jpg" target="_blank">
-<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/web.jpg" alt="Vanikoro language map" title="Pacific map" border="1"></a></td>
+<td><a href="http://alex.francois.online.fr/img/Vanikoro_toponymy_map_Francois_2005_b.jpg" target="_blank">
+<img src="http://alex.francois.online.fr/img/Vanikoro_toponymy_map_Francois_2005_b.jpg" alt="Vanikoro language map" title="Pacific map" border="1"></a></td>
 </tr>
 <tr style="font-style:italic;">
-<td>Fig.&nbsp;2 - The three ancient tribes of Vanikoro.</td>
+<td>Fig.&nbsp;2 - Toponymic map of Vanikoro, showing the location of its three ancient tribes. – <small>(by&nbsp;A.&nbsp;François</small>)</td>
 </tr></tbody>
 </table>
 
-Teanu, Lovono and Tanema, the three indigenous languages of Vanikoro, are all **Oceanic**: they thus belong to the vast Austronesian family that covers most islands in the Pacific. Within the Oceanic family (≈500 languages), Vanikoro languages belong to “Temotu” – a smaller subgroup with about ten languages, located in the province of the same name (cf. Glottolog: [_tean1237_](https://glottolog.org/resource/languoid/id/tean1237)).
+Teanu, Lovono and Tanema, the three indigenous languages of Vanikoro, are all **Oceanic**: they thus belong to the vast Austronesian family that covers most islands in the Pacific.
 
-It is likely that Proto-Vanikoro, the ancestor of the three Vanikoro languages, developed _in situ_ following the initial settlement of the region by “Lapita” navigators, about 3200 years ago.
+The Temotu archipelago where Vanikoro lies was initially settled about 3200 years ago by people of the “Lapita” culture (Pawley 2009; Green 2010): these were Austronesians whose language was most likely Proto-Oceanic itself. (In this dictionary, most etymologies will refer to Proto-Oceanic or “POc”, the shared ancestor of all ≈500 Oceanic languages.) It is likely that Proto-Vanikoro, the ancestor of the three Vanikoro languages (François 2009), developed _in situ_ following the initial settlement of the island. 
 
-The three languages of Vanikoro clearly share a family resemblance, due to their common ancestry. And yet, what is most striking is the degree of dissimilarity they acquired during the three millennia of human settlement. Whether this is due to tribal isolation, or to processes of spontaneous differentiation, the three languages have long lost mutual intelligibility. (This is the object of a specific study: François 2009.)
+Due to their common ancestry, the three languages of Vanikoro clearly show some general similarities. And yet, what is most striking is the degree of dissimilarity they acquired during the three millennia of human settlement. Whether this is due to tribal isolation, or to processes of spontaneous differentiation, the three languages have long lost mutual intelligibility (see François 2009).
 
 The following two examples illustrate how different the three languages of Vanikoro have become in their lexical forms; and yet, they remain closely similar in their grammatical structures.
 
@@ -58,7 +58,7 @@ The following two examples illustrate how different the three languages of Vanik
 <tr>
 <td>&nbsp;</td><td>1sg</td><td><span style="font-variant: small-caps;">prox</span></td><td>child</td><td><span style="font-variant: small-caps;">neg</span></td><td>1sg</td><td><span style="font-variant: small-caps;">prox</span></td><td><span style="font-variant: small-caps;">pft</span></td><td>person</td><td>big</td></tr>
 <tr>
-<td>&nbsp;</td><td colspan="9">“I'm not a child, I'm an adult now!”</td>
+<td>&nbsp;</td><td colspan="9">‘I'm not a child, I'm an adult now!’</td>
 </tr>
 </table>
 &nbsp;
@@ -75,48 +75,55 @@ The following two examples illustrate how different the three languages of Vanik
 <td style="font-style:normal;">Tanema</td><td>Ti-loma</td><td>vane?</td><td>–&nbsp;Gamuto</td><td>tei-o</td><td>ini</td><td>vasangola</td><td>akegamuto,</td><td>ti-oa</td><td>bauva.</td>
 </tr>
 <tr>
-<td>&nbsp;</td><td>2pl:R-come</td><td>where</td><td>1e:pl</td><td>1e:pl:R-stay</td><td><span style="font-variant: small-caps;">loc</span></td><td>garden</td><td><span style="font-variant: small-caps;">poss</span>:1e:pl</td><td>1e:pl:R-plant</td><td>yam</td>
+<td>&nbsp;</td><td>2pl:R-come</td><td>where</td><td>&nbsp;&nbsp;1e:pl</td><td>1e:pl:R-stay</td><td><span style="font-variant: small-caps;">loc</span></td><td>garden</td><td><span style="font-variant: small-caps;">poss</span>:1e:pl</td><td>1e:pl:R-plant</td><td>yam</td>
 </tr>
 <tr>
-<td>&nbsp;</td><td colspan="9">“Where are y'all coming from? – We were in our garden, we were planting yams.”</td>
+<td>&nbsp;</td><td colspan="9">‘Where are y'all coming from? – We were in our garden, we were planting yams.’</td>
 </tr>
 </table>
 
 &nbsp;
 
-For each entry in my Teanu dictionary, I will also indicate – whenever I have them – the lexical equivalents in the island's two moribund languages. Lovono has 537 headwords and Tanema 564, covering respectively 37% and 39% of Teanu entries.
+For each entry in my Teanu dictionary, I also indicate – whenever I have them – the lexical equivalents in the island's two moribund languages. Lovono has 537 headwords and Tanema 564, covering respectively 37% and 39% of Teanu entries.
 
-These forms can be quite instructive for the historical linguist wishing to compare the three languages of Vanikoro, and reconstruct their history from their Proto Oceanic ancestor. Words from Lovono and Tanema are indispensable in reconstructing “Proto Vanikoro”, the shared ancestor of these three languages.
+These forms can be quite instructive for the historical linguist wishing to compare the three languages of Vanikoro, and reconstruct their history from their Proto-Oceanic ancestor. Words from Lovono and Tanema are indispensable in reconstructing “Proto-Vanikoro”, the shared ancestor of these three languages.
 
 The meaning of Lovono and Tanema words can safely be assumed to be identical to those of Teanu: this isomorphism is indeed very strong on the island (François 2009).
 
+Finally, besides its indigenous Melanesian population, Vanikoro is also home to a Polynesian community, whose ancestors have been colonising its southern shore since at least the 16th century. Their homeland is Tikopia (the easternmost island of the Solomon archipelago), and their language is **Tikopia** or Fakatikopia – also an Oceanic language, but from the Polynesian branch. 
+
 ### Teanu in its regional context 
-Besides its indigenous Melanesian population, the island of Vanikoro is also home to a Polynesian community that has been colonising the southern shore since at least the 16th century. Their homeland is Tikopia (the easternmost island of the Solomon archipelago), and their language is **Tikopia** or Fakatikopia, a Polynesian outlier language. 
+#### Phylogenetic affiliation
+If we set aside Fakatikopia, the two neighbouring islands Vanikoro and Utupua, combined, are home to six indigenous languages – three on each island. The genealogical links between these six languages have been observed for a long time: together, they are understood to form a single subgroup called “_Utupua–Vanikoro_”, once known as as “_Eastern Outer Islands_” (Tryon & Hackman 1983, Tryon 1994). 
+
+More recent research has proposed to connect the latter group with the _Reefs ‒ Santa Cruz_ languages under a tentative “Temotu” branch of Oceanic (Ross & Næss 2007) – see the entry [_Temotu_](https://glottolog.org/resource/languoid/id/temo1244) on Glottolog. That branch includes about ten languages, all located in the province of the same name [see _Fig.&nbsp;3_].  The precise historical development of the Temotu subgroup remains matter for further research (see Lackey & Boerger 2021).
 
 <table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
 <tbody><tr>
-<td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" target="_blank">
-<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" alt="Temotu map" title="Temotu map" border="1"></a></td>
+<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" target="_blank">
+<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" alt="Temotu map" title="Temotu map" border="1"></a></td>
 </tr>
 <tr>
-<td><i>Fig.&nbsp;2 - The languages of Temotu province (eastern&nbsp;Solomons). The two languages Vaeakau-Taumako and Tikopia (east of the map) are Polynesian; all other languages, including those of Vanikoro, belong to the “Temotu” subgroup of Oceanic.</i><br/><small><i>Source</i>: NordNordWest and Stefano Coretta, <a href="https://commons.wikimedia.org/wiki/File:Temotu-languages.png" target="_blank">Map of Temotu languages</a> (2015), Wikimedia Commons. Based on publications by <i>Ethnologue</i>, Boerger (2007), and François (2009).</small></td>
+<td><i>Fig.&nbsp;3 - The languages of Temotu province (eastern&nbsp;Solomons). Except for Tikopia (east of the map) and Vaeakau-Taumako which are Polynesian, all other languages here belong to the “Temotu” subgroup of Oceanic.</i><br/><small><i>Source</i>: NordNordWest and Stefano Coretta, <a href="https://commons.wikimedia.org/wiki/File:Temotu-languages.png#/media/File:Temotu-languages.png" target="_blank">Map of Temotu languages</a> (2015), Wikimedia Commons. Based on publications by <i>Ethnologue</i>, Boerger (2007), and François (2009).</small></td>
 </tr></tbody>
 </table>
 
-&nbsp;
+#### Language contact
 
-Vanikoro people always had contact, trade exchanges and intermarriage, with the nearby island of Utupua; and to a lesser extent, with other islands of the Temotu region: Nendö, the Reefs – as well as Polynesian communities from Tikopia and Vaeakau-Taumako. This contact with Polynesian languages manifests itself in Teanu through many borrowings: 59 exactly in this dictionary (=4&nbsp;percent of the Teanu lexicon). These include many nouns of artifacts, often recognisable by their incorporated article _te_ or _to_ ([_temotu_](../units/teanu-temotu_1) ‘islet’; [_tepuke_](../units/teanu-tepuke_1) ‘sailing canoe’; [_toloto_](../units/teanu-toloto_1) ‘lagoon’; [_tomona_](../units/teanu-tomona_1) ‘pudding’…). Outside of nouns, Polynesian loans also include the grammatical marker of the prohibitive [_etapu_](../units/teanu-etapu_3) ‘don't!’, derived from _tapu_ ‘sacred, taboo’.
+Vanikoro people always had contacts – both trade exchanges and intermarriage – with the nearby island of Utupua; and to a lesser extent, with other islands of the Temotu region: Nendö (Santa Cruz), the Reefs – as well as Polynesian communities from Tikopia and Vaeakau-Taumako (see Tryon 1994). 
 
-Contact with other islands of the Temotu region has left much fewer linguistic traces, at least none that are obvious in the present state of knowledge.
+The centuries of contact with Polynesian languages manifest themselves in Teanu through many borrowings: 59 exactly in this dictionary (=4&nbsp;percent of the Teanu lexicon). These include many nouns of artifacts; these are often recognizable by their initial syllable _te_ or _to_, which takes its source in the Polynesian article _te_ ([_temotu_](../units/teanu-temotu_1) ‘islet’; [_tepuke_](../units/teanu-tepuke_1) ‘sailing canoe’; [_toloto_](../units/teanu-toloto_1) ‘lagoon’; [_tomona_](../units/teanu-tomona_1) ‘pudding’…). Outside of nouns, Polynesian loans also include the grammatical marker of the prohibitive [_etapu_](../units/teanu-etapu_3) ‘don't!’, derived from Polyn. _tapu_ ‘sacred, taboo’.
 
-Looking further afield, Vanikoro is located only 150&nbsp;km from the Torres islands of northern **Vanuatu**. The extreme linguistic difference between Vanikoro languages on the one hand, and those of the Torres & Banks islands on the other, suggest that there were no in-depth contact between the two regions. 
+Contact with other islands of the Temotu region has left very few or no linguistic traces – at least none that are obvious in the present state of our knowledge.
 
-That said, the myth of the “[_Tamate_](../units/teanu-tamate_1)” spirits tells us how certain dancing headdresses were once borrowed from northern Vanuatu people – perhaps due to a fortuitous encounter [[read the myth here](http://alex.francois.online.fr/AFtxt_tea-tamate_e.htm)]. The word _Tamate_ indeed means ‘spirit’ in Mota, one of the languages of the Banks islands. In total, Teanu has five words that were borrowed from Mota ([_Tamate_](../units/teanu-tamate_1) ‘spirit represented in dances’; [_marama_](../units/teanu-marama_1) ‘world’; [_tapepa_](../units//teanu-tapepa_1) ‘present’; [_totokale_](../units/teanu-totokale_1) ‘picture’; [_wolowolo_](../units/teanu-wolowolo_1) ‘a&nbsp;cross’). These may have entered the Teanu language at the end of the 19th century, when Mota had been chosen by the Melanesian Mission as the language of Christianisation for this part of Melanesia.
+Looking further afield, Vanikoro is located only 150&nbsp;km from the Torres islands of northern **Vanuatu**. The extreme linguistic difference between Vanikoro languages on the one hand, and those of the Torres & Banks islands on the other, suggests that there has been no in-depth contacts between the two regions. 
+
+That said, the myth of the “[_Tamate_](../units/teanu-tamate_1)” spirits tells us how certain dancing headdresses were once borrowed from northern Vanuatu people – perhaps due to a fortuitous encounter [[read the myth here](http://alex.francois.online.fr/AFtxt_tea-tamate_e.htm)]. The word _Tamate_ indeed means ‘spirit; ritual headdress’ in Mota, one of the languages of the Banks islands (Ivens 1931, Vienne 1996). In total, Teanu has five words that were borrowed from Mota ([_Tamate_](../units/teanu-tamate_1) ‘spirit represented in dances’; [_marama_](../units/teanu-marama_1) ‘world’; [_tapepa_](../units//teanu-tapepa_1) ‘present’; [_totokale_](../units/teanu-totokale_1) ‘picture’; [_wolowolo_](../units/teanu-wolowolo_1) ‘a&nbsp;cross’). These may have entered the Teanu language at the end of the 19th century, when Mota had been chosen by the Melanesian Mission as the language of Christianization for this part of Melanesia.
 
 <table class="unstyled" style="max-width: 500px; border:0; margin-left: 20px;">
 <tbody><tr>
-<td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" target="_blank">
-<img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" alt="Tamate dance" title="Tamate dance"></a></td>
+<td><a href="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" target="_blank">
+<img src="https://cdstar.shh.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" alt="Tamate dance" title="Tamate dance"></a></td>
 </tr>
 <tr style="font-style:italic;">
 <td>Fig.&nbsp;3 - The dance of the <a href="../units/teanu-tamate_1" target="_blank"><i>Tamate</i> spirits</a>, a tradition ultimately borrowed from Vanuatu.</td>
@@ -126,7 +133,7 @@ That said, the myth of the “[_Tamate_](../units/teanu-tamate_1)” spirits tel
 
 Finally, current generations are also experiencing modern life, particularly in the towns of Lata and in the capital Honiara. In urban contexts, the pressure is high to replace indigenous languages such as Teanu with the country's national language **Solomon Islands Pijin** – an English-based creole that emerged during colonial times. All speakers of Teanu are bilingual in Pijin, and some loanwords from English actually enter Teanu through Pijin.
 
-All in all, about 6% of the Teanu lexicon consists of identifiable **borrowings**: 59 words borrowed from Polynesian, 19 from Solomons Pijin or English, 5 words from Mota in Vanuatu. As for the native lexicon, it proves quite original among other Oceanic languages: only 11.1% of entries can be traced back to Proto-Oceanic roots, while 82% of the lexicon has unclear origins. These innovative words probably result from three millennia of language-internal renewal of the lexicon – perhaps encouraged by a trend towards lexical differentiation. In particular, the vocabulary of Vanikoro languages shows extreme dissimilarities with other languages of the area (whether Utupua, Nendö or the Reefs), even though they supposedly belong to the same “Temotu” subgroup of Oceanic. (Whether that “Temotu” subgroup is effectively warranted, is a matter for further historical research.)
+All in all, about 7.1% of the Teanu lexicon consists of identifiable **borrowings**: 59 words borrowed from Polynesian, 19 from Solomons Pijin or English, 5 words from Mota in Vanuatu. As for the native lexicon, it proves quite original among other Oceanic languages: only 13.6% of entries can be traced back to Proto-Oceanic roots, while 79% of the lexicon has unclear origins. These innovative words probably result from three millennia of language-internal renewal of the lexicon – perhaps encouraged by a trend towards lexical differentiation (François 2009). The vocabulary of Vanikoro languages also shows extreme dissimilarities with other languages of the area (whether Utupua, Nendö or the Reefs), even though they supposedly belong to the same “Temotu” subgroup of Oceanic.
 
 &nbsp;
 
@@ -134,13 +141,13 @@ All in all, about 6% of the Teanu lexicon consists of identifiable **borrowings*
 
 When I began studying it, Teanu was known mostly through wordlists (Tryon & Hackmann 1983), and from a grammatical sketch (Tryon 2002).
 
-Due to its difficult access, I've had only two occasions to visit the island of Vanikoro. One was an archaeological expedition in April-May 2005, organised around the fate of French navigator Jean François de Lapérouse ([_Laperusi_](../units/teanu-Laperusi_1) in Teanu), who had perished on the island in 1788. My role in that multidisciplinary project was to document the memory of that early encounter that is still vivid in the islanders’ oral tradition (François 2008); for that purpose, I first needed to familiarise myself with the island's indigenous languages.
+Due to its difficult access, I've had only two occasions to visit Vanikoro. One was an archaeological expedition in April-May 2005, organized around the fate of French navigator Jean François de Lapérouse ([_Laperusi_](../units/teanu-Laperusi_1) in Teanu), who had perished on the island in 1788. My role in that multidisciplinary project was to document the memory of that early encounter that is still vivid in the islanders’ oral tradition (François 2008); for that purpose, I first needed to familiarize myself with the island's indigenous languages.
 
-My second trip was in 2012, with a group of geologists who took me with them for a brief visit to the island; I took that opportunity to collect more data on the island's two moribund languages Lovono and Tanema. To these two short stays, I was able to add a couple encounters with Teanu speakers – in Paris in 2008, in Honiara in 2017; and recently, regular contact with speakers through social media.
+My second trip was in 2012, with a group of geologists who took me with them for a brief visit to the island; I&nbsp;took that opportunity to collect more data on the island's two moribund languages Lovono and Tanema. To&nbsp;these two short stays, I was able to add a couple encounters with Teanu speakers – in Paris in 2008, in Honiara in 2017; and recently, regular contact with speakers through social media.
 
-Altogether, my linguistic exposure to the language of Teanu was about 29 days in total. But thanks to my knowledge of nearby Vanuatu languages, and to a linguistic questionnaire I had designed (François 2019), I was able to speak and understand Teanu early enough to hold conversations.
+Altogether, my linguistic exposure to the language of Teanu was about 29 days in total. But thanks to my knowledge of nearby Vanuatu languages, and to a linguistic questionnaire I had designed (François 2019), I&nbsp;was able to speak and understand Teanu early enough to hold conversations and record naturalistic samples of the language.
 
-My methodology in the field combined language learning, targeted elicitation, and the recording of spontaneous speech in the form of conversations or narratives. Out of the 73 items I recorded in Teanu, 43 were narratives; I transcribed 22 of these with the help of native speakers, yielding a digital corpus of 18,800 words. Among those transcribed texts, [several are displayed online](https://tiny.cc/AF-ark_Teanu), in open access (_Pangloss collection_, CNRS).
+My methodology in the field combined language learning, targeted elicitation, and the recording of spontaneous speech in the form of conversations or narratives. Out of the 73 items I recorded in Teanu, 43 were narratives; I transcribed 22 of these with the help of native speakers, yielding a digital corpus of 18,800 words. Among those transcribed texts, [several are displayed online](https://tiny.cc/AF-ark_Teanu), in open access (_Pangloss collection_, CNRS). The same archive hosts the valuable recordings I made [in Lovono](https://pangloss.cnrs.fr/corpus/Lovono?lang=en&mode=pro) and [in Tanema](https://pangloss.cnrs.fr/corpus/Tanema?lang=en&mode=pro).
 
 &nbsp;
 <div style="clear:both;"></div>
@@ -149,14 +156,14 @@ My methodology in the field combined language learning, targeted elicitation, an
 
 This bilingual Teanu dictionary is based on my corpus of texts, conversations, elicited data, and immersive fieldwork.
 
-It contains a total of 1900 entries, illustrated by about 2800 example sentences.
+It contains about 1900 entries in total, illustrated by about 2800 example sentences.
 
 While the present _Dictionaria_ edition includes all my lexical data, interested readers can find the same data under a different presentation, on [_tiny.cc/Vanikoro-dict_](https://tiny.cc/Vanikoro-dict).
 
 ### Special features 
-The present dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry  [**_ngiro_**](../units/teanu-ngiro_1) ‘wind’ has examples linking to original texts, such as [doi:Pangloss-0003352#S106](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:Pangloss-0003351#S16](https://doi.org/10.24397/pangloss-0003351#S16).
+This dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry  [**_ngiro_**](../units/teanu-ngiro_1) ‘wind’ has examples linking to original texts, such as [doi:Pangloss-0003352#S106](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:Pangloss-0003351#S16](https://doi.org/10.24397/pangloss-0003351#S16).
 
-The present work pays attention not just to language and grammar, but also to **culture and society**. Many entries come with photographs, as well as encyclopedic notes: see, for example, entries [_tolosai_](../units/teanu-tolosai_1) 'loincloth', [_savene_](../units/teanu-savene_1) 'valuable mat', [_nuduro_](../units/teanu-nuduro_2) 'scareline', [_mamdeuko_](../units/teanu-mamdeuko_1) 'Cardinal honeyeater'…
+The present work pays attention not just to language and grammar, but also to **culture and society**. Many entries come with photographs, as well as encyclopedic notes: see, for example, entries [_tolosai_](../units/teanu-tolosai_1) 'loincloth', [_savene_](../units/teanu-savene_1) 'valuable mat', [_nuduro_](../units/teanu-nuduro_2) 'scareline', [_viavia mamdeuko_](../units/teanu-viavia_mamdeuko_1) 'feather money'…
 
 Entries usually feature a broad array of **cross-references** to other words: heterosemes (see section on _Lexical flexibility_); antonyms; synonyms; subentries and other derived phrases; and more generally, any other words connected one way or the other. A few dozen entries even provide a whole set of links for a given **lexical domain** – for example:
 
@@ -166,15 +173,15 @@ Entries usually feature a broad array of **cross-references** to other words: he
 
 - [_uie luro_](../units/teanu-uie_luro_1) 'coconut palm' links to various objects traditionally woven out of coconut leaves ('mat', 'semi-mat', 'basket', 'fan'…);
 
-- [_ngiro_](../units/teanu-ngiro_1) 'wind' lists the names of all winds, and includes a wind map.
+- [_ngiro_](../units/teanu-ngiro_1) 'wind' lists the names of all winds, and includes a wind map;
 
-- [_revo_](../units/teanu-revo_1) 'sea' brings together many words from the lexicon of the sea.
+- [_revo_](../units/teanu-revo_1) 'sea' brings together many words from the lexicon of the sea;
 
-- [_vilo_](../units/teanu-vilo_1) 'tree' brings together many words from the lexicon of the sea.
+- [_vilo_](../units/teanu-vilo_1) 'tree' cites various words from the semantic field of trees ('branch', 'leaves', 'to plant', 'to grow');
 
-- [_nengele moe_](../units/teanu-nengele_moe_1) 'house parts' has a list of all the elements of carpentry.
+- [_nengele moe_](../units/teanu-nengele_moe_1) 'house parts' has a list of all the elements of carpentry;
 
-- [_moro_](../units/teanu-moro_1) 'day' lists the words referring to moments of the day.
+- [_moro_](../units/teanu-moro_1) 'day' lists the words referring to moments of the day;
 
 - and so on and so forth.
 
@@ -187,7 +194,8 @@ Many entries are assigned some semantic fields. The following table provides a k
 
 _Table 1 – Semantic fields used in this dictionary_
 
-<table class="table table-bordered" style="font-size: small;"><tbody>
+<table class="table table-bordered" style="font-size: small;">
+<tbody>
     <tr>
         <th width="60">Abbr</th>
         <th width="300">Semantic field</th>
@@ -261,6 +269,7 @@ _Table 1 – Semantic fields used in this dictionary_
     <td><p>Zoology: misc. animals<br />
       (except birds, fish, insects)</p></td>
   </tr>
+  </tbody>
 </table>
 
 &nbsp;
@@ -272,16 +281,16 @@ An overview of the grammar of Teanu can be found in Tryon (2002) and in Françoi
 ### Orthography 
 
 All forms in this dictionary are transcribed in the language's orthography, accompanied by their phonetic transcription. Teanu's alphabetical order is:
-<div style="text-align:center;">{ <strong>a &nbsp; b &nbsp; bw &nbsp; d &nbsp; e &nbsp; g &nbsp; i &nbsp; j &nbsp; k &nbsp; l &nbsp; m &nbsp; mw &nbsp; n &nbsp; ng &nbsp; ñ &nbsp; o &nbsp; p &nbsp; pw &nbsp; r &nbsp; s &nbsp; t &nbsp; u &nbsp; v &nbsp; w</strong> }.</div>
+<div style="text-align:center;">{&nbsp;<strong>a &nbsp; b &nbsp; bw &nbsp; d &nbsp; e &nbsp; g &nbsp; i &nbsp; j &nbsp; k &nbsp; l &nbsp; m &nbsp; mw &nbsp; n &nbsp; ng &nbsp; ñ &nbsp; o &nbsp; p &nbsp; pw &nbsp; r &nbsp; s &nbsp; t&nbsp;&nbsp;&nbsp;u&nbsp;&nbsp;&nbsp;v&nbsp;&nbsp;&nbsp;w</strong>&nbsp;}.</div>
 
 &nbsp;
 
 Each of these letters or digraphs corresponds to one phoneme in the language.
 
 ### Phonology 
-Teanu has 18 phonemic consonants. Table 2 lists the phonemes themselves (using IPA); and in brackets, the orthographic symbol. For example, letter ‹j› in the orthography encodes the prenasalized palatal stop /ᶮɟ/ .
+Teanu has 19 phonemic consonants. Table 2 lists the phonemes themselves (using IPA); and in brackets, the orthographic symbol. For example, letter ‹j› in the orthography encodes the prenasalized palatal stop /ᶮɟ/ .
 
-_Table 2 – The 18 phonemic consonants of Teanu_
+_Table 2 – The 19 phonemic consonants of Teanu_
 
 <table class="table table-bordered" style="text-align:left">
 <tbody style="white-space:nowrap;">
@@ -319,6 +328,7 @@ _Table 2 – The 18 phonemic consonants of Teanu_
 <td style="text-align:right"><b>v</b>&nbsp;[v,f]&nbsp;&nbsp; ‹v›</td>
 <td style="text-align:right"><b>s</b>&nbsp;&nbsp; ‹s›</td>
 <td>&nbsp;&nbsp; </td>
+<td>&nbsp;&nbsp; </td>
 </tr>
 <tr>
 <th>Nasal</th>
@@ -335,6 +345,15 @@ _Table 2 – The 18 phonemic consonants of Teanu_
 <td>&nbsp;&nbsp; </td>
 <td>&nbsp;&nbsp; </td>
 <td style="text-align:right"><b>l</b>&nbsp;&nbsp; ‹l›</td>
+<td>&nbsp;&nbsp; </td>
+<td>&nbsp;&nbsp; </td>
+</tr>
+<tr>
+<th>Rhotic</th>
+<td>&nbsp;&nbsp; </td>
+<td>&nbsp;&nbsp; </td>
+<td>&nbsp;&nbsp; </td>
+<td style="text-align:right"><b>r</b>&nbsp;&nbsp; ‹r›</td>
 <td>&nbsp;&nbsp; </td>
 <td>&nbsp;&nbsp; </td>
 </tr>
@@ -456,12 +475,12 @@ _Table 4 – A sample of Teanu words, with or without consonant clusters_
 
 ### Word classes 
 
-Every word can be assigned at least one class (or &quot;syntactic category&quot; or &quot;part of speech&quot;), based on its grammatical behaviour. Thus [_moe_](../units/teanu-moe_1) 'house' is a noun; [_aplaka_](../units/teanu-aplaka_1) 'crazy' is an adjective; [_~aiae_](../units/teanu-LX000012) '(be) difficult' is an intransitive verb; [_~ago_](../units/teanu-LX000010) 'shoot, spear' a transitive verb, etc.
+Every word can be assigned at least one class (or &quot;syntactic category&quot; or &quot;part of speech&quot;), based on its grammatical behaviour. Thus [_moe_](../units/teanu-moe_1) 'house' is a noun; [_aplaka_](../units/teanu-aplaka_1) 'small' is an adjective; [_~aiae_](../units/teanu-LX000012) '(be) difficult' is an intransitive verb; [_~ago_](../units/teanu-LX000010) 'shoot, spear' a transitive verb, etc. The rationale for each word class is explained in _Table&nbsp;5_ below.
 
 One of the characteristics of verbs is that they are bound forms, requiring a subject prefix: this is indicated with a tilde sign **~** before the radical. Thus [_~abu_](../units/teanu-LX000002) 'go down' cannot appear on its own, it needs a prefix such as 3sg [_i-_](../units/teanu-i-_1), yielding a citable form like _**i**-abu_ [iaᵐbu] ‘he's going down’. In this dictionary, the phonetic transcription of verbs will thus add a prefix in brackets, like [(**i·**)aᵐbu].
 
 When a given word governs a specific kind of complement, I indicate it behind small angled brackets. This concerns the (direct) **object** of transitive verbs:
-- e.g. [_kidi~_](../units/teanu-LX000153): “pick ‹betel leaves, [_puluko_](../units/teanu-puluko_1)› by pinching their stems”
+- e.g. [_~kidi_](../units/teanu-LX000153): “pick ‹betel leaves, [_puluko_](../units/teanu-puluko_1)› by pinching their stems”
 - [_~lu<sup>1</sup>_](../units/teanu-LX000232): “scrape ‹tuber› or grate ‹coconut flesh›, with a bivalve shell or grater”
 
 The same symbol can be used when specifying the typical possessor of an obligatorily-possessed noun:
@@ -472,166 +491,266 @@ The same symbol can be used when specifying the typical possessor of an obligato
 
 #### Inventory of word classes 
 
-Each word class is labelled using an abbreviation.
+Word-class membership is never based on the word's translation, but on its emic properties in Teanu. For example, while the word [_mimione_](../units/teanu-mimione_1) 'dry' is an adjective, its antonym [_~dobuo_](../units/teanu-LX000091) 'wet' is classified as a verb, because it behaves grammatically as a verb in Teanu – regardless of its English translation. Likewise, [_~metei_](../units/teanu-LX000267) 'be shy' is categorized as a “reflexive verb”, because it is construed reflexively in the language.
+
+Providing each word class with a full description and illustration would require a whole grammatical chapter, which would go beyond the present introduction. That said, the facts can be summarized in the form of definitions for each lexical category. Thus, _Table 5_ provides definitions for each of our 44 word classes.
+
+&nbsp;
 
 _Table 5 – The word classes used in this dictionary of Teanu_
 <table class="table table-bordered" style="font-size: small;">
-<tbody>
-<tr><th width="30">Abbr</th><th width="170">Word class</th><th width="30">Abbr</th><th width="170">Word class </th></tr>
-  <tr>
-    <td>ADJ</td>
-    <td>adjective</td>
-    <td>PF</td>
-    <td>prefix</td>
-  </tr>
-  <tr>
-    <td>ADJ.T</td>
-    <td>adjective, transitive</td>
-    <td>PHR</td>
-    <td>phrasal construction</td>
-  </tr>
-  <tr>
-    <td>ADV</td>
-    <td>adverb, adverbial</td>
-    <td>POS</td>
-    <td>personal possessive</td>
-  </tr>
-  <tr>
-    <td>ASP</td>
-    <td>aspect marker</td>
-    <td>POSTV</td>
-    <td>postverbal modifier</td>
-  </tr>
-  <tr>
-    <td>AUX</td>
-    <td>auxiliary</td>
-    <td>PP</td>
-    <td>personal pronoun</td>
-  </tr>
-  <tr>
-    <td>CONJ</td>
-    <td>subordinator</td>
-    <td>PPP</td>
-    <td>person-and-mood    verbal prefix</td>
-  </tr>
-  <tr>
-    <td>COORD</td>
-    <td>coordinator</td>
-    <td>PRED</td>
-    <td>predicative</td>
-  </tr>
-  <tr>
-    <td>CSTR</td>
-    <td>construction</td>
-    <td>PREP</td>
-    <td>preposition</td>
-  </tr>
-  <tr>
-    <td>DET</td>
-    <td>determiner</td>
-    <td>PTC</td>
-    <td>particle</td>
-  </tr>
-  <tr>
-    <td>DISC</td>
-    <td>discourse particle</td>
-    <td>QTF</td>
-    <td>quantifier</td>
-  </tr>
-  <tr>
-    <td>DX</td>
-    <td>deictic, demonstrative</td>
-    <td>RAD</td>
-    <td>radical</td>
-  </tr>
-  <tr>
-    <td>INDEF</td>
-    <td>indefinite</td>
-    <td>REL</td>
-    <td>relativizer</td>
-  </tr>
-  <tr>
-    <td>INT</td>
-    <td>interrogative</td>
-    <td>SF</td>
-    <td>suffix</td>
-  </tr>
-  <tr>
-    <td>INTJ</td>
-    <td>interjection</td>
-    <td>SUB</td>
-    <td>subordinator</td>
-  </tr>
-  <tr>
-    <td>INTSF</td>
-    <td>intensifier</td>
-    <td>SVI</td>
-    <td>serial verb, intransitive</td>
-  </tr>
-  <tr>
-    <td>LNK</td>
-    <td>linker</td>
-    <td>SVT</td>
-    <td>serial verb, transitive</td>
-  </tr>
-  <tr>
-    <td>LOC</td>
-    <td>locative</td>
-    <td>TOP</td>
-    <td>topicalizer</td>
-  </tr>
-  <tr>
-    <td>MOD</td>
-    <td>modal marker</td>
-    <td>V2I</td>
-    <td>second verb, intransitive</td>
-  </tr>
-  <tr>
-    <td>N</td>
-    <td>noun</td>
-    <td>V2T</td>
-    <td>second verb, transitive</td>
-  </tr>
-  <tr>
-    <td>NB</td>
-    <td>number marker</td>
-    <td>VI</td>
-    <td>verb, intransitive</td>
-  </tr>
-  <tr>
-    <td>NK</td>
-    <td>noun, kinship</td>
-    <td>VOI</td>
-    <td>verb    phrase w/ incorporated object</td>
-  </tr>
-  <tr>
-    <td>NOP</td>
-    <td>noun, oblig. possessed</td>
-    <td>VRFL</td>
-    <td>verb, reflexive</td>
-  </tr>
-  <tr>
-    <td>NP</td>
-    <td>noun, proper</td>
-    <td>VT</td>
-    <td>verb, transitive</td>
-  </tr>
-  <tr>
-    <td>NUM</td>
-    <td>numeral</td>
-    <td>VTO</td>
-    <td>verb, oblique-transitive</td>
-  </tr>
-  </tbody>
+	<tbody>
+		<tr>
+			<th width="200">Word class</th>
+			<th width="60%">Definition</th>
+			<th width="250" style="white-space: nowrap;">Example</th>
+		</tr>
+		<tr>
+			<td><p><em>adjective</em></p></td>
+			<td><p>Property word that can modify directly a noun, or form a direct predicate. Does not take prefixes (unlike verbs).</p></td>
+			<td><p><a href="../units/teanu-motoro_1" target="_blank"><em>motoro</em></a><br />
+			&lsquo;heavy&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>adjective, transitive</em></p></td>
+			<td><p>An adjective* requesting an extra argument (cf. Eng.&nbsp;<em>fond of</em>)</p></td>
+			<td nowrap="nowrap"><p><a href="../units/teanu-votobo_1" target="_blank"><em>votobo</em></a>&nbsp;&nbsp;<br />
+			&lsquo;sufficient for&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>adverb</em></p></td>
+			<td><p>Word or lexicalized phrase external to the predicate phrase (opp. <em>postverb</em>), and filling the function of adjunct. May appear after the predicate, or be topicalized.</p></td>
+			<td><p><a href="../units/teanu-nga_ne_1" target="_blank"><em>nga ne</em></a><br />
+			&lsquo;like this&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>aspect</em></p></td>
+			<td><p>Word or lexicalized phrase adjacent to the predicate (just before or after it) encoding semantic information on aspect.</p></td>
+			<td><p><a href="../units/teanu-kata_kape_1" target="_blank"><em>kata kape</em></a><br />
+			&lsquo;Prospective, be&nbsp;about&nbsp;to&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>auxiliary</em></p></td>
+			<td><p>Verb* specialized in the first slot of a serial verb construction, with semantic scope over the following verbs</p></td>
+			<td><p><a href="../units/teanu-LX000399" target="_blank"><em>~tabo</em></a><br />&lsquo;repeat, do&nbsp;again&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>construction</em></p></td>
+			<td><p>Lexicalized combination of words and morphemes with a non-compositional meaning, and featuring an open slot (opp. <em>phrase</em>*)</p></td>
+			<td><p><a href="../units/teanu-LX000257" target="_blank">mamote… tae</a>&nbsp;&nbsp; <br />&lsquo;not&nbsp;yet&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>coordinator</em></p></td>
+			<td><p>Particle* linking two clauses in a coordinating construction</p></td>
+			<td><p><a href="../units/teanu-ia_2" target="_blank"><em>ia</em></a>&nbsp;&nbsp; &lsquo;but&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>deictic</em></p></td>
+			<td><p>Phrase-final particle* used for deixis, either literal (spatial) or figurative (discourse deixis). Can be used as demonstrative modifying a noun, or as a deictic taking a whole clause as its scope.</p></td>
+			<td><p><a href="../units/teanu-re_1" target="_blank"><em>re</em></a> &nbsp; &lsquo;Distal&nbsp;deictic (over&nbsp;there)&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>indefinite pronoun</em></p></td>
+			<td><p>Word or lexicalized phrase heading a noun phrase, referring to a non-specific indefinite [e.g. Eng. <em>anyone</em>]</p></td>
+			<td><p><a href="../units/teanu-ngele_nga_1" target="_blank"><em>ngele nga</em></a><br />
+			&lsquo;whoever&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>intensifier</em></p></td>
+			<td><p>Word modifying a stative predicate (espec. adjective) to mark it as intense [cf.&nbsp;Eng.&nbsp;<em>very</em>]</p></td>
+			<td><p><a href="../units/teanu-tadoe_2" target="_blank"><em>tadoe</em></a><br/>&lsquo;terribly&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>interjection</em></p></td>
+			<td><p>Word or lexicalized phrase, performing a speech act on its own</p></td>
+			<td><p><a href="../units/teanu-awis_1" target="_blank"><em>awis</em></a>&nbsp;&nbsp; &lsquo;thanks&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>interrogative</em></p></td>
+			<td><p>Word or lexicalized phrase carrying interrogative modality</p></td>
+			<td><p><a href="../units/teanu-nganae_1" target="_blank">nganae</a>&nbsp;&nbsp; &lsquo;what&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>linker</em></p></td>
+			<td><p>Particle* linking a noun to another noun</p></td>
+			<td><p><a href="../units/teanu-da_3" target="_blank"><em>da</em></a>&nbsp;&nbsp; &lsquo;and (noun&nbsp;coordinator)&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>locative</em></p></td>
+			<td><p>Adverb* referring to a location in space or time. Can function as a topic or as an adjunct (outside the predicate phrase).</p></td>
+			<td><p><a href="../units/teanu-tetake_1" target="_blank"><em>tetake</em></a>&nbsp;<br />
+			&lsquo;seawards&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>modal</em></p></td>
+			<td><p>Word or lexicalized phrase, adjacent to the predicate (just before or after it) encoding semantic information on modality.</p></td>
+			<td><p><a href="../units/teanu-nara_1" target="_blank"><em>nara</em></a><br />
+			&lsquo;Apprehensional modality&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>noun</em></p></td>
+			<td><p>Word that can head a referential phrase, can form a predicate, can be possessed. When possessed, ordinary nouns – labelled “<i>noun</i>”, opp. <i>relational noun</i> – take a possessive classifier (<a href="../units/teanu-ie_1" target="_blank"><em>ie</em></a>,&nbsp;<a href="../units/teanu-we_2" target="_blank"><em>we</em></a>).</p></td>
+			<td><p><a href="../units/teanu-kuo_1" target="_blank"><em>kuo</em></a>&nbsp;&nbsp; &lsquo;canoe&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>noun, kinship</em></p></td>
+			<td><p>Noun* referring to a kin relation, obligatorily possessed by means of the kinship classifier <a href="../units/teanu-one_1" target="_blank"><em>one</em></a>.</p></td>
+			<td><p><a href="../units/teanu-leka_1" target="_blank"><em>leka</em></a>&nbsp; &lsquo;cross-cousin&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>noun, relational</em></p></td>
+			<td><p>Noun* obligatorily possessed, through a direct construction ({<b>N₁</b>&nbsp;N₂} or {<b>N₁</b>&nbsp;Pron}) instead of a classifier. Includes body parts, some meronyms, some clothes, some spatial relations (&lsquo;inside&rsquo; etc.).</p></td>
+			<td><p><a href="../units/teanu-enga_1" target="_blank"><em>enga</em></a>&nbsp;&nbsp;  &lsquo;name&nbsp;(of)&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>numeral</em></p></td>
+			<td><p>Word indicating cardinal number. May head an argument phrase; may modify a (noun) head; may form a predicate on its own.</p></td>
+			<td><p><a href="../units/teanu-tilu_1" target="_blank"><em>tilu</em></a>&nbsp;&nbsp; &lsquo;two&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>particle</em></p></td>
+			<td><p>Non-affixal morpheme, employed as a satellite to a lexeme or phrase, either before or after it. (Some subtypes of particles are assigned a word class of their own.)</p></td>
+			<td><p><a href="../units/teanu-tae_1" target="_blank"><em>tae</em></a>&nbsp;&nbsp; &lsquo;Negation&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>pers. pronoun</em></p></td>
+			<td><p>Independent personal pronoun, used as topic, object, possessor, object of prepositions, subject of non-verbal predicates (opp. <em>subject prefix</em>).</p></td>
+			<td><p><a href="../units/teanu-kaipa_1" target="_blank"><em>kaipa</em></a><br />
+			&lsquo;2nd&nbsp;plural, y&rsquo;all&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>phrase</em></p></td>
+			<td><p>Lexicalized combination of words and morphemes with a non-compositional meaning, and with no internal open slot (opp. <em>construction</em>*).</p></td>
+			<td><p><a href="../units/teanu-ebele_nga_1" target="_blank"><em>ebele nga</em></a><br />
+			&lsquo;for example&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>possessive</em></p></td>
+			<td><p>Possessive linker or classifier, inflected for person and number. [see&nbsp;§&nbsp;<a href="#section18"><em>Possessive marking</em></a>]</p></td>
+			<td><p><a href="../units/teanu-ono_1" target="_blank"><em>ono</em></a>&nbsp;&nbsp; &lsquo;your (food+): 2sg form of edible classifier&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>postverb</em></p></td>
+			<td><p>Word following immediately a verb (or another predicate head) to modify it. Internal to the predicate phrase (opp. <em>adverb</em>). Uninflected (opp. <em>2nd verb</em>). </p></td>
+			<td><p><a href="../units/teanu-tamwase_1" target="_blank"><em>tamwase</em></a><br />
+			&lsquo;very&nbsp;much&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>postverb, transitive</em></p></td>
+			<td><p>A non-affixal applicative — i.e. a postverb* that introduces an extra argument. Internal to the predicate phrase (opp. <em>preposition</em>).</p></td>
+			<td><p><a href="../units/teanu-rema_1" target="_blank"><em>rema</em></a><br/>&lsquo;awaiting&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>predicative</em></p></td>
+			<td><p>Word or lexicalized phrase used as a predicate head, and unable to head a referential phrase. Uninflected (opp. <em>verb</em>).</p></td>
+			<td><p><a href="../units/teanu-awoiu_1" target="_blank"><em>awoiu</em></a><br />
+			&lsquo;finish, be&nbsp;over&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>prefix</em></p></td>
+			<td><p>Prefix used in lexical derivation.</p></td>
+			<td><p><a href="../units/teanu-kwa-_1" target="_blank"><em>kwa-</em></a><br/>&lsquo;prefix for tens&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>preposition</em></p></td>
+			<td><p>Word taking a noun phrase as its argument, and forming with it an adjunct (cf.&nbsp;<em>adverb</em>*).</p></td>
+			<td><p><a href="../units/teanu-teve_1" target="_blank"><em>teve</em></a>&nbsp;&nbsp; &lsquo;towards; by; with&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>proper noun</em></p></td>
+			<td><p>Proper name of person, god, or wind. (for place names, cf. <em>toponym</em>*)</p></td>
+			<td><p><a href="../units/teanu-Banie_1" target="_blank"><em>Banie</em></a>&nbsp;&nbsp; &lsquo;a god&rsquo;s name&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>quantifier</em></p></td>
+			<td><p>Word providing information on the quantity of a referent. Either found inside the noun phrase, or floating.</p></td>
+			<td><p><a href="../units/teanu-kula_1" target="_blank"><em>kula</em></a>&nbsp;&nbsp; &lsquo;some&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>serial vb, intr.</em></p></td>
+			<td><p>Lexicalized combination of verbs in a serial construction, behaving as globally monovalent (intransitive).</p></td>
+			<td><p><a href="../units/teanu-LX000006" target="_blank"><em>~abu ~te</em></a><br />
+			&lsquo;sit down&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>serial vb, trans.</em></p></td>
+			<td><p>Lexicalized combination of verbs in a serial construction, behaving globally as bi‑ or trivalent.</p></td>
+			<td><p><a href="../units/teanu-LX000425" target="_blank"><em>~la ~teli</em></a><br />
+			&lsquo;give&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>subject prefix</em></p></td>
+			<td><p>Prefixes taken by verbs, inflecting for mood [Realis vs. Irrealis], person, and number. Non-singular prefixes contrast &ldquo;Collocutive&rdquo; (1incl, 3rd person) vs. &ldquo;Dislocutive&rdquo; (1excl, 2nd&nbsp;person) – see&nbsp;§&nbsp;<a href="#section17"><em>Pronominal indexing</em></a>.</p></td>
+			<td><p><a href="../units/teanu-pe-_1" target="_blank"><em>pe-</em></a>&nbsp;&nbsp; &lsquo;Dislocutive irrealis (Irrealis:1excl:pl / Irrealis:2pl)&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>subordinator</em></p></td>
+			<td><p>Word encoding a relationship of dependency between two clauses.</p></td>
+			<td><p><a href="../units/teanu-nga_2" target="_blank"><em>nga</em></a><br />
+			&lsquo;as, when, if&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>suffix</em></p></td>
+			<td><p>Suffix used in lexical derivation.</p></td>
+			<td><p><a href="../units/teanu--ene_1" target="_blank"><em>‑ene</em></a>&nbsp;&nbsp; &lsquo;suffix for ordinal numerals&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>toponym</em></p></td>
+			<td><p>Proper name for a specific place. Patterns grammatically like a <em>locative</em>*.</p></td>
+			<td><p><a href="../units/teanu-Tetevo_1" target="_blank"><em>Tetevo</em></a>&nbsp;&nbsp; &lsquo;Utupua&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>verb, intransitive</em></p></td>
+			<td><p>Verb (with subject prefix) used with no object. Includes stative verbs if they take a subject prefix (opp. <em>adjective</em>*).</p></td>
+			<td><p><a href="../units/teanu-LX000091" target="_blank"><em>~dobuo</em></a>&nbsp;&nbsp; <br />
+			&lsquo;[be]&nbsp;wet&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>verb, oblique transitive</em></p></td>
+			<td><p>Verb (with subject prefix) subcategorizing for a second argument that is treated as oblique, i.e. introduced by a&nbsp;preposition*.</p></td>
+			<td><p><a href="../units/teanu-LX000065" target="_blank"><em>~bi</em></a>&nbsp;&nbsp; &lsquo;fan&nbsp;[at] s.th.&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>verb, reflexive</em></p></td>
+			<td><p>Verb (with subject prefix), used with an object that must co-refer with the subject.</p></td>
+			<td><p><a href="../units/teanu-LX000267" target="_blank"><em>~metei</em></a><br/>&lsquo;be shy&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>verb, transitive</em></p></td>
+			<td><p>Verb (with subject prefix), used with an object.</p></td>
+			<td><p><a href="../units/teanu-LX000053" target="_blank"><em>~avi</em></a>&nbsp;&nbsp; &lsquo;pick&nbsp;up&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>verb-object idiom</em></p></td>
+			<td><p>Lexicalized phrase* consisting of a transitive verb plus its object, often with non-compositional meaning.</p></td>
+			<td><p><a href="../units/teanu-LX000427" target="_blank"><em>~teli utele</em></a><br />
+			&lsquo;[“plant a base”] start&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>2nd verb, intrans.</em></p></td>
+			<td><p>Intransitive verb used only as a second verb in a serial construction, or showing special behaviour (syntactic or semantic) when found in that position.</p></td>
+			<td><p><a href="../units/teanu-LX000097" target="_blank"><em>~ejau</em></a><br />&lsquo;[do]&nbsp;well&rsquo;</p></td>
+		</tr>
+		<tr>
+			<td><p><em>2nd verb, trans.</em></p></td>
+			<td><p>Transitive verb used only as a second verb in a serial construction, or showing special behaviour (syntactic or semantic) when found in that position.</p></td>
+			<td><p><a href="../units/teanu-LX000144" target="_blank"><em>~katau</em></a>&nbsp;&nbsp; &lsquo;follow → do&nbsp;accordingly…&rsquo;</p></td>
+		</tr>
+	</tbody>
 </table>
+
 
 &nbsp;
 
 ### Lexical flexibility 
 
-In my syntactic analysis (explained in François 2017), a given word can show lexical flexibility, by being assigned several word classes – similar to English <span style="font-variant: small-caps;">[n.]</span> _snow_, <span style="font-variant: small-caps;">[v.]</span> _snow_. Rather than calling them &quot;homophones&quot;, I propose to analyze such examples (_snow_, _snow_) as &quot;heterosemes&quot; – i.e. identical forms linked by a relationship of &quot;heterosemy&quot; (conversion), and showing different grammatical behaviour: thus the Eng. noun _snow_ and the verb _snow_ would not be homophones in English, but “heterosemes”.
+In my syntactic analysis (explained in François 2017), a given word can show lexical flexibility, by being assigned several word classes – similar to English <span style="font-variant: small-caps;">[n.]</span> _snow_, <span style="font-variant: small-caps;">[v.]</span> _snow_. Rather than calling them &quot;homophones&quot;, I propose to analyze such examples (_snow_, _snow_) as &quot;heterosemes&quot; – i.e. identical forms linked by a semantic relationship of &quot;heterosemy&quot; (or _conversion_), and showing different grammatical behaviour. Thus the Eng. noun _snow_ and the verb _snow_ would not be homophones in English, but “heterosemes”.
 
-While homophones are treated as separate entries, my [original dictionary](https://tiny.cc/Vanikoro-dict) treats all heterosemes under a single entry, which is split into separate lexical sections: e.g. [_biouro_](https://marama.huma-num.fr/Lex/Teanu/b.htm#%E2%93%94biouro) <span style="font-variant: small-caps;">‹a›</span> <span style="font-variant: small-caps;">[adj]</span> 'long' – <span style="font-variant: small-caps;">‹b›</span> <span style="font-variant: small-caps;">[n]</span> 'length' – <span style="font-variant: small-caps;">‹c›</span> <span style="font-variant: small-caps;">[adv]</span> 'at length', etc. Yet for technical reasons, the present _Dictionaria_ platform had to treat all heterosemes ({form / word class} pairing) as separate entries, as though they were homophones: e.g. [_biouro 1_](../units/teanu-biouro_1), [_biouro 2_](../units/teanu-biouro_2), [_biouro 3_](../units/teanu-biouro_3); they are mutually linked with a label &quot;heteroseme(s)&quot;.
+While homophones are treated as separate entries, my [original dictionary](https://tiny.cc/Vanikoro-dict) treats all heterosemes under a single entry, which is split into separate lexical sections: e.g. [_biouro_](https://marama.huma-num.fr/Lex/Teanu/b.htm#%E2%93%94biouro) <span style="font-variant: small-caps;">‹a›</span> <span style="font-variant: small-caps;">[adj]</span> 'long' – <span style="font-variant: small-caps;">‹b›</span> <span style="font-variant: small-caps;">[n]</span> 'length' – <span style="font-variant: small-caps;">‹c›</span> <span style="font-variant: small-caps;">[adv]</span> 'at length', etc. Yet for technical reasons, the present _Dictionaria_ platform had to treat all heterosemes (i.e. {form / word class} pairing) as separate entries, as though they were homophones: e.g. [_biouro 1_](../units/teanu-biouro_1), [_biouro 2_](../units/teanu-biouro_2), [_biouro 3_](../units/teanu-biouro_3). In such a case, these separate entries are mutually linked with a label &quot;heterosemes&quot; in the cross-reference section (_Related entries_).
+
+When a verb is labile, i.e. is used sometimes as _intransitive_ and sometimes as _transitive_, this is treated as a case of heterosemy, in the form of separate entries. For example, this dictionary contrasts between [_~tobo 1_](../units/teanu-teanu-LX000441) [<span style="font-variant: small-caps;">v.intr.</span>] ‘poke out’; [_~tobo 2_](../units/teanu-teanu-LX000442) [<span style="font-variant: small-caps;">v.tr.</span>] ‘poke ‹s.th., s.o.›’; and [_~tobo 3_](../units/teanu-teanu-LX000443) [<span style="font-variant: small-caps;">v. oblique tr.</span>] ‘measure, indicate [s.th., _ñe_+Obj.]’.
+
+&nbsp;
 
 ### Types of nouns 
 
@@ -640,28 +759,32 @@ While homophones are treated as separate entries, my [original dictionary](https
 Nouns are divided along a grammatical split, regarding whether or not they require a possessor:
 
 - **independent** (~ intransitive ~ alienable) nouns:
-the majority of nouns can occur without a possessor – e.g. [_moe_](../units/teanu-moe_1) 'house', [_kuo_](../units/teanu-kuo_1) 'canoe'
-- **relational** (~ transitive ~ inalienable) nouns:
-about 115 nouns of Teanu are relational nouns, which demand a possessor. This is particularly true of kinship nouns (e.g. [_uku_](../units/teanu-uku_1) 'father-in-law (of s.o.)'), body parts ([_ma_](../units/teanu-ma_1) 'arm, hand (of s.o.)'), and other relational nouns ([_enga_](../units/teanu-enga_1) 'name (of s.o.)').
+the majority of nouns can occur without a possessor – e.g. [_moe_](../units/teanu-moe_1) 'house', [_kuo_](../units/teanu-kuo_1) 'canoe'. (They are just labelled <span style="font-variant: small-caps;">noun</span> in this dictionary.)
+- **dependent** (~ transitive ~ inalienable ~relational) nouns:
+about 115 nouns of Teanu are dependent nouns, which demand a possessor. They are further divided into two subclasses, based on their difference in how they encode their possessor: 
 
-In terms of word class, relational nouns are labelled as <span style="font-variant: small-caps;">nk</span> for “noun, kinship” or <span style="font-variant: small-caps;">nop</span> “noun, obligatorily possessed”.  Independent nouns are simply labelled <span style="font-variant: small-caps;">n</span> for “noun”.
+  - <span style="font-variant: small-caps;">kinship nouns</span> – e.g. [_uku_](../units/teanu-uku_1) 'father-in-law (of s.o.)', 
+  - <span style="font-variant: small-caps;">relational nouns</span> – e.g. [_ma_](../units/teanu-ma_1) 'arm, hand (of s.o.)'; [_enga_](../units/teanu-enga_1) 'name (of s.o.)'.
 
 &nbsp;
 
 ### Pronominal indexing 
 
-The personal pronouns of Teanu distinguish three numbers: singular, dual, plural. They also strictly encode the contrast between 'inclusive _we_' [=you &amp; me &amp; others] and 'exclusive _we_' [me &amp; others]. Thus the pronoun [_kia_](../units/teanu-kia_1) &quot;1inclusive: dual&quot; means 'you &amp; me', whereas [_keba_](../units/teanu-keba_1) &quot;1exclusive: dual&quot; will read as 'one person (other than you) + myself', i.e. 'me &amp; him/her'.
+The personal pronouns of Teanu distinguish three numbers: singular, dual, plural. They also strictly encode the contrast between 'inclusive _we_' {you + me + others] and 'exclusive _we_' {me + others (excluding you)}. Thus the pronoun [_kia_](../units/teanu-kia_1) &quot;1inclusive: dual&quot; means 'you &amp; me', whereas [_keba_](../units/teanu-keba_1) &quot;1exclusive: dual&quot; will read as 'one person (other than you) + myself', i.e. 'me &amp; him/her'.
 
-The  personal pronouns of Teanu distinguish three numbers: singular, dual, plural.  Free pronouns can serve as subject, object of transitive verbs, object of  prepositions. In addition, all verbs require a subject prefix, which  distinguishes realis vs. irrealis mood.
+Free pronouns can serve as subject, object of transitive verbs, object of  prepositions. In&nbsp;addition, all verbs require a subject prefix, which distinguishes realis vs. irrealis mood.
 
 _Table 6 – Pronominal forms in Teanu_
 
 <table class="table table-bordered">
   <tr>
-    <th colspan="2" valign="top">&nbsp;</th>
-    <th>free pronouns</th>
-    <th>subject, realis</th>
-    <th>subject, irrealis</th>
+    <th colspan="2" rowspan="2" valign="top">&nbsp;</th>
+    <th rowspan="2">free pronouns</th>
+    <th colspan="2" text-align="center">subject prefixes</th>
+  </tr>
+  <tr>
+    <th><i>realis</i></th>
+    <th><i>irrealis</i></th>
   </tr>
   <tr>
     <td rowspan="3"><strong>sing</strong></td>
@@ -729,8 +852,8 @@ _Table 6 – Pronominal forms in Teanu_
   <tr>
     <td>3</td>
     <td><em>dapa</em></td>
-    <td rowspan=2><em>li-</em></td>
-    <td rowspan=2><em>le-</em></td>
+    <td rowspan=2 valign="middle"><em>li-</em></td>
+    <td rowspan=2 valign="middle"><em>le-</em></td>
   </tr>
   <tr>
     <th>Generic</th>
@@ -740,6 +863,8 @@ _Table 6 – Pronominal forms in Teanu_
 </table>
 
 &nbsp;
+
+The following examples illustrate the basic morphosyntax of personal indexes – both free pronouns and subject prefixes:
 
 <table cellspacing="0" cellpadding="3px">
   <tr style="font-style:italic;">
@@ -758,15 +883,14 @@ _Table 6 – Pronominal forms in Teanu_
   <tr>
     <td>&nbsp;</td>
     <td>1sg</td>
-    <td>pft </td>
+    <td><span style="font-variant: small-caps;">pft</span></td>
     <td>1s:R-see</td>
     <td>2sg</td>
     <td>but</td>
     <td>2sg</td>
     <td>still</td>
     <td>2s:R‑see</td>
-    <td>1sg</td>
-    <td>neg</td>
+    <td>1sg</td>    <td><span style="font-variant: small-caps;">neg</span></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -786,8 +910,8 @@ _Table 6 – Pronominal forms in Teanu_
   <tr>
     <td>&nbsp;</td>
     <td>3du</td>
-    <td>fut </td>
-    <td>3du‑stay</td>
+    <td><span style="font-variant: small-caps;">fut</span></td>
+    <td><span style="font-variant: small-caps;">colloc[3]:du</span>‑stay</td>
     <td>with</td>
     <td>1inc:pl</td>
   </tr>
@@ -797,15 +921,57 @@ _Table 6 – Pronominal forms in Teanu_
   </tr>
 </table>
 
-&nbsp;
+#### Collocutive vs. dislocutive prefixes
 
-Teanu has a special pronoun, [_**idi**_](../units/teanu-idi_1), for “generic” reference, similar to Fr. _on_ (see François 2014).
+The list of subject prefixes shows a typologically unusual pattern. For each non-singular number, the language co-expresses:
+* 3rd person = 1st inclusive prefixes (dual [_la-_](../units/teanu-la-_1), plural [_li-_](../units/teanu-li-_1) / [_le-_](../units/teanu-le-_1)) <br/>
+→&nbsp;“Collocutive” category
+* 1 exclusive = 2nd person prefixes (dual [_ba-_](../units/teanu-ba-_1), plural [_pi-_](../units/teanu-pi-_1) / [_pe-_](../units/teanu-pe-_1)) <br/>
+→&nbsp;“Dislocutive” category
+
+François (2014) coined new terms for these two emic categories. The semantic divide is evidently based on whether a given prefix treats the speaker (‘I’) and the addressee (‘you’) together or not: 
+- “Collocutive” pronouns treat speaker and addressee as part of the same group (i.e. as both included in the grammatical subject in case of 1st inclusive reading; or both excluded in case of 3rd person);
+- “Dislocutive” pronouns oppose the group built around the speaker vs. the one built around the addressee.
+
+As far as our dictionary is concerned, this terminological proposal only affects the lexical entries for the subject prefixes themselves, and is supplemented by explanations:  thus, [_pe-_](../units/teanu-pe-_1) is glossed “_irrealis subject prefix for Dislocutive plural: i.e. 1st exclusive or 2nd
+person_”. Other entries do not make reference to these two concepts.
+
+#### Generic person
+
+Finally, Teanu has a special pronoun, [_**idi**_](../units/teanu-idi_1), for “generic” reference (François 2014), similar to French _on_. This generic plural agrees with the “Collocutive” prefix on the verb.
 
 <table cellspacing="0" cellpadding="3px">
   <tr style="font-style:italic;">
     <td>(5)</td>
+    <td>Tamate</td>
+    <td><strong>li-</strong>romo</td>
+    <td>wako</td>
+    <td>ia</td>
+    <td><strong>idi</strong></td>
+    <td><strong>li-</strong>madau.</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Spirit</td>
+    <td><span style="font-variant: small-caps;">colloc[gnrc]:pl</span>‑see</td></td>
+    <td>good</td>
+    <td>but</td>
+    <td><span style="font-variant: small-caps;">gnrc</span></td>
+    <td><span style="font-variant: small-caps;">colloc[gnrc]:pl</span>‑fear</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="7">&lsquo;The dancing masks were beautiful, but scary.&rsquo;<br/>[<i>liter</i>. &lsquo;<i>One</i> sees them beautiful, but <i>one</i> is scared.&rsquo;]</td>
+  </tr>
+</table>
+
+Generic indexes are found not only in the paradigm of independent pronouns [_Table&nbsp;6_], but also in the inflection of possessive classifiers [_Table&nbsp;7_ below] – e.g. _[iaidi](../units/teanu-iaidi_1)_ ‘Kinship possession, Generic possessor’:
+
+<table cellspacing="0" cellpadding="3px">
+  <tr style="font-style:italic;">
+    <td>(6)</td>
     <td>Lek’</td>
-    <td><strong>iaidi,</strong></td>
+    <td><strong>iaidi</strong>,</td>
     <td><strong>idi</strong></td>
     <td>pe</td>
     <td><strong>li-</strong>romo</td>
@@ -815,12 +981,12 @@ Teanu has a special pronoun, [_**idi**_](../units/teanu-idi_1), for “generic�
   <tr>
     <td>&nbsp;</td>
     <td>cousin</td>
-    <td>KinPoss:Gnrc</td>
-    <td>Gnrc</td>
-    <td>REL</td>
-    <td>3pl:R‑see</td>
-    <td>Gnrc</td>
-    <td>NEG</td>
+    <td><span style="font-variant: small-caps;">kin:gnrc</span></td>
+    <td><span style="font-variant: small-caps;">gnrc</span></td>
+    <td><span style="font-variant: small-caps;">rel</span></td>
+    <td><span style="font-variant: small-caps;">colloc[gnrc]:pl</span>-see</td>
+    <td><span style="font-variant: small-caps;">gnrc</span></td>
+    <td><span style="font-variant: small-caps;">neg</span></td>
   </tr>
   <tr>
     <td></td>
@@ -832,18 +998,18 @@ Teanu has a special pronoun, [_**idi**_](../units/teanu-idi_1), for “generic�
 
 ### Possessive marking 
 
-Teanu encodes possession in a pattern {Possessed + Possessor}. When that possessor is not a noun but a pronoun, it is encoded by a “personal possessive”. But the form taken by that personal possessive will depend on the exact meaning of the possessive relationship. Most of the time, this amounts to assigning the possessed noun to a certain possessive class:
+Teanu encodes adnominal possession in a pattern {Possessed + Possessor}. When that possessor is not a noun but a pronoun, it is encoded by a “personal possessive”. But the form taken by that personal possessive will depend on the exact meaning of the possessive relationship. Most of the time, this amounts to assigning the possessed noun to a certain possessive class, grounded in semantics:
 
-1. _body parts + relational nouns_ <br/>= {NOP + free pronoun} <sup>(see Table&nbsp;5)</sup><br/>
-→ _visibaele **ene**_ ‘my knee’; _enga **ini**_ ‘his/her name’; _vilisa **dapa**_ ‘their clothes’;<br/>→ _awa Teliki_ ‘Teliki's desire’. 
+1. _body parts_ and other _relational nouns_: <br/>= {<span style="font-variant: small-caps;">n.rel</span> + free pronoun} <sup>(see Table&nbsp;6)</sup><br/>
+→ _visibaele **ene**_ ‘my knee’; _enga **ini**_ ‘her name’; _vilisa **dapa**_ ‘their clothes’;<br/>→ _awa Teliki_ ‘Teliki's desire’. 
 
-1. _kinship nouns_ <br/>= {NK + [KIN possessive](../units/teanu-one_1)} <br/>
+1. _kinship nouns_ <br/>= {<span style="font-variant: small-caps;">n.kin</span> + [KIN possessive](../units/teanu-one_1)} <br/>
 → _uk' [**one**](../units/teanu-one_1)_ ‘my father-in-law’; _et’ [**iape**](../units/teanu-iape_2)_ ‘his/her mother’; _gi’ [**adapa**](../units/teanu-adapa_2)_ ‘their uncle’;<br/>→ _ai’ [**ie**](../units/teanu-ie_2) Teliki_ ‘Teliki's father’.
 
-1. _food + drink + tools + certain objects_ <br/>= {N + [FOOD possessive](../units/teanu-enaka_1)} <br/>
+1. _food + drink + tools + certain objects_ <br/>= {<span style="font-variant: small-caps;">n</span> + [FOOD possessive](../units/teanu-enaka_1)} <br/>
 → _buioe [**enaka**](../units/teanu-enaka_1)_ ‘my betelnut’; _laro [**ape**](../units/teanu-ape_1)_ ‘his/her drinking coconut’; _piene [**adapa**](../units/teanu-adapa_1)_ ‘their language’;<br/>→ _okoro [**we**](../units/teanu-we_2) Teliki_ ‘Teliki's knife’.
 
-1. _other possessions_ <br/>= {N + [GENERAL possessive](../units/teanu-enone_1)} <br/>
+1. _other possessions_ <br/>= {<span style="font-variant: small-caps;">n</span> + [GENERAL possessive](../units/teanu-enone_1)} <br/>
 → _moe [**’none**](../units/teanu-enone_1)_ ‘my house’; _emel’ [**iape**](../units/teanu-iape_1)_ ‘his wife’; _kulumoe [**iadapa**](../units/teanu-iadapa_1)_ ‘their village’<br/>
 → _men’ [**ie**](../units/teanu-ie_1) Teliki_ ‘Teliki's child’. 
 
@@ -951,14 +1117,16 @@ It is not possible to list here the many Teanu speakers who have taught me words
 
 I am also highly indebted to the many men and women who told me their countless stories or sang me their songs in Teanu: Teliki Thomas (†2009), Faithful Bila (†2010), Daniel Bakap (†2014), Teliki James Cook Pae (†2014), Bartholomew Alungo (†2020), Teliki Ben Tua Pine (†2010), Willy Usao (†2017), Marion Laki (†), Mary Laulei (†), Mofet Bwana, Wolta Simevio.
 
+Finally, I am grateful to several scholars who, over the years, took time to discuss with me various aspects of my language data from Vanikoro – including Even Hovdhaugen (†), Darrell Tryon (†), Piet Lincoln, Andrew Pawley, Malcolm Ross, Åshild Næss, Brenda Boerger, Bill Palmer, Siva Kalyan, and Ulrike Mosel – to name but a few. Thanks also are due to the team of _Dictionaria_, whose advice improved the quality of this dictionary considerably: Iren Hartmann, Johannes Englisch, Barbara Stiebbels, and Martin Haspelmath.
+
 ## References 
 
-The following selected publications – all available from [my homepage](http://alex.francois.online.fr/AFpub_articles_e.htm) – present various aspects of the Teanu language and culture:
+The following selected publications present various aspects of the Teanu language and culture:
 
 - François, Alexandre. 2005. [A toponymic map of Vanikoro](http://alex.francois.online.fr/AlexFrancois_Vanikoro-toponym_map-e.htm). Electronic publication. Paris: CNRS. 
 - François, Alexandre. 2008. [Mystère des langues, magie des légendes](http://alex.francois.online.fr/data/AlexFrancois_2008_Vanikoro_Legendes.pdf). In _Le mystère Lapérouse ou le rêve inachevé d’un roi_, edited by Association Salomon. Paris: de Conti, Musée national de la Marine. 230-233.
 - François, Alexandre. 2009. [The languages of Vanikoro: Three lexicons and one grammar](http://alex.francois.online.fr/data/AlexFrancois_2009_Vanikoro-languages.pdf). In Bethwyn Evans (ed). _Discovering history through language: Papers in honour of Malcolm Ross_. Pacific Linguistics 605. Canberra: Australian National University. 103-126.
-- François, Alexandre. 2014. [Person syncretism and impersonal reference in Vanikoro languages](https://www.academia.edu/8349394/). Paper read at _Syntax of the World's Languages_ (SWL6), Università di Pavia. 
+- François, Alexandre. 2014. [Person syncretism and impersonal reference in Vanikoro languages](http://alex.francois.online.fr/data/AlexFrancois_SWL6_Vanikoro-impersonal_Sept2014.pdf). Paper read at _Syntax of the World's Languages_ (SWL6), Università di Pavia. 
 - Tryon, Darrell T. & Brian D. Hackman. 1983. _Solomon Islands Languages: An Internal Classification_ (Pacific Linguistics no. 72). Canberra: Australian National University.
 - Tryon, Darrell. 1994. Language contact and contact-induced language change in the Eastern Outer Islands, Solomon Islands. In Tom Dutton & Darrell Tryon (eds.), _Language Contact and Change in the Austronesian World_, 611–648. Berlin: Mouton de Gruyter.
 - Tryon, Darrell. 2002. Buma. In John Lynch, Malcolm Ross & Terry Crowley (eds), _The Oceanic languages_ (Curzon Language Family Series 1), 573–586. London: Curzon.
@@ -966,11 +1134,17 @@ The following selected publications – all available from [my homepage](http://
 
 &nbsp;
 
-Other work mentioned in this introduction:
+Other references mentioned in this introduction:
 
 - Boerger, Brenda H. 2007. Natqgu literacy: Capturing three domains for written language use. _Language Documentation and Conservation_. 1(2). 126–153.
 - François, Alexandre. 2017. [The economy of word classes in Hiw, Vanuatu: Grammatically flexible, lexically rigid](http://alex.francois.online.fr/data/AlexFrancois_2017_Economy-word-classes_St-in-Lg.pdf). _Studies in Language_ 41(2). 294–357.
 - François, Alexandre. 2019. [A proposal for conversational questionnaires](https://scholarspace.manoa.hawaii.edu/handle/10125/24861). In Aimée Lahaussois & Marine Vuillermet (eds.), Methodological Tools for Linguistic Description and Typology. Special issue of _Language Documentation & Conservation_ 16, 155-196.
+- Green, Roger C. 2010. The Outer Eastern Islands of the Solomons: A puzzle for the holistic approach to the anthropology of history. In John Bowden, Nikolaus P. Himmelmann, & Malcolm Ross (eds) [_A Journey through Austronesian and Papuan Linguistic and Cultural Space: Papers in Honour of Andrew K. Pawley_](http://hdl.handle.net/1885/146763), 207‑223. Canberra: Pacific Linguistics.
+- Ivens, W. G. 1931. The place of Vui and Tamate in the religion of Mota. _The Journal of the Royal Anthropological Institute of Great Britain and Ireland_ 61. 157–166.
+- Lackey, William James & Brenda H. Boerger. 2021. Reexamining the phonological history of Oceanic’s Temotu subgroup. _Oceanic Linguistics_ 60(2), Dec 2021. [DOI: 10.1353/ol.2020.0029](https://doi.org/10.1353/ol.2020.0029).
+- Pawley, Andrew K. 2009. [The role of the Solomon Islands in the first settlement of Remote Oceania: Bringing linguistic evidence to an archaeological debate](http://hdl.handle.net/1885/35117). In Andrew K. Pawley & Alexander Adelaar (eds), _Austronesian historical linguistics and culture history: A festschrift for Bob Blust_, 515-540. Pacific Linguistics. Canberra.
+- Ross, Malcolm & Åshild Næss. 2007. An Oceanic origin for Äiwoo, the language of the Reef Islands? _Oceanic Linguistics_ 46 (2), Dec 2007: 456‑98. [DOI: 10.1353/ol.2008.0003](https://doi.org/10.1353/ol.2008.0003).
+- Vienne, Bernard. 1996. Masked faces from the country of the Dead. In Joël Bonnemaison, Kirk Huffman, Christian Kaufmann & Darrell Tryon (eds.), _Arts of Vanuatu_, 234–246. Bathurst: Crawford House Press.
 
 &nbsp;
 
@@ -990,6 +1164,7 @@ Enjoy your browsing!
 
 &nbsp; 
 
-Alex François (CNRS–Lattice, Paris), April 2021.
+Alexandre François (CNRS–Lattice, Paris), <br/>
+October 2021.
 
 ---
