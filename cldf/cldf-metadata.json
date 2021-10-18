@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/dictionaria/teanu",
             "rdf:type": "prov:Entity",
-            "dc:created": "55afa57",
+            "dc:created": "4552f64",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 1880,
+            "dc:extent": 1876,
             "tableSchema": {
                 "columns": [
                     {
@@ -210,7 +210,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 2778,
+            "dc:extent": 2780,
             "tableSchema": {
                 "columns": [
                     {
@@ -254,11 +254,6 @@
                     },
                     {
                         "datatype": "string",
-                        "separator": " ; ",
-                        "name": "Explanation"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Infobox"
                     },
                     {
@@ -282,11 +277,6 @@
                     },
                     {
                         "datatype": "string",
-                        "separator": " ; ",
-                        "name": "Possessive_Classifier"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Scientific_Name"
                     },
                     {
@@ -296,11 +286,6 @@
                     {
                         "datatype": "string",
                         "name": "Sense_Comment"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": " ; ",
-                        "name": "Singular_Form"
                     },
                     {
                         "datatype": "string",
@@ -341,43 +326,10 @@
                     },
                     {
                         "columnReference": [
-                            "Explanation"
-                        ],
-                        "reference": {
-                            "resource": "entries.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
                             "Media_IDs"
                         ],
                         "reference": {
                             "resource": "media.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Possessive_Classifier"
-                        ],
-                        "reference": {
-                            "resource": "entries.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Singular_Form"
-                        ],
-                        "reference": {
-                            "resource": "entries.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -403,7 +355,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2792,
+            "dc:extent": 2802,
             "tableSchema": {
                 "columns": [
                     {
