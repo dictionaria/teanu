@@ -6655,7 +6655,7 @@
 \xn I forbid you from going there!
 \xv Temabete me mawene, li-garei pe daviñevi li-te ene.
 \xn Women are forbidden from sitting on mats or semi-mats.
-\sy ~botongo.A–2
+\sy ~botongo_2.A–2
 
 \lx gea
 \ph ᵑgea
@@ -7483,7 +7483,7 @@
 \dn behaviour; general attitude, character
 \xv Awa ene i-viaene imaluo iape.
 \xn I like her character.
-\sy ~maluo.B
+\sy maluo_1
 
 \lx imuo
 \ph imuo
@@ -9903,7 +9903,7 @@
 \wn qualifying an NP
 \dn call s.th. ‹so and so›
 \xv Na, piene adapa Teanu a-ko ae?
-\xn [this, the language of Teanu, you say what?] How do you say this in Teanu?
+\xn How is this called in Teanu? [|ax{lit.} this, in Teanu language, you say what?]
 \xv toñaki pe kiapa li-ko ‘tepakare tilu’
 \xn that sort of ship is called ‘catamaran’
 \xv Tadoe iadapa pon, enga ini – dapa Lovono li-ko ‘Visipure’; ka dapa Teanu li-ko ‘Vilisao’.
@@ -13648,9 +13648,12 @@
 \sn 8
 \uv river+
 \dn spring
-\xv mata ero
-\xn water spring, source
 \sy matavo
+\se mata ero
+\ps n
+\mr <compo>mata_1‒8</compo> + <compo>ero_1</compo>
+\ll hole of creek
+\dn water spring, source
 \sn 9
 \uv plant
 \dn sprout, seedling, shoot, offshoot
@@ -14791,7 +14794,7 @@
 \hn fig
 \dn of minor importance, futile; unimpressive, mediocre
 \xv Dapa wopine na li-vete piene ne “ebele ini!” tamwase, pe li-ko motoro. Ia piene “wako” pon, mimione.
-\xn The elders very often use this expression “it's wonderful”: they find it a nice [|ax{lit.} heavy] word. Whereas a word like “alright” is a bit too common. [it's light]
+\xn The elders very often use this expression “it's wonderful”: they find it an elegant [|ax{lit.} heavy] word. Whereas a word like “alright” is a bit too common. [it's light]
 \an motoro
 \el (?) POc
 \et *[ma]Raqan
@@ -15495,16 +15498,12 @@
 \cf tomoro wako
 \cn midday
 
-\cf aeve i-le
-\cn early afternoon
 \cf ~le_2.A–5
-\cn early afternoon
-\cf aeve i-tavali
-\cn late afternoon
+\cn (be) early afternoon
 \cf ~tavali
-\cn late afternoon
+\cn (be) late afternoon
 \cf ~la_2
-\cn dusk, evening
+\cn (be) dusk, evening
 \cf vonila
 \cn dusk, evening
 \cf nedemo
@@ -15740,9 +15739,9 @@
 \sn 4
 \hn
 \uv speech
-\dn formal, carefully worded; sounding nice, idiomatic
+\dn formal, carefully worded; elegant; idiomatic
 \xv Dapa wopine na li-vete piene ne “ebele ini!” tamwase, pe li-ko motoro. Ia piene “wako” pon, mimione.
-\xn The elders very often use this expression “it's wonderful”: they find it a nice [|ax{lit.} heavy] word. Whereas a word like “alright” is a bit too common. [it's light]
+\xn The elders very often use this expression “it's wonderful”: they find it an elegant [|ax{lit.} heavy] word. Whereas a word like “alright” is a bit too common. [it's light]
 \an mimione
 
 \lx motovo
@@ -18221,9 +18220,6 @@
 \cf Nomianu
 \cn NE wind
 
-\cf Tangake Nomianu
-\cn E wind
-
 \cf Tangake
 \cn ESE wind
 
@@ -18241,10 +18237,6 @@
 
 \cf Tokolau
 \cn W wind
-
-\cf Tokolau Palapu
-\cn NW wind
-
 
 \el POc
 \et *aŋin
@@ -18613,9 +18605,6 @@
 \tiv one
 \cf one
 \cn of me
-
-\cf —
-\cn of you
 
 \cf iape_2
 \cn of him/her
@@ -19800,7 +19789,6 @@
 \dn sour, bitter, unpleasant to taste
 \xv Owopana li-e i-pono.
 \xn Wild kava has a sour taste.
-\an aña wako
 \gp B
 \ps verb, transitive
 \wr B
@@ -20560,14 +20548,10 @@
 \cf revo
 \cn sea; sea water
 
-\cf revo i-kopine
-\cn high tide
 \cf ~kopine
-\cn high tide
-\cf revo i-ma
-\cn low tide
+\cn (be) high tide
 \cf ~ma_3–2
-\cn low tide
+\cn (be) low tide
 \cf ole
 \cn beach, sand
 
@@ -22346,7 +22330,7 @@
 \wn
 \dn often
 \xv Dapa wopine na li-vete piene ne “ebele ini!” tamwase, pe li-ko motoro.
-\xn The elders very often use this expression “it's wonderful”: they find it a nice word.
+\xn The elders very often use this expression “it's wonderful”: they find it an elegant word.
 \cf moro abia
 
 \lx Tanemwa
@@ -22854,7 +22838,7 @@
 \ps noun
 \dn Teanu, the northeastern island of the Vanikoro group; homeland of the Teanu language
 \xv piene adapa Teanu
-\xn the language of Teanu
+\xn the language of (the people of) Teanu
 \xv Da-tilu pe Teanu; kulumoe iada Aneve.
 \xn They were from Teanu island; their village was Aneve.
 \urlx https://doi.org/10.24397/pangloss-0003351#S1
@@ -24567,8 +24551,6 @@
 \cn ten
 \cf sangaulu
 \cn ten
-\cf uluko tamana iune
-\cn eleven
 
 \cf tamana
 \cn linker for units
@@ -24578,9 +24560,6 @@
 
 \cf kwate
 \cn thirty
-
-\cf kwa-teva tamana tua
-\cn forty eight
 
 \cf rea
 \cn hundred

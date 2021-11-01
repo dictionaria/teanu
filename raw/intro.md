@@ -147,7 +147,7 @@ My second trip was in 2012, with a group of geologists who took me with them for
 
 Altogether, my linguistic exposure to the language of Teanu was about 29 days in total. But thanks to my knowledge of nearby Vanuatu languages, and to a linguistic questionnaire I had designed (François 2019), I&nbsp;was able to speak and understand Teanu early enough to hold conversations and record naturalistic samples of the language.
 
-My methodology in the field combined language learning, targeted elicitation, and the recording of spontaneous speech in the form of conversations or narratives. Out of the 73 items I recorded in Teanu, 43 were narratives; I transcribed 22 of these with the help of native speakers, yielding a digital corpus of 18,800 words. Among those transcribed texts, [several are displayed online](https://tiny.cc/AF-ark_Teanu), in open access (_Pangloss collection_, CNRS). The same archive hosts the valuable recordings I made [in Lovono](https://pangloss.cnrs.fr/corpus/Lovono?lang=en&mode=pro) and [in Tanema](https://pangloss.cnrs.fr/corpus/Tanema?lang=en&mode=pro).
+My methodology in the field combined language learning, targeted elicitation, and the recording of spontaneous speech in the form of conversations or narratives. Out of the 73 items I recorded in Teanu, 43 were narratives; I transcribed 22 of these with the help of native speakers, yielding a digital corpus of 18,800 words. Among those transcribed texts, <a href="https://tiny.cc/AF-ark_Teanu" target="_blank">several are displayed online</a>, in open access (_Pangloss collection_, CNRS). The same archive hosts the valuable recordings I made <a href="https://pangloss.cnrs.fr/corpus/Lovono?lang=en&mode=pro" target="_blank">in Lovono</a> and <a href="https://pangloss.cnrs.fr/corpus/Tanema?lang=en&mode=pro" target="_blank">in Tanema</a>.
 
 &nbsp;
 <div style="clear:both;"></div>
@@ -156,7 +156,7 @@ My methodology in the field combined language learning, targeted elicitation, an
 
 This bilingual Teanu dictionary is based on my corpus of texts, conversations, elicited data, and immersive fieldwork.
 
-It contains about 1900 entries in total, illustrated by about 2800 example sentences.
+It contains about 1900 entries in total, 2800 sense definitions, and 2800 example sentences.
 
 While the present _Dictionaria_ edition includes all my lexical data, interested readers can find the same data under a different presentation, on [_tiny.cc/Vanikoro-dict_](https://tiny.cc/Vanikoro-dict).
 
@@ -626,7 +626,7 @@ _Table 5 – The word classes used in this dictionary of Teanu_
 		</tr>
 		<tr>
 			<td><p><em>possessive</em></p></td>
-			<td><p>Possessive linker or classifier, inflected for person and number. [see&nbsp;§&nbsp;<a href="#section20"><em>Possessive marking</em></a>]</p></td>
+			<td><p>Possessive linker or classifier, inflected for person and number. [see&nbsp;§&nbsp;<a href="#section20" target="_blank"><em>Possessive marking</em></a>]</p></td>
 			<td><p><a href="../units/teanu-ono_1" target="_blank"><em>ono</em></a>&nbsp;&nbsp; &lsquo;your (food+): 2sg form of edible classifier&rsquo;</p></td>
 		</tr>
 		<tr>
@@ -729,12 +729,12 @@ _Table 5 – The word classes used in this dictionary of Teanu_
 		<tr>
 			<td><p><em>2nd verb, intrans.</em></p></td>
 			<td><p>Intransitive verb used only as a second verb in a serial construction, or showing special behaviour (syntactic or semantic) when found in that position.</p></td>
-			<td><p><a href="../units/teanu-LX000096" target="_blank"><em>~ejau</em></a><br />&lsquo;[do]&nbsp;well&rsquo;</p></td>
+			<td><p><a href="../units/teanu-LX000096" target="_blank"><em>~ejau</em></a><br />&lsquo;do, make →&nbsp;[do]&nbsp;well&rsquo;</p></td>
 		</tr>
 		<tr>
 			<td><p><em>2nd verb, trans.</em></p></td>
 			<td><p>Transitive verb used only as a second verb in a serial construction, or showing special behaviour (syntactic or semantic) when found in that position.</p></td>
-			<td><p><a href="../units/teanu-LX000144" target="_blank"><em>~katau</em></a>&nbsp;&nbsp; &lsquo;follow → do&nbsp;accordingly…&rsquo;</p></td>
+			<td><p><a href="../units/teanu-LX000144" target="_blank"><em>~katau</em></a>&nbsp;&nbsp; &lsquo;follow →&nbsp;do&nbsp;accordingly…&rsquo;</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -937,15 +937,15 @@ Finally, Teanu has a special pronoun, [_**idi**_](../units/teanu-idi_1), for “
   <tr>
     <td>&nbsp;</td>
     <td>Spirit</td>
-    <td><span style="font-variant: small-caps;">colloc[gnrc]:pl</span>‑see</td></td>
+    <td><span style="font-variant: small-caps;">colloc[gnrc]:pl</span>‑see</td>
     <td>good</td>
     <td>but</td>
     <td><span style="font-variant: small-caps;">gnrc</span></td>
     <td><span style="font-variant: small-caps;">colloc[gnrc]:pl</span>‑fear</td>
   </tr>
   <tr>
-    <td></td>
-    <td colspan="7">&lsquo;The dancing masks were beautiful, but scary.&rsquo;<br/>[<i>liter</i>. &lsquo;<i>One</i> sees them beautiful, but <i>one</i> is scared.&rsquo;]</td>
+    <td>&nbsp;</td>
+    <td colspan="6">&lsquo;The dancing masks were beautiful, but scary.&rsquo;<br/>[<i>liter</i>. &lsquo;<i>One</i> sees them beautiful, but <i>one</i> is scared.&rsquo;]</td>
   </tr>
 </table>
 
