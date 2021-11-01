@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/dictionaria/teanu",
             "rdf:type": "prov:Entity",
-            "dc:created": "4552f64",
+            "dc:created": "88bb227",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 1876,
+            "dc:extent": 1877,
             "tableSchema": {
                 "columns": [
                     {
@@ -210,7 +210,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "dc:extent": 2780,
+            "dc:extent": 2781,
             "tableSchema": {
                 "columns": [
                     {
@@ -355,7 +355,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2802,
+            "dc:extent": 2799,
             "tableSchema": {
                 "columns": [
                     {
