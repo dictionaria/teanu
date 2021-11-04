@@ -163,7 +163,7 @@ While the present _Dictionaria_ edition includes all my lexical data, interested
 ### Special features 
 This dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry  [**_ngiro_**](../units/teanu-ngiro_1) ‘wind’ has examples linking to original texts, such as [doi:Pangloss-0003352#S106](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:Pangloss-0003351#S16](https://doi.org/10.24397/pangloss-0003351#S16).
 
-The present work pays attention not just to language and grammar, but also to **culture and society**. Many entries come with photographs, as well as encyclopedic notes: see, for example, entries [_tolosai_](../units/teanu-tolosai_1) 'loincloth', [_savene_](../units/teanu-savene_1) 'valuable mat', [_nuduro_](../units/teanu-nuduro_2) 'scareline', [_viavia mamdeuko_](../units/teanu-viavia_mamdeuko_1) 'feather money'…
+The present work pays attention not just to language and grammar, but also to **culture and society**. Many entries come with photographs, and/or with encyclopedic notes: see, for example, entries [_tolosai_](../units/teanu-tolosai_1) 'loincloth', [_savene_](../units/teanu-savene_1) 'valuable mat', [_nuduro_](../units/teanu-nuduro_2) 'scareline', [_viavia mamdeuko_](../units/teanu-viavia_mamdeuko_1) 'feather money'…
 
 Entries usually feature a broad array of **cross-references** to other words: heterosemes (see §&nbsp;[_Lexical flexibility_](#section16)); antonyms; synonyms; subentries and other derived phrases; and more generally, any other words connected one way or the other. A few dozen entries even provide a whole set of links for a given **lexical domain** – for example:
 
@@ -194,7 +194,7 @@ Many entries are assigned some semantic fields. The following table provides a k
 
 _Table 1 – Semantic fields used in this dictionary_
 
-<table class="table table-bordered" style="font-size: small;">
+<table class="table table-bordered" style="font-size:88%;">
 <tbody>
     <tr>
         <th width="60">Abbr</th>
@@ -498,7 +498,7 @@ Providing each word class with a full description and illustration would require
 &nbsp;
 
 _Table 5 – The word classes used in this dictionary of Teanu_
-<table class="table table-bordered" style="font-size: small;">
+<table class="table table-bordered" style="font-size:88%;">
 	<tbody>
 		<tr>
 			<th width="200">Word class</th>
@@ -1107,6 +1107,405 @@ _Table 7 – Personal possessives in Teanu_
 </table>
 
 &nbsp;
+## A text in Teanu
+
+I collected the following text in May 2005, in the village of Temwo, from Chief †Bartholomew Alungo.
+
+Chief Alungo explains how young boys are traditionally initiated in the Boys’ Club house ([_**Toplau mwa gete**_](../units/teanu-Toplau_mwa_gete_1)). Similar to a boarding school, teenage boys usually live in that house for several years.
+
+This short text can serve as a sample to illustrate how sentences are typically organised in Teanu. 
+<table border="0" cellspacing="0" cellpadding="3">
+	<tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">1.</th>
+    <td>Toplau</td>
+    <td>mwa</td>
+    <td>gete,</td>
+    <td>daviñevi</td>
+    <td>li-koie</td>
+    <td>tae,</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>men&rsquo;s.club</td>
+    <td>house.of</td>
+    <td>young.boys</td>
+    <td>women</td>
+    <td>3p:<span style="font-variant: small-caps;">rl</span>‑enter </td>
+    <td><span style="font-variant: small-caps;">neg</span></td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">“The Young boys&rsquo; Club is a place where women cannot go; </td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">2.</th>
+    <td>dapa</td>
+    <td>gete</td>
+    <td>ñoko</td>
+    <td>li-ovei</td>
+    <td>pe</td>
+    <td>li-te</td>
+    <td>ene.</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td><span style="font-variant: small-caps;">pl</span></td>
+    <td>young.boys</td>
+    <td>only</td>
+    <td>3p:<span style="font-variant: small-caps;">rl</span>‑know </td>
+    <td><span style="font-variant: small-caps;">sub</span></td>
+    <td>3p:<span style="font-variant: small-caps;">rl</span>-stay </td>
+    <td><span style="font-variant: small-caps;">loc:adv</span></td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">only young men are able to stay inside.</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">3.</th>
+    <td>Noma,</td>
+    <td>po</td>
+    <td>apali</td>
+    <td>i-maili</td>
+    <td>i-ven&rsquo;</td>
+    <td>i-ka,</td>
+    <td>po</td>
+    <td>mamote</td>
+    <td>aplaka,</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>before</td>
+    <td><span style="font-variant: small-caps;">sub</span></td>
+    <td>child</td>
+    <td>3s-grow</td>
+    <td>3s-go.up</td>
+    <td>3s‑come</td>
+    <td><span style="font-variant: small-caps;">sub</span></td>
+    <td>still</td>
+    <td>small</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="9">Traditionally, as a boy grows up – as long as he is still a child</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">4.</th>
+    <td>i-te</td>
+    <td>tev&rsquo;</td>
+    <td>ai&rsquo;</td>
+    <td>iape</td>
+    <td>me</td>
+    <td>et&rsquo;</td>
+    <td>iape</td>
+    <td>ne</td>
+    <td>moe</td>
+    <td>iadapa.</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>3s‑stay</td>
+    <td>with</td>
+    <td>father</td>
+    <td><span style="font-variant: small-caps;">kin</span>:3s</td>
+    <td>and</td>
+    <td>mother</td>
+    <td><span style="font-variant: small-caps;">kin</span>:3s</td>
+    <td><span style="font-variant: small-caps;">loc</span></td>
+    <td>house</td>
+    <td><span style="font-variant: small-caps;">poss</span>:3pl</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="10">he&rsquo;ll live with his parents, in their house.</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">5.</th>
+    <td>Bwara</td>
+    <td>i-le</td>
+    <td>pine,</td>
+    <td>po</td>
+    <td>ra</td>
+    <td>i-le</td>
+    <td>ini</td>
+    <td>mwatagete,</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>maybe</td>
+    <td>3s‑go</td>
+    <td>big</td>
+    <td>sub</td>
+    <td>until</td>
+    <td>3s‑go</td>
+    <td>3s</td>
+    <td>young.boy</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">But when he grows up to be a teenager,</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">6.</th>
+    <td>ai&rsquo;</td>
+    <td>iape</td>
+    <td>kape</td>
+    <td>i-ejau</td>
+    <td>aña</td>
+    <td>none</td>
+    <td>mijaka</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>father</td>
+    <td><span style="font-variant: small-caps;">kin</span>:3s</td>
+    <td>irr</td>
+    <td>3s‑make</td>
+    <td>bit</td>
+    <td>food</td>
+    <td>little</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">his father will prepare a little ceremony,</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">7.</th>
+    <td>me</td>
+    <td>kape</td>
+    <td>i-la</td>
+    <td>men&rsquo;</td>
+    <td>iape</td>
+    <td>i-koioi</td>
+    <td>ne</td>
+    <td>toplau.</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td><span style="font-variant: small-caps;">purp</span></td>
+    <td><span style="font-variant: small-caps;">irr</span></td>
+    <td>3s‑take</td>
+    <td>son</td>
+    <td><span style="font-variant: small-caps;">kin</span>:3s</td>
+    <td>3s‑introduce</td>
+    <td><span style="font-variant: small-caps;">loc</span></td>
+    <td>men&rsquo;s.club</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">so as to introduce his son into the men&rsquo;s club. </td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">8.</th>
+    <td>Toplau</td>
+    <td>pon,</td>
+    <td>uña</td>
+    <td>teliki</td>
+    <td>samame</td>
+    <td>dapa</td>
+    <td>wopine</td>
+    <td>li-kilasi</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>men&rsquo;s.club </td>
+    <td><span style="font-variant: small-caps;">topic</span></td>
+    <td><span style="font-variant: small-caps;">pl</span></td>
+    <td>chief</td>
+    <td>with</td>
+    <td><span style="font-variant: small-caps;">pl</span></td>
+    <td>great.men</td>
+    <td>3p:<span style="font-variant: small-caps;">rl</span>‑address</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">In that club, chiefs and elders give speeches,</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" text-align="right" valign="top">9.</th>
+    <td>we</td>
+    <td>li-waivo</td>
+    <td>uña</td>
+    <td>dapa</td>
+    <td>gete</td>
+    <td>ñe</td>
+    <td>telepakau</td>
+    <td>akapa.</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>or</td>
+    <td>3p:<span style="font-variant: small-caps;">rl</span>‑teach</td>
+    <td>pl</td>
+    <td>pl</td>
+    <td>young.boys</td>
+    <td><span style="font-variant: small-caps;">obl</span></td>
+    <td>law</td>
+    <td><span style="font-variant: small-caps;">food</span>:1in.pl</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">they teach youngsters about our customary laws.</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">10.</th>
+    <td>Idi</td>
+    <td>pe</td>
+    <td>li-te</td>
+    <td>ne</td>
+    <td>toplau</td>
+    <td>pe</td>
+    <td>i-wene</td>
+    <td>i-wene,</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td><span style="font-variant: small-caps;">gnrc</span></td>
+    <td><span style="font-variant: small-caps;">sub</span></td>
+    <td>3p:<span style="font-variant: small-caps;">rl</span>‑stay</td>
+    <td><span style="font-variant: small-caps;">loc</span></td>
+    <td>men&rsquo;s.club</td>
+    <td><span style="font-variant: small-caps;">sub</span></td>
+    <td>3s‑go.on</td>
+    <td>3s‑go.on</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">Those who stay in the club for a long time,</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">11.</th>
+    <td>ebieve</td>
+    <td>kape</td>
+    <td>i-pu</td>
+    <td>i-sali.</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>year</td>
+    <td><span style="font-variant: small-caps;">irr</span></td>
+    <td>3s‑run</td>
+    <td>3s‑drop</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">entire years will go by [before they can leave].</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">12.</th>
+    <td>Mwatagete</td>
+    <td>kape</td>
+    <td>i-te</td>
+    <td>ne</td>
+    <td>toplau,</td>
+    <td>ra</td>
+    <td>ra</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>young.boy</td>
+    <td><span style="font-variant: small-caps;">irr</span></td>
+    <td>3s‑stay</td>
+    <td><span style="font-variant: small-caps;">loc</span></td>
+    <td>men&rsquo;s.club</td>
+    <td><span style="font-variant: small-caps;">contin</span></td>
+    <td><span style="font-variant: small-caps;">contin</span></td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">A young boy will live in the men&rsquo;s club for a long time,</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">13.</th>
+    <td>basavono</td>
+    <td>po</td>
+    <td>kape</td>
+    <td>ai&rsquo;</td>
+    <td>iape</td>
+    <td>i-wasu</td>
+    <td>emele</td>
+    <td>i-min&rsquo;</td>
+    <td>ini</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>moment</td>
+    <td><span style="font-variant: small-caps;">sub</span></td>
+    <td><span style="font-variant: small-caps;">irr</span></td>
+    <td>father</td>
+    <td><span style="font-variant: small-caps;">kin</span>:3s</td>
+    <td>3s‑fix</td>
+    <td>woman</td>
+    <td>3s‑give</td>
+    <td>3s</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="9">until his father arranges him a wife.</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">14.</th>
+    <td>ka</td>
+    <td>i-ke</td>
+    <td>mina</td>
+    <td>toplau</td>
+    <td>pon,</td>
+    <td>pe</td>
+    <td>kape</td>
+    <td>i-vo</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>and</td>
+    <td>3s‑exit</td>
+    <td>from</td>
+    <td>men&rsquo;s.club</td>
+    <td><span style="font-variant: small-caps;">dem2</span></td>
+    <td><span style="font-variant: small-caps;">sub</span></td>
+    <td><span style="font-variant: small-caps;">irr</span></td>
+    <td>3s‑build</td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">That is when he will come out of the men&rsquo;s club, ready to build his own house</td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="3">
+  <tr style="font-style:italic;">
+    <th rowspan="3" width="25" align="right" valign="top">15.</th>
+    <td>moe</td>
+    <td>iape</td>
+    <td>ini</td>
+    <td>ñoko</td>
+    <td>i-te</td>
+    <td>ñei.</td>
+  </tr>
+  <tr style="font-size:88%;">
+    <td>house</td>
+    <td><span style="font-variant: small-caps;">poss</span>:3s</td>
+    <td>3s</td>
+    <td>only</td>
+    <td>3s‑stay</td>
+    <td><span style="font-variant: small-caps;">obl:anaph</span></td>
+  </tr>
+  <tr style="line-height: 150%;" valign="top">
+    <td colspan="8">where he can live on his own.”</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+
 
 ## Acknowledgments 
 
@@ -1164,4 +1563,4 @@ Enjoy your browsing!
 Alexandre François (CNRS–Lattice, Paris), <br/>
 November 2021.
 
----
+&nbsp; 
