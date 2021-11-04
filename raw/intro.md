@@ -1513,7 +1513,7 @@ It is not possible to list here the many Teanu speakers who have taught me words
 
 I am also highly indebted to the many men and women who told me their countless stories or sang me their songs in Teanu: Teliki Thomas (†2009), Faithful Bila (†2010), Daniel Bakap (†2014), Teliki James Cook Pae (†2014), Bartholomew Alungo (†2020), Teliki Ben Tua Pine (†2010), Willy Usao (†2017), Marion Laki (†), Mary Laulei (†), Mofet Bwana, Wolta Simevio.
 
-Finally, I am grateful to several scholars who, over the years, took time to discuss with me various aspects of my language data from Vanikoro – including Even Hovdhaugen (†), Darrell Tryon (†), Piet Lincoln, Andrew Pawley, Malcolm Ross, Åshild Næss, Brenda Boerger, Bill Palmer, Siva Kalyan, and Ulrike Mosel – to name but a few. Thanks also are due to the team of _Dictionaria_, whose advice improved the quality of this dictionary considerably: Iren Hartmann, Johannes Englisch, Barbara Stiebbels, and Martin Haspelmath.
+Finally, I am grateful to several scholars who, over the years, took time to discuss with me various aspects of my language data from Vanikoro – including Even Hovdhaugen (†), Darrell Tryon (†), Piet Lincoln, Andrew Pawley, Malcolm Ross, Åshild Næss, Brenda Boerger, Bill Palmer, Siva Kalyan, and Ulrike Mosel – to name but a few. Thanks also are due to the team of _Dictionaria_, whose advice improved the quality of this dictionary considerably: Iren Hartmann, Johannes Englisch, Barbara Stiebels, and Martin Haspelmath.
 
 ## References 
 
