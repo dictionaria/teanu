@@ -5,17 +5,18 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "Fran\u00e7ois, Alexandre. 2021. Teanu dictionary (Solomon Islands). Dictionaria 15. 1-1877. (Available online at https://dictionaria.clld.org/contributions/teanu)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Dictionary",
     "dc:creator": "Alexandre Fran\u00e7ois",
     "dc:identifier": "https://dictionaria.clld.org/contributions/teanu",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:title": "A dictionary of Teanu (Vanikoro, Solomon islands)",
+    "dc:title": "Teanu dictionary (Solomon Islands)",
     "dcat:accessURL": "https://github.com/dictionaria/teanu",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/dictionaria/teanu",
             "rdf:type": "prov:Entity",
-            "dc:created": "88bb227",
+            "dc:created": "ba29acb",
             "dc:title": "Repository"
         },
         {
