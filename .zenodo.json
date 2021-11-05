@@ -1,0 +1,29 @@
+{
+    "title": "dictionaria/teanu: Teanu dictionary (Solomon Islands)",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Alexandre Fran\u00e7ois"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "dictionaria"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "description": "Fran\u00e7ois, Alexandre. 2021. Teanu dictionary (Solomon Islands). Dictionaria 15. 1-1877. (Available online at https://dictionaria.clld.org/contributions/teanu)"
+}
