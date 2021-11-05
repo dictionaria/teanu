@@ -7,7 +7,7 @@ Welcome to this **online Teanu – English dictionary**.
 While “Vanikoro” is commonly talked about as if it were a single island, it is technically a cluster of islands, surrounded by a single belt of coral reef. The largest island is [_Banie_](../units/teanu-Banie_1), followed by [_Teanu_](../units/teanu-Teanu_1); the latter gave its name to the language spoken in the northeast area of Vanikoro. The same language has also been known in the literature as _Puma_ or _Buma_ (e.g. Tryon 2002), after the main village on Teanu island.
 
 
-<table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
+<table class="unstyled" style="width: 90%; max-width:600px; margin:20px; padding:4px; border:0;">
 <tbody><tr>
 <td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" target="_blank">
 <img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4ADB-CBBD-6E79-0/AlexF_Solomons_map_situation_Vanikoro_s.png" alt="Pacific map" title="Pacific map" border="1"></a></td>
@@ -25,7 +25,7 @@ In earlier times, the island group of Vanikoro used to be divided into three tri
 During my fieldwork trips in Vanikoro (2005, 2012), I&nbsp;collected linguistic data on these three languages.
 
 
-<table class="unstyled" style="width: 90%; max-width:800px; margin-right:12px; padding:4px; border:0;">
+<table class="unstyled" style="width: 90%; max-width:800px; margin: 20px; padding:4px; border:0;">
 <tbody><tr>
 <td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/Vanikoro_toponymy_map_Francois_2005_b.jpg" target="_blank">
 <img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-B537-7F9A-3722-0/Vanikoro_toponymy_map_Francois_2005_b.jpg" alt="Vanikoro language map" title="Pacific map" border="1"></a></td>
@@ -98,7 +98,7 @@ If we set aside Fakatikopia, the two neighbouring islands Vanikoro and Utupua, c
 
 More recent research has proposed to connect the latter group with the _Reefs ‒ Santa Cruz_ languages under a tentative “Temotu” branch of Oceanic (Ross & Næss 2007) – see the entry [_Temotu_](https://glottolog.org/resource/languoid/id/temo1244) on Glottolog. That branch includes about ten languages, all located in the province of the same name [see _Fig.&nbsp;3_].  The precise historical development of the Temotu subgroup remains matter for further research (see Lackey & Boerger 2021).
 
-<table class="unstyled" style="width: 90%; max-width:600px; margin-right:12px; padding:4px; border:0;">
+<table class="unstyled" style="width: 80%; max-width:600px; margin: 20px;padding:4px; border:0;">
 <tbody><tr>
 <td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" target="_blank">
 <img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-4FFC-A17F-771F-0/Wikipedia_Temotu_languages_s.png" alt="Temotu map" title="Temotu map" border="1"></a></td>
@@ -107,6 +107,8 @@ More recent research has proposed to connect the latter group with the _Reefs �
 <td><i>Fig.&nbsp;3 - The languages of Temotu province (eastern&nbsp;Solomons). Except for Tikopia (east of the map) and Vaeakau-Taumako which are Polynesian, all other languages here belong to the “Temotu” subgroup of Oceanic.</i><br/><small><i>Source</i>: NordNordWest and Stefano Coretta, <a href="https://commons.wikimedia.org/wiki/File:Temotu-languages.png#/media/File:Temotu-languages.png" target="_blank">Map of Temotu languages</a> (2015), Wikimedia Commons. Based on publications by <i>Ethnologue</i>, Boerger (2007), and François (2009).</small></td>
 </tr></tbody>
 </table>
+
+&nbsp;
 
 #### Language contact
 
@@ -120,13 +122,13 @@ Looking further afield, Vanikoro is located only 150&nbsp;km from the Torres isl
 
 That said, the myth of the “[_Tamate_](../units/teanu-tamate_1)” spirits tells us how certain dancing headdresses were once borrowed from northern Vanuatu people – perhaps due to a fortuitous encounter [[read the myth here](http://alex.francois.online.fr/AFtxt_tea-tamate_e.htm)]. The word _Tamate_ indeed means ‘spirit; ritual headdress’ in Mota, one of the languages of the Banks islands (Ivens 1931, Vienne 1996). In total, Teanu has five words that were borrowed from Mota ([_Tamate_](../units/teanu-tamate_1) ‘spirit represented in dances’; [_marama_](../units/teanu-marama_1) ‘world’; [_tapepa_](../units//teanu-tapepa_1) ‘present’; [_totokale_](../units/teanu-totokale_1) ‘picture’; [_wolowolo_](../units/teanu-wolowolo_1) ‘a&nbsp;cross’). These may have entered the Teanu language at the end of the 19th century, when Mota had been chosen by the Melanesian Mission as the language of Christianization for this part of Melanesia.
 
-<table class="unstyled" style="max-width: 500px; border:0; margin-left: 20px;">
+<table class="unstyled" style="max-width: 500px; border:0; margin: 20px;">
 <tbody><tr>
 <td><a href="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" target="_blank">
 <img src="https://cdstar.eva.mpg.de/bitstreams/EAEA0-0C72-4DC9-4BBF-0/Tamate_dancing.jpg" alt="Tamate dance" title="Tamate dance"></a></td>
 </tr>
 <tr style="font-style:italic;">
-<td>Fig.&nbsp;3 - The dance of the <a href="../units/teanu-tamate_1" target="_blank"><i>Tamate</i> spirits</a>, a tradition ultimately borrowed from Vanuatu.</td>
+<td>Fig.&nbsp;3 - The dance of the <a href="../units/teanu-tamate_1" target="_blank"><i>Tamate</i> spirits</a>, a tradition ultimately borrowed from&nbsp;Vanuatu.</td>
 </tr></tbody>
 </table> 
 
@@ -147,7 +149,7 @@ My second trip was in 2012, with a group of geologists who took me with them for
 
 Altogether, my linguistic exposure to the language of Teanu was about 29 days in total. But thanks to my knowledge of nearby Vanuatu languages, and to a linguistic questionnaire I had designed (François 2019), I&nbsp;was able to speak and understand Teanu early enough to hold conversations and record naturalistic samples of the language.
 
-My methodology in the field combined language learning, targeted elicitation, and the recording of spontaneous speech in the form of conversations or narratives. Out of the 73 items I recorded in Teanu, 43 were narratives; I transcribed 22 of these with the help of native speakers, yielding a digital corpus of 18,800 words. Among those transcribed texts, <a href="https://tiny.cc/AF-ark_Teanu" target="_blank">several are displayed online</a>, in open access (_Pangloss collection_, CNRS). The same archive hosts the valuable recordings I made <a href="https://pangloss.cnrs.fr/corpus/Lovono?lang=en&mode=pro" target="_blank">in Lovono</a> and <a href="https://pangloss.cnrs.fr/corpus/Tanema?lang=en&mode=pro" target="_blank">in Tanema</a>.
+My methodology in the field combined language learning, targeted elicitation, and the recording of spontaneous speech in the form of conversations or narratives. Out of the 73 items I recorded in Teanu, 43 were narratives; I transcribed 22 of these with the help of native speakers, yielding a digital corpus of 18,800 words. Among those transcribed texts, <a href="https://tiny.cc/AF-ark_Teanu" target="_blank">several are displayed online</a>, in open access (_Pangloss Collection_, CNRS). The same archive hosts the valuable recordings I made <a href="https://pangloss.cnrs.fr/corpus/Lovono?lang=en&mode=pro" target="_blank">in Lovono</a> and <a href="https://pangloss.cnrs.fr/corpus/Tanema?lang=en&mode=pro" target="_blank">in Tanema</a>.
 
 &nbsp;
 <div style="clear:both;"></div>
@@ -161,9 +163,9 @@ It contains about 1900 entries in total, 2800 sense definitions, and 2800 exampl
 While the present _Dictionaria_ edition includes all my lexical data, interested readers can find the same data under a different presentation, on [_tiny.cc/Vanikoro-dict_](https://tiny.cc/Vanikoro-dict).
 
 ### Special features 
-This dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry  [**_ngiro_**](../units/teanu-ngiro_1) ‘wind’ has examples linking to original texts, such as [doi:Pangloss-0003352#S106](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:Pangloss-0003351#S16](https://doi.org/10.24397/pangloss-0003351#S16).
+This dictionary analyzes the words and phrases of the Teanu language, providing definitions in English, together with grammatical comments whenever necessary. It highlights the **polysemy** of many words, and illustrates each sense with example sentences. Most of these examples are taken from my text corpus. In fact, some provide a DOI link to hear the sentence in its original context: e.g. the entry  [**_ngiro_**](../units/teanu-ngiro_1) ‘wind’ has examples linking to original texts, such as [doi:_Pangloss-0003352#S106_](https://doi.org/10.24397/pangloss-0003352#S106) or [doi:_Pangloss-0003351#S16_](https://doi.org/10.24397/pangloss-0003351#S16).
 
-The present work pays attention not just to language and grammar, but also to **culture and society**. Many entries come with photographs, and/or with encyclopedic notes: see, for example, entries [_tolosai_](../units/teanu-tolosai_1) 'loincloth', [_savene_](../units/teanu-savene_1) 'valuable mat', [_nuduro_](../units/teanu-nuduro_2) 'scareline', [_viavia mamdeuko_](../units/teanu-viavia_mamdeuko_1) 'feather money'…
+The present work pays attention not just to language and grammar, but also to **culture and society**. Many entries come with photographs and/or encyclopedic notes: see, for example, entries [_tolosai_](../units/teanu-tolosai_1) 'loincloth', [_savene_](../units/teanu-savene_1) 'valuable mat', [_jokoro_](../units/teanu-jokoro_1) 'bamboo', [_kolokolo_](../units/teanu-kolokolo_1) 'breast plate', [_viavia mamdeuko_](../units/teanu-viavia_mamdeuko_1) 'feather money'…
 
 Entries usually feature a broad array of **cross-references** to other words: heterosemes (see §&nbsp;[_Lexical flexibility_](#section16)); antonyms; synonyms; subentries and other derived phrases; and more generally, any other words connected one way or the other. A few dozen entries even provide a whole set of links for a given **lexical domain** – for example:
 
@@ -194,7 +196,7 @@ Many entries are assigned some semantic fields. The following table provides a k
 
 _Table 1 – Semantic fields used in this dictionary_
 
-<table class="table table-bordered" style="font-size:88%;">
+<table class="table table-bordered" style="font-size:92%;">
 <tbody>
     <tr>
         <th width="60">Abbr</th>
@@ -281,7 +283,7 @@ An overview of the grammar of Teanu can be found in Tryon (2002) and in Françoi
 ### Orthography 
 
 All forms in this dictionary are transcribed in the language's orthography, accompanied by their phonetic transcription. Teanu's alphabetical order is:
-<div style="text-align:center;">{&nbsp;<strong>a &nbsp; b &nbsp; bw &nbsp; d &nbsp; e &nbsp; g &nbsp; i &nbsp; j &nbsp; k &nbsp; l &nbsp; m &nbsp; mw &nbsp; n &nbsp; ng &nbsp; ñ &nbsp; o &nbsp; p &nbsp; pw &nbsp; r &nbsp; s &nbsp; t&nbsp;&nbsp;&nbsp;u&nbsp;&nbsp;&nbsp;v&nbsp;&nbsp;&nbsp;w</strong>&nbsp;}.</div>
+<div style="text-align:center;">{&nbsp; <strong>a &nbsp; b &nbsp; bw &nbsp; d &nbsp; e &nbsp; g &nbsp; i &nbsp; j &nbsp; k &nbsp; l &nbsp; m &nbsp; mw &nbsp; n &nbsp; ng &nbsp; ñ &nbsp; o &nbsp; p &nbsp; pw &nbsp; r &nbsp; s &nbsp; t&nbsp;&nbsp;&nbsp;u&nbsp;&nbsp;&nbsp;v&nbsp;&nbsp;&nbsp;w</strong> &nbsp;}.</div>
 
 &nbsp;
 
@@ -292,7 +294,7 @@ Teanu has 19 phonemic consonants. Table 2 lists the phonemes themselves (using I
 
 _Table 2 – The 19 phonemic consonants of Teanu_
 
-<table class="table table-bordered" style="text-align:left">
+<table class="table table-bordered" style="text-align:left" cellpadding="8">
 <tbody style="white-space:nowrap;">
 <tr>
 <th></th>
@@ -372,6 +374,7 @@ _Table 2 – The 19 phonemic consonants of Teanu_
 &nbsp;
 
 - The phoneme /v/ can surface as voiced [v], but also as voiceless [f], especially word-initially: e.g. [_vede_](../units/teanu-vede_1) [feⁿde] ‘pandanus’; [_evele_](../units/teanu-evele_1) [evele] ~ [efele] ‘falcon’.
+
 - There is no phonemic palatal glide _y_ [j]: it only exists as an allophone of /i/ before another vowel: e.g. [_iebe_](../units/teanu-iebe_1) [i.e.ᵐbe] ~ [je.ᵐbe] ‘besom, broom’.
 
 &nbsp;
@@ -380,7 +383,7 @@ Teanu has 5 vowels, all short.
 
 _Table 3 – The 5 vowels of Teanu_
 
-<table class="table table-bordered" style="text-align:center">
+<table class="table table-bordered" style="text-align:center" width="300">
 <tbody><tr>
 <th>&nbsp;</th>
 <th width="100" style="text-align:center;">Front</th>
@@ -498,7 +501,7 @@ Providing each word class with a full description and illustration would require
 &nbsp;
 
 _Table 5 – The word classes used in this dictionary of Teanu_
-<table class="table table-bordered" style="font-size:88%;">
+<table class="table table-bordered" style="font-size:92%;">
 	<tbody>
 		<tr>
 			<th width="200">Word class</th>
@@ -627,7 +630,7 @@ _Table 5 – The word classes used in this dictionary of Teanu_
 		<tr>
 			<td><p><em>possessive</em></p></td>
 			<td><p>Possessive linker or classifier, inflected for person and number. [see&nbsp;§&nbsp;<a href="#section20" target="_blank"><em>Possessive marking</em></a>]</p></td>
-			<td><p><a href="../units/teanu-ono_1" target="_blank"><em>ono</em></a>&nbsp;&nbsp; &lsquo;your (food+): 2sg form of edible classifier&rsquo;</p></td>
+			<td><p><a href="../units/teanu-ono_1" target="_blank"><em>ono</em></a>&nbsp;&nbsp; &lsquo;your (food+): 2sg form of food classifier&rsquo;</p></td>
 		</tr>
 		<tr>
 			<td><p><em>postverb</em></p></td>
@@ -881,7 +884,6 @@ The following examples illustrate the basic morphosyntax of personal indexes –
     <td colspan="10" valign="top">&lsquo;I&rsquo;ve seen you, but you haven&rsquo;t seen me yet.&rsquo;</td>
   </tr>
 </table>
-&nbsp;
 <table cellspacing="0" cellpadding="3px">
   <tr style="font-style:italic;">
     <td>(4)</td>
@@ -904,14 +906,15 @@ The following examples illustrate the basic morphosyntax of personal indexes –
     <td colspan="5">&lsquo;They (two) will stay with us.&rsquo;</td>
   </tr>
 </table>
+&nbsp;
 
 #### Collocutive vs. dislocutive prefixes
 
 The list of subject prefixes shows a typologically unusual pattern. For each non-singular number, the language co-expresses:
-* 3rd person = 1st inclusive prefixes (dual [_la-_](../units/teanu-la-_1), plural [_li-_](../units/teanu-li-_1) / [_le-_](../units/teanu-le-_1)) <br/>
-→&nbsp;“Collocutive” category
-* 1 exclusive = 2nd person prefixes (dual [_ba-_](../units/teanu-ba-_1), plural [_pi-_](../units/teanu-pi-_1) / [_pe-_](../units/teanu-pe-_1)) <br/>
-→&nbsp;“Dislocutive” category
+
+- 3rd person = 1st inclusive prefixes (dual [_la-_](../units/teanu-la-_1), plural [_li-_](../units/teanu-li-_1) / [_le-_](../units/teanu-le-_1)) <br/>→&nbsp;“Collocutive” category
+
+- 1 exclusive = 2nd person prefixes (dual [_ba-_](../units/teanu-ba-_1), plural [_pi-_](../units/teanu-pi-_1) / [_pe-_](../units/teanu-pe-_1)) <br/>→&nbsp;“Dislocutive” category
 
 François (2014) coined new terms for these two emic categories. The semantic divide is evidently based on whether a given prefix treats the speaker (‘I’) and the addressee (‘you’) together or not: 
 - “Collocutive” pronouns treat speaker and addressee as part of the same group (i.e. as both included in the grammatical subject in case of 1st inclusive reading; or both excluded in case of 3rd person);
@@ -992,6 +995,7 @@ Teanu encodes adnominal possession in a pattern {Possessed + Possessor}. Nouns a
 
   - <span style="font-variant: small-caps;">kinship nouns</span> – e.g. [_uku_](../units/teanu-uku_1) 'father-in-law (of s.o.)' <br/>→ _uk’ one_ ‘my father-in-law’, with kinship classifier [_one_](../units/teanu-one_1)
   - <span style="font-variant: small-caps;">relational nouns</span> – e.g. [_ma_](../units/teanu-ma_1) 'arm, hand (of s.o.)'; [_enga_](../units/teanu-enga_1) 'name (of s.o.)', <br/>→ _enga ene_ ‘my name’, with a direct construction.
+&nbsp;
 
 #### Encoding of the possessor
 
@@ -1112,11 +1116,13 @@ _Table 7 – Personal possessives in Teanu_
 I collected the following text in May 2005, in the village of Temwo, from Chief †Bartholomew Alungo.
 
 Chief Alungo explains how young boys are traditionally initiated in the Boys’ Club house ([_**Toplau mwa gete**_](../units/teanu-Toplau_mwa_gete_1)). Similar to a boarding school, teenage boys usually live in that house for several years.
-
 This short text can serve as a sample to illustrate how sentences are typically organised in Teanu. 
-<table border="0" cellspacing="0" cellpadding="3">
+
+&nbsp;
+
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
 	<tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">1.</th>
+    <th rowspan="3" width="30" valign="top">1.</th>
     <td>Toplau</td>
     <td>mwa</td>
     <td>gete,</td>
@@ -1124,7 +1130,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>li-koie</td>
     <td>tae,</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>men&rsquo;s.club</td>
     <td>house.of</td>
     <td>young.boys</td>
@@ -1132,14 +1138,14 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>3p:<span style="font-variant: small-caps;">rl</span>‑enter </td>
     <td><span style="font-variant: small-caps;">neg</span></td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
-    <td colspan="8">“The Young boys&rsquo; Club is a place where women cannot go; </td>
+  <tr valign="top">
+    <td colspan="8">“The Boys&rsquo; club house is a place where women cannot go; </td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">2.</th>
+    <th rowspan="3" width="30" valign="top">2.</th>
     <td>dapa</td>
     <td>gete</td>
     <td>ñoko</td>
@@ -1148,7 +1154,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>li-te</td>
     <td>ene.</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td><span style="font-variant: small-caps;">pl</span></td>
     <td>young.boys</td>
     <td>only</td>
@@ -1157,14 +1163,14 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>3p:<span style="font-variant: small-caps;">rl</span>-stay </td>
     <td><span style="font-variant: small-caps;">loc:adv</span></td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">only young men are able to stay inside.</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">3.</th>
+    <th rowspan="3" width="30" valign="top">3.</th>
     <td>Noma,</td>
     <td>po</td>
     <td>apali</td>
@@ -1175,7 +1181,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>mamote</td>
     <td>aplaka,</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>before</td>
     <td><span style="font-variant: small-caps;">sub</span></td>
     <td>child</td>
@@ -1186,14 +1192,14 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>still</td>
     <td>small</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
-    <td colspan="9">Traditionally, as a boy grows up – as long as he is still a child</td>
+  <tr valign="top">
+    <td colspan="9">Traditionally, as a boy grows up – well, as long as he is still a child,</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">4.</th>
+    <th rowspan="3" width="30" valign="top">4.</th>
     <td>i-te</td>
     <td>tev&rsquo;</td>
     <td>ai&rsquo;</td>
@@ -1205,7 +1211,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>moe</td>
     <td>iadapa.</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>3s‑stay</td>
     <td>with</td>
     <td>father</td>
@@ -1217,14 +1223,14 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>house</td>
     <td><span style="font-variant: small-caps;">poss</span>:3pl</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="10">he&rsquo;ll live with his parents, in their house.</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">5.</th>
+    <th rowspan="3" width="30" valign="top">5.</th>
     <td>Bwara</td>
     <td>i-le</td>
     <td>pine,</td>
@@ -1234,24 +1240,24 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>ini</td>
     <td>mwatagete,</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>maybe</td>
     <td>3s‑go</td>
     <td>big</td>
-    <td>sub</td>
+    <td><span style="font-variant: small-caps;">sub</span></td>
     <td>until</td>
     <td>3s‑go</td>
     <td>3s</td>
     <td>young.boy</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">But when he grows up to be a teenager,</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">6.</th>
+    <th rowspan="3" width="30" valign="top">6.</th>
     <td>ai&rsquo;</td>
     <td>iape</td>
     <td>kape</td>
@@ -1260,23 +1266,23 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>none</td>
     <td>mijaka</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>father</td>
     <td><span style="font-variant: small-caps;">kin</span>:3s</td>
-    <td>irr</td>
+    <td><span style="font-variant: small-caps;">irr</span></td>
     <td>3s‑make</td>
     <td>bit</td>
     <td>food</td>
     <td>little</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">his father will prepare a little ceremony,</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">7.</th>
+    <th rowspan="3" width="30" valign="top">7.</th>
     <td>me</td>
     <td>kape</td>
     <td>i-la</td>
@@ -1286,7 +1292,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>ne</td>
     <td>toplau.</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td><span style="font-variant: small-caps;">purp</span></td>
     <td><span style="font-variant: small-caps;">irr</span></td>
     <td>3s‑take</td>
@@ -1296,14 +1302,14 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td><span style="font-variant: small-caps;">loc</span></td>
     <td>men&rsquo;s.club</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">so as to introduce his son into the men&rsquo;s club. </td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">8.</th>
+    <th rowspan="3" width="30" valign="top">8.</th>
     <td>Toplau</td>
     <td>pon,</td>
     <td>uña</td>
@@ -1313,7 +1319,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>wopine</td>
     <td>li-kilasi</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>men&rsquo;s.club </td>
     <td><span style="font-variant: small-caps;">topic</span></td>
     <td><span style="font-variant: small-caps;">pl</span></td>
@@ -1323,14 +1329,14 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>great.men</td>
     <td>3p:<span style="font-variant: small-caps;">rl</span>‑address</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">In that club, chiefs and elders give speeches,</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" text-align="right" valign="top">9.</th>
+    <th rowspan="3" width="30" valign="top">9.</th>
     <td>we</td>
     <td>li-waivo</td>
     <td>uña</td>
@@ -1340,24 +1346,24 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>telepakau</td>
     <td>akapa.</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>or</td>
     <td>3p:<span style="font-variant: small-caps;">rl</span>‑teach</td>
-    <td>pl</td>
-    <td>pl</td>
+    <td><span style="font-variant: small-caps;">pl</span></td>
+    <td><span style="font-variant: small-caps;">pl</span></td>
     <td>young.boys</td>
     <td><span style="font-variant: small-caps;">obl</span></td>
     <td>law</td>
     <td><span style="font-variant: small-caps;">food</span>:1in.pl</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">they teach youngsters about our customary laws.</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">10.</th>
+    <th rowspan="3" width="30" valign="top">10.</th>
     <td>Idi</td>
     <td>pe</td>
     <td>li-te</td>
@@ -1367,7 +1373,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>i-wene</td>
     <td>i-wene,</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td><span style="font-variant: small-caps;">gnrc</span></td>
     <td><span style="font-variant: small-caps;">sub</span></td>
     <td>3p:<span style="font-variant: small-caps;">rl</span>‑stay</td>
@@ -1377,33 +1383,33 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>3s‑go.on</td>
     <td>3s‑go.on</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">Those who stay in the club for a long time,</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">11.</th>
+    <th rowspan="3" width="30" valign="top">11.</th>
     <td>ebieve</td>
     <td>kape</td>
     <td>i-pu</td>
     <td>i-sali.</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>year</td>
     <td><span style="font-variant: small-caps;">irr</span></td>
     <td>3s‑run</td>
     <td>3s‑drop</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">entire years will go by [before they can leave].</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">12.</th>
+    <th rowspan="3" width="30" valign="top">12.</th>
     <td>Mwatagete</td>
     <td>kape</td>
     <td>i-te</td>
@@ -1412,23 +1418,23 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>ra</td>
     <td>ra</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>young.boy</td>
     <td><span style="font-variant: small-caps;">irr</span></td>
     <td>3s‑stay</td>
     <td><span style="font-variant: small-caps;">loc</span></td>
     <td>men&rsquo;s.club</td>
-    <td><span style="font-variant: small-caps;">contin</span></td>
-    <td><span style="font-variant: small-caps;">contin</span></td>
+    <td><span style="font-variant: small-caps;">dur</span></td>
+    <td><span style="font-variant: small-caps;">dur</span></td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">A young boy will live in the men&rsquo;s club for a long time,</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">13.</th>
+    <th rowspan="3" width="30" valign="top">13.</th>
     <td>basavono</td>
     <td>po</td>
     <td>kape</td>
@@ -1439,7 +1445,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>i-min&rsquo;</td>
     <td>ini</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>moment</td>
     <td><span style="font-variant: small-caps;">sub</span></td>
     <td><span style="font-variant: small-caps;">irr</span></td>
@@ -1450,14 +1456,14 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>3s‑give</td>
     <td>3s</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="9">until his father arranges him a wife.</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">14.</th>
+    <th rowspan="3" width="30" valign="top">14.</th>
     <td>ka</td>
     <td>i-ke</td>
     <td>mina</td>
@@ -1467,7 +1473,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>kape</td>
     <td>i-vo</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>and</td>
     <td>3s‑exit</td>
     <td>from</td>
@@ -1477,14 +1483,14 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td><span style="font-variant: small-caps;">irr</span></td>
     <td>3s‑build</td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">That is when he will come out of the men&rsquo;s club, ready to build his own house</td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="3">
+<table border="0" cellspacing="1" cellpadding="4" style="margin:10px;">
   <tr style="font-style:italic;">
-    <th rowspan="3" width="25" align="right" valign="top">15.</th>
+    <th rowspan="3" width="30" valign="top">15.</th>
     <td>moe</td>
     <td>iape</td>
     <td>ini</td>
@@ -1492,7 +1498,7 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>i-te</td>
     <td>ñei.</td>
   </tr>
-  <tr style="font-size:88%;">
+  <tr style="font-size:90%;">
     <td>house</td>
     <td><span style="font-variant: small-caps;">poss</span>:3s</td>
     <td>3s</td>
@@ -1500,12 +1506,12 @@ This short text can serve as a sample to illustrate how sentences are typically 
     <td>3s‑stay</td>
     <td><span style="font-variant: small-caps;">obl:anaph</span></td>
   </tr>
-  <tr style="line-height: 150%;" valign="top">
+  <tr valign="top">
     <td colspan="8">where he can live on his own.”</td>
   </tr>
 </table>
-<p>&nbsp;</p>
 
+&nbsp;
 
 ## Acknowledgments 
 
@@ -1514,6 +1520,8 @@ It is not possible to list here the many Teanu speakers who have taught me words
 I am also highly indebted to the many men and women who told me their countless stories or sang me their songs in Teanu: Teliki Thomas (†2009), Faithful Bila (†2010), Daniel Bakap (†2014), Teliki James Cook Pae (†2014), Bartholomew Alungo (†2020), Teliki Ben Tua Pine (†2010), Willy Usao (†2017), Marion Laki (†), Mary Laulei (†), Mofet Bwana, Wolta Simevio.
 
 Finally, I am grateful to several scholars who, over the years, took time to discuss with me various aspects of my language data from Vanikoro – including Even Hovdhaugen (†), Darrell Tryon (†), Piet Lincoln, Andrew Pawley, Malcolm Ross, Åshild Næss, Brenda Boerger, Bill Palmer, Siva Kalyan, and Ulrike Mosel – to name but a few. Thanks also are due to the team of _Dictionaria_, whose advice improved the quality of this dictionary considerably: Iren Hartmann, Johannes Englisch, Barbara Stiebels, and Martin Haspelmath.
+
+&nbsp;
 
 ## References 
 
